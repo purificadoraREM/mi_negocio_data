@@ -1,352 +1,653 @@
 [
   {
-    "Folio": "VMEN-53",
+    "ID": 26,
     "Fecha": "2025-11-03",
-    "Hora": "09:01:27",
-    "Cliente": "N/A",
-    "Articulo": "kraken",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Mixto (Efectivo + Tarjeta)",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 86.21,
-    "Subtotal": 86.21,
-    "Iva": 13.79,
-    "Total": 100.00
+    "Nombre": "jeny",
+    "HoraEntrada": "16:36:39.2539188",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-54",
-    "Fecha": "2025-11-03",
-    "Hora": "09:03:16",
-    "Cliente": "N/A",
-    "Articulo": "kraken",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Tarjeta",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 86.21,
-    "Subtotal": 86.21,
-    "Iva": 13.79,
-    "Total": 100.00
+    "ID": 27,
+    "Fecha": "2025-11-04",
+    "Nombre": "jeny",
+    "HoraEntrada": "12:03:40.3714398",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-55",
-    "Fecha": "2025-11-03",
-    "Hora": "09:20:05",
-    "Cliente": "N/A",
-    "Articulo": "Garrafon con asa",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Tarjeta",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 86.21,
-    "Subtotal": 86.21,
-    "Iva": 13.79,
-    "Total": 100.00
-  },
-  {
-    "Folio": "VMEN-56",
-    "Fecha": "2025-11-03",
-    "Hora": "09:20:38",
-    "Cliente": "N/A",
-    "Articulo": "Garrafon sin asa",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Efectivo",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 172.41,
-    "Subtotal": 172.41,
-    "Iva": 27.59,
-    "Total": 200.00
-  },
-  {
-    "Folio": "VMEN-57",
-    "Fecha": "2025-11-03",
-    "Hora": "13:10:00",
-    "Cliente": "N/A",
-    "Articulo": "Garrafon sin asa",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Efectivo",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 172.41,
-    "Subtotal": 172.41,
-    "Iva": 27.59,
-    "Total": 200.00
-  },
-  {
-    "Folio": "VMEN-58",
+    "ID": 28,
     "Fecha": "2025-11-05",
-    "Hora": "16:05:58",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Efectivo",
-    "Cantidad": 2.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 20.00,
-    "Iva": 0.00,
-    "Total": 20.00
+    "Nombre": "jeny",
+    "HoraEntrada": "16:05:46.9091247",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-59",
+    "ID": 29,
     "Fecha": "2025-11-05",
-    "Hora": "16:07:01",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Tarjeta",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 10.00,
-    "Iva": 0.00,
-    "Total": 10.00
+    "Nombre": "jeny",
+    "HoraEntrada": "16:11:49.1286590",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-60",
+    "ID": 30,
     "Fecha": "2025-11-05",
-    "Hora": "16:07:23",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Transferencia",
-    "Cantidad": 3.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 30.00,
-    "Iva": 0.00,
-    "Total": 30.00
+    "Nombre": "jeny",
+    "HoraEntrada": "16:47:19.8731099",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-61",
+    "ID": 31,
     "Fecha": "2025-11-05",
-    "Hora": "16:09:45",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Mixto (Efectivo + Transferencia)",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 10.00,
-    "Iva": 0.00,
-    "Total": 10.00
+    "Nombre": "jeny",
+    "HoraEntrada": "16:51:53.9432216",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-62",
+    "ID": 32,
     "Fecha": "2025-11-05",
-    "Hora": "16:10:07",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Mixto (Efectivo + Transferencia)",
-    "Cantidad": 2.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 20.00,
-    "Iva": 0.00,
-    "Total": 20.00
+    "Nombre": "jeny",
+    "HoraEntrada": "16:53:29.1562898",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-63",
+    "ID": 33,
     "Fecha": "2025-11-07",
-    "Hora": "08:47:38",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Efectivo",
-    "Cantidad": 7.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 70.00,
-    "Iva": 0.00,
-    "Total": 70.00
+    "Nombre": "jeny",
+    "HoraEntrada": "08:47:23.2622253",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-64",
+    "ID": 34,
     "Fecha": "2025-11-07",
-    "Hora": "08:47:45",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Tarjeta",
-    "Cantidad": 2.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 20.00,
-    "Iva": 0.00,
-    "Total": 20.00
+    "Nombre": "jeny",
+    "HoraEntrada": "08:53:06.8926707",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-65",
+    "ID": 35,
     "Fecha": "2025-11-07",
-    "Hora": "08:47:57",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Transferencia",
-    "Cantidad": 6.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 60.00,
-    "Iva": 0.00,
-    "Total": 60.00
+    "Nombre": "jeny",
+    "HoraEntrada": "08:54:28.0952939",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-66",
+    "ID": 36,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "08:59:50.5111869",
+    "HoraSalida": null
+  },
+  {
+    "ID": 37,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:01:04.8248987",
+    "HoraSalida": null
+  },
+  {
+    "ID": 38,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:01:48.6342713",
+    "HoraSalida": null
+  },
+  {
+    "ID": 39,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:09:02.9041388",
+    "HoraSalida": null
+  },
+  {
+    "ID": 40,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:16:46.1634593",
+    "HoraSalida": null
+  },
+  {
+    "ID": 41,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:18:46.0323843",
+    "HoraSalida": null
+  },
+  {
+    "ID": 42,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:22:36.2117881",
+    "HoraSalida": null
+  },
+  {
+    "ID": 43,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:28:17.8250820",
+    "HoraSalida": null
+  },
+  {
+    "ID": 44,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:33:52.4508057",
+    "HoraSalida": null
+  },
+  {
+    "ID": 45,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:44:36.9809885",
+    "HoraSalida": null
+  },
+  {
+    "ID": 46,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:46:19.8768712",
+    "HoraSalida": null
+  },
+  {
+    "ID": 47,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:16:14.4178912",
+    "HoraSalida": null
+  },
+  {
+    "ID": 48,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:22:52.6369975",
+    "HoraSalida": null
+  },
+  {
+    "ID": 49,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:27:01.5625554",
+    "HoraSalida": null
+  },
+  {
+    "ID": 50,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:28:13.1781603",
+    "HoraSalida": null
+  },
+  {
+    "ID": 51,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:32:20.7054671",
+    "HoraSalida": null
+  },
+  {
+    "ID": 52,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:35:24.9058962",
+    "HoraSalida": null
+  },
+  {
+    "ID": 53,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "13:52:49.9326228",
+    "HoraSalida": null
+  },
+  {
+    "ID": 54,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "14:22:22.0253124",
+    "HoraSalida": null
+  },
+  {
+    "ID": 55,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "14:35:09.2530783",
+    "HoraSalida": null
+  },
+  {
+    "ID": 56,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "15:15:29.3481214",
+    "HoraSalida": null
+  },
+  {
+    "ID": 57,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "15:19:00.1746011",
+    "HoraSalida": null
+  },
+  {
+    "ID": 58,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "15:53:41.1534085",
+    "HoraSalida": null
+  },
+  {
+    "ID": 59,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "15:59:11.1271611",
+    "HoraSalida": null
+  },
+  {
+    "ID": 60,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:03:57.7111526",
+    "HoraSalida": null
+  },
+  {
+    "ID": 61,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:05:04.1421380",
+    "HoraSalida": null
+  },
+  {
+    "ID": 62,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:37:39.1546103",
+    "HoraSalida": null
+  },
+  {
+    "ID": 63,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:41:40.2341592",
+    "HoraSalida": null
+  },
+  {
+    "ID": 64,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:44:52.6631252",
+    "HoraSalida": null
+  },
+  {
+    "ID": 65,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:45:48.6059694",
+    "HoraSalida": null
+  },
+  {
+    "ID": 66,
+    "Fecha": "2025-11-07",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:50:12.1555601",
+    "HoraSalida": null
+  },
+  {
+    "ID": 67,
     "Fecha": "2025-11-10",
-    "Hora": "10:48:48",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Efectivo",
-    "Cantidad": 6.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 60.00,
-    "Iva": 0.00,
-    "Total": 60.00
+    "Nombre": "jeny",
+    "HoraEntrada": "09:10:06.0406804",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-67",
+    "ID": 68,
     "Fecha": "2025-11-10",
-    "Hora": "10:49:45",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Tarjeta",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 10.00,
-    "Iva": 0.00,
-    "Total": 10.00
+    "Nombre": "jeny",
+    "HoraEntrada": "09:12:31.3899819",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-68",
+    "ID": 69,
     "Fecha": "2025-11-10",
-    "Hora": "10:51:14",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Transferencia",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 10.00,
-    "Iva": 0.00,
-    "Total": 10.00
+    "Nombre": "jeny",
+    "HoraEntrada": "09:27:19.3080543",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-69",
+    "ID": 70,
     "Fecha": "2025-11-10",
-    "Hora": "10:51:47",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Mixto (Efectivo + Tarjeta)",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 10.00,
-    "Iva": 0.00,
-    "Total": 10.00
+    "Nombre": "jeny",
+    "HoraEntrada": "09:31:11.3685222",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-70",
+    "ID": 71,
     "Fecha": "2025-11-10",
-    "Hora": "10:52:08",
-    "Cliente": "N/A",
-    "Articulo": "asd",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Mixto (Efectivo + Transferencia)",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 10.00,
-    "Iva": 0.00,
-    "Total": 10.00
+    "Nombre": "jeny",
+    "HoraEntrada": "09:41:02.8495828",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-71",
+    "ID": 72,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:42:29.1190697",
+    "HoraSalida": null
+  },
+  {
+    "ID": 73,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:55:14.9194699",
+    "HoraSalida": null
+  },
+  {
+    "ID": 74,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:01:25.1053346",
+    "HoraSalida": null
+  },
+  {
+    "ID": 75,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:03:48.0849506",
+    "HoraSalida": null
+  },
+  {
+    "ID": 76,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:10:25.5686014",
+    "HoraSalida": null
+  },
+  {
+    "ID": 77,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:13:30.8270415",
+    "HoraSalida": null
+  },
+  {
+    "ID": 78,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:14:19.4424055",
+    "HoraSalida": null
+  },
+  {
+    "ID": 79,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:15:38.0861554",
+    "HoraSalida": null
+  },
+  {
+    "ID": 80,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:22:11.7731981",
+    "HoraSalida": null
+  },
+  {
+    "ID": 81,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:23:15.1130034",
+    "HoraSalida": null
+  },
+  {
+    "ID": 82,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:23:40.5644089",
+    "HoraSalida": null
+  },
+  {
+    "ID": 83,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:28:05.0428987",
+    "HoraSalida": null
+  },
+  {
+    "ID": 84,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:29:06.5178089",
+    "HoraSalida": null
+  },
+  {
+    "ID": 85,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:30:02.0650797",
+    "HoraSalida": null
+  },
+  {
+    "ID": 86,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:37:01.6073819",
+    "HoraSalida": null
+  },
+  {
+    "ID": 87,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:41:29.5098699",
+    "HoraSalida": null
+  },
+  {
+    "ID": 88,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:47:24.1459127",
+    "HoraSalida": null
+  },
+  {
+    "ID": 89,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:50:18.2222448",
+    "HoraSalida": null
+  },
+  {
+    "ID": 90,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:25:21.8914950",
+    "HoraSalida": null
+  },
+  {
+    "ID": 91,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:27:15.6073116",
+    "HoraSalida": null
+  },
+  {
+    "ID": 92,
+    "Fecha": "2025-11-10",
+    "Nombre": "marco",
+    "HoraEntrada": "11:28:35.5379697",
+    "HoraSalida": null
+  },
+  {
+    "ID": 93,
+    "Fecha": "2025-11-10",
+    "Nombre": "marco",
+    "HoraEntrada": "11:29:56.3313586",
+    "HoraSalida": null
+  },
+  {
+    "ID": 94,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:44:55.5150790",
+    "HoraSalida": null
+  },
+  {
+    "ID": 95,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:48:43.0243376",
+    "HoraSalida": null
+  },
+  {
+    "ID": 96,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:51:51.7891148",
+    "HoraSalida": null
+  },
+  {
+    "ID": 97,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:52:59.8312859",
+    "HoraSalida": null
+  },
+  {
+    "ID": 98,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "12:00:50.9415155",
+    "HoraSalida": null
+  },
+  {
+    "ID": 99,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "12:02:45.9010279",
+    "HoraSalida": null
+  },
+  {
+    "ID": 100,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "12:03:46.7066139",
+    "HoraSalida": null
+  },
+  {
+    "ID": 101,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "12:07:39.0830556",
+    "HoraSalida": null
+  },
+  {
+    "ID": 102,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "12:08:57.7443011",
+    "HoraSalida": null
+  },
+  {
+    "ID": 103,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "12:10:14.7237884",
+    "HoraSalida": null
+  },
+  {
+    "ID": 104,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:01:34.6463052",
+    "HoraSalida": null
+  },
+  {
+    "ID": 105,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:39:22.9346788",
+    "HoraSalida": null
+  },
+  {
+    "ID": 106,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:42:57.5681539",
+    "HoraSalida": null
+  },
+  {
+    "ID": 107,
+    "Fecha": "2025-11-10",
+    "Nombre": "jeny",
+    "HoraEntrada": "16:57:45.6779926",
+    "HoraSalida": null
+  },
+  {
+    "ID": 108,
     "Fecha": "2025-11-13",
-    "Hora": "09:48:42",
-    "Cliente": "N/A",
-    "Articulo": "cosa",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Tarjeta",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 10.00,
-    "Iva": 0.00,
-    "Total": 10.00
+    "Nombre": "jeny",
+    "HoraEntrada": "10:53:17.7775465",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-72",
+    "ID": 109,
     "Fecha": "2025-11-13",
-    "Hora": "09:49:59",
-    "Cliente": "N/A",
-    "Articulo": "cosa",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Transferencia",
-    "Cantidad": 2.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 20.00,
-    "Iva": 0.00,
-    "Total": 20.00
+    "Nombre": "jeny",
+    "HoraEntrada": "11:00:18.1023354",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-73",
+    "ID": 110,
     "Fecha": "2025-11-13",
-    "Hora": "10:53:32",
-    "Cliente": "N/A",
-    "Articulo": "cosa",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Tarjeta",
-    "Cantidad": 7.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 70.00,
-    "Iva": 0.00,
-    "Total": 70.00
+    "Nombre": "jeny",
+    "HoraEntrada": "11:02:20.7304848",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-74",
-    "Fecha": "2025-11-13",
-    "Hora": "11:10:52",
-    "Cliente": "N/A",
-    "Articulo": "cosa",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Tarjeta",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 10.00,
-    "Iva": 0.00,
-    "Total": 10.00
+    "ID": 111,
+    "Fecha": "2025-11-20",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:32:55.5768982",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-75",
-    "Fecha": "2025-11-13",
-    "Hora": "11:11:04",
-    "Cliente": "N/A",
-    "Articulo": "cosa",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Efectivo",
-    "Cantidad": 2.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 20.00,
-    "Iva": 0.00,
-    "Total": 20.00
+    "ID": 112,
+    "Fecha": "2025-11-20",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:38:03.2959722",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-76",
-    "Fecha": "2025-11-13",
-    "Hora": "11:11:14",
-    "Cliente": "N/A",
-    "Articulo": "cosa",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Mixto (Efectivo + Tarjeta)",
-    "Cantidad": 2.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 20.00,
-    "Iva": 0.00,
-    "Total": 20.00
+    "ID": 113,
+    "Fecha": "2025-11-20",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:51:54.5946498",
+    "HoraSalida": null
   },
   {
-    "Folio": "VMEN-77",
+    "ID": 114,
+    "Fecha": "2025-11-20",
+    "Nombre": "jeny",
+    "HoraEntrada": "10:31:28.2535221",
+    "HoraSalida": null
+  },
+  {
+    "ID": 115,
+    "Fecha": "2025-11-20",
+    "Nombre": "carlos fransisco bustamante carrillo",
+    "HoraEntrada": "11:24:42.5558784",
+    "HoraSalida": null
+  },
+  {
+    "ID": 116,
+    "Fecha": "2025-11-20",
+    "Nombre": "carlos fransisco bustamante carrillo",
+    "HoraEntrada": "11:27:26.8416434",
+    "HoraSalida": null
+  },
+  {
+    "ID": 117,
     "Fecha": "2025-11-21",
-    "Hora": "11:13:48",
-    "Cliente": "N/A",
-    "Articulo": "cosa",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Tarjeta",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 20.00,
-    "Subtotal": 20.00,
-    "Iva": 0.00,
-    "Total": 20.00
+    "Nombre": "jeny",
+    "HoraEntrada": "11:12:51.4248048",
+    "HoraSalida": null
+  },
+  {
+    "ID": 118,
+    "Fecha": "2025-11-21",
+    "Nombre": "jeny",
+    "HoraEntrada": "11:45:10.0574782",
+    "HoraSalida": null
   }
 ]
