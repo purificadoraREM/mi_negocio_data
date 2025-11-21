@@ -72,7 +72,7 @@
     "FondoFinal": 200.00
   },
   {
-    "CorteID": 91,
+    "CorteID": 92,
     "Fecha": "2025-11-21",
     "TotalVenta": 0.00,
     "TotalEfectivo": 0.00,
@@ -81,7 +81,7 @@
     "Sobro": 0.00,
     "Falto": 0.00,
     "Usuario": "rem",
-    "ReporteEnviado": false,
+    "ReporteEnviado": true,
     "Gasto": 0.00,
     "FondoInicial": 0.00,
     "SubTotalEsperado": 0.00,
