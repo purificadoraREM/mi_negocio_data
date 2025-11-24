@@ -88,5 +88,23 @@
     "EfectivoEsperado": 0.00,
     "EfectivoContado": 0.00,
     "FondoFinal": 0.00
+  },
+  {
+    "CorteID": 98,
+    "Fecha": "2025-11-24",
+    "TotalVenta": 0.00,
+    "TotalEfectivo": 0.00,
+    "TotalTarjeta": 0.00,
+    "TotalTransferencia": 0.00,
+    "Sobro": 0.00,
+    "Falto": 0.00,
+    "Usuario": "rem",
+    "ReporteEnviado": true,
+    "Gasto": 0.00,
+    "FondoInicial": 0.00,
+    "SubTotalEsperado": 0.00,
+    "EfectivoEsperado": 0.00,
+    "EfectivoContado": 0.00,
+    "FondoFinal": 0.00
   }
 ]
