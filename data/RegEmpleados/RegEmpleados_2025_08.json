@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "Fecha": "2025-08-18",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:13:49.2205483",
+    "HoraSalida": "09:14:12.8175224"
+  },
+  {
+    "ID": 2,
+    "Fecha": "2025-08-18",
+    "Nombre": "jeny",
+    "HoraEntrada": "09:18:35.0401113",
+    "HoraSalida": "09:18:44.1806741"
+  },
+  {
+    "ID": 3,
+    "Fecha": "2025-08-18",
+    "Nombre": "jeny",
+    "HoraEntrada": "14:21:51.3479385",
+    "HoraSalida": null
+  }
+]
