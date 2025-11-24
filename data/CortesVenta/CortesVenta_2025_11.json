@@ -90,11 +90,11 @@
     "FondoFinal": 0.00
   },
   {
-    "CorteID": 99,
+    "CorteID": 100,
     "Fecha": "2025-11-24",
-    "TotalVenta": 0.00,
+    "TotalVenta": 20.00,
     "TotalEfectivo": 0.00,
-    "TotalTarjeta": 0.00,
+    "TotalTarjeta": 20.00,
     "TotalTransferencia": 0.00,
     "Sobro": 0.00,
     "Falto": 0.00,
