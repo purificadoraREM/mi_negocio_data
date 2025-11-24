@@ -1,0 +1,16 @@
+[
+  {
+    "Folio": "VMEN-27",
+    "Fecha": "2025-09-04",
+    "Hora": "14:18:01",
+    "Cliente": "N/A",
+    "Articulo": "garrafon nuevo",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Transferencia",
+    "Cantidad": 19.00,
+    "PrecioUnitario": 94.83,
+    "Subtotal": 1801.77,
+    "Iva": 288.28,
+    "Total": 2090.00
+  }
+]
