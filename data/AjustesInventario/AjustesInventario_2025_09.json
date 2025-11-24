@@ -1,0 +1,65 @@
+[
+  {
+    "AjusteID": 2,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 1,
+    "Motivo": "prueba",
+    "Fecha": "2025-09-17",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 3,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 1,
+    "Motivo": "prueba",
+    "Fecha": "2025-09-17",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 4,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 100,
+    "Motivo": "pruebaramon",
+    "Fecha": "2025-09-17",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 5,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 100,
+    "Motivo": "prueba ramon",
+    "Fecha": "2025-09-17",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 6,
+    "ProductoID": 1,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 139,
+    "Motivo": "bolsas nuevas",
+    "Fecha": "2025-09-17",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 7,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 43,
+    "Motivo": "faltron",
+    "Fecha": "2025-09-17",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 8,
+    "ProductoID": 5,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 1,
+    "Motivo": "no se desconto la venta",
+    "Fecha": "2025-09-29",
+    "Usuario": "Gabriela Gracia"
+  }
+]
