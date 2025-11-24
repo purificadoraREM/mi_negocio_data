@@ -7,7 +7,7 @@
     "Motivo": "no hay fisicamente",
     "Fecha": "2025-11-01",
     "Usuario": "Gabriela Gracia"
-  },
+  }
   {
     "AjusteID": 12,
     "ProductoID": 3,
@@ -17,4 +17,5 @@
     "Fecha": "2025-11-18",
     "Usuario": "Gabriela Gracia"
   }
+
 ]
