@@ -1,0 +1,17 @@
+[
+  {
+    "Folio": "VMEN-27",
+    "Fecha": "2025-09-04",
+    "Hora": "14:18:01",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Transferencia",
+    "Subtotal": 1801.77,
+    "Iva": 288.28,
+    "Total": 2090.00,
+    "Efectivo": 0.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 2090.00,
+    "Usuario": "rem"
+  }
+]
