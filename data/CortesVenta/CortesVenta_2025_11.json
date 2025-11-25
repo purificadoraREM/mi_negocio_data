@@ -342,10 +342,10 @@
     "FondoFinal": 100.00
   },
   {
-    "CorteID": 86,
+    "CorteID": 87,
     "Fecha": "2025-11-24",
-    "TotalVenta": 80.00,
-    "TotalEfectivo": 80.00,
+    "TotalVenta": 360.00,
+    "TotalEfectivo": 360.00,
     "TotalTarjeta": 0.00,
     "TotalTransferencia": 0.00,
     "Sobro": 0.00,
@@ -354,9 +354,9 @@
     "ReporteEnviado": true,
     "Gasto": 0.00,
     "FondoInicial": 100.00,
-    "SubTotalEsperado": 180.00,
-    "EfectivoEsperado": 180.00,
-    "EfectivoContado": 180.00,
+    "SubTotalEsperado": 460.00,
+    "EfectivoEsperado": 460.00,
+    "EfectivoContado": 460.00,
     "FondoFinal": 100.00
   }
 ]
