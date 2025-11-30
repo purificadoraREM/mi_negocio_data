@@ -16,5 +16,14 @@
     "Motivo": "bolsa de hielo mama michel",
     "Fecha": "2025-11-18",
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 13,
+    "ProductoID": 5,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 1,
+    "Motivo": "NO SE DESCONTO AL VENDER",
+    "Fecha": "2025-11-29",
+    "Usuario": "Gabriela Gracia"
   }
 ]
