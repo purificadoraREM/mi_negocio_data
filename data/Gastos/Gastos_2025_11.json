@@ -31,5 +31,38 @@
     "FolioV": null,
     "Fecha": "2025-11-22",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-15",
+    "Concepto": "espojas",
+    "Monto": 20.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2025-11-29",
+    "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-16",
+    "Concepto": "MEDICAMENTO Esthela",
+    "Monto": 80.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2025-11-29",
+    "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-17",
+    "Concepto": "medicamento Esthela",
+    "Monto": 30.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2025-11-29",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
