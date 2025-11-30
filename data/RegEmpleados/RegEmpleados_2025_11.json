@@ -249,6 +249,20 @@
     "Fecha": "2025-11-28",
     "Nombre": "Gabriela Gracia",
     "HoraEntrada": "10:38:34.0062322",
+    "HoraSalida": "20:30:46.0102945"
+  },
+  {
+    "ID": 1129,
+    "Fecha": "2025-11-29",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "10:43:06.5347310",
+    "HoraSalida": "16:07:18.2178963"
+  },
+  {
+    "ID": 1130,
+    "Fecha": "2025-11-29",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "16:23:04.8513807",
     "HoraSalida": null
   }
 ]
