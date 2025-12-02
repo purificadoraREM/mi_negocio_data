@@ -1,0 +1,20 @@
+[
+  {
+    "CorteID": 95,
+    "Fecha": "2025-12-01",
+    "TotalVenta": 510.00,
+    "TotalEfectivo": 510.00,
+    "TotalTarjeta": 0.00,
+    "TotalTransferencia": 0.00,
+    "Sobro": 0.00,
+    "Falto": 0.00,
+    "Usuario": "Gabriela Gracia",
+    "ReporteEnviado": true,
+    "Gasto": 100.00,
+    "FondoInicial": 0.00,
+    "SubTotalEsperado": 510.00,
+    "EfectivoEsperado": 410.00,
+    "EfectivoContado": 410.00,
+    "FondoFinal": 0.00
+  }
+]
