@@ -1,0 +1,296 @@
+[
+  {
+    "ID": 8,
+    "Fecha": "2025-09-01",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "13:27:16.7809167",
+    "HoraSalida": "20:03:58.3929275"
+  },
+  {
+    "ID": 9,
+    "Fecha": "2025-09-02",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "13:54:03.5482132",
+    "HoraSalida": "20:08:16.6649535"
+  },
+  {
+    "ID": 10,
+    "Fecha": "2025-09-02",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "18:06:50.9028435",
+    "HoraSalida": "20:08:16.6649535"
+  },
+  {
+    "ID": 11,
+    "Fecha": "2025-09-03",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "12:29:25.8000523",
+    "HoraSalida": "20:05:31.7974096"
+  },
+  {
+    "ID": 12,
+    "Fecha": "2025-09-04",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "12:37:14.3233324",
+    "HoraSalida": "19:54:53.3577897"
+  },
+  {
+    "ID": 13,
+    "Fecha": "2025-09-05",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "12:49:47.9510924",
+    "HoraSalida": "15:13:50.7127692"
+  },
+  {
+    "ID": 14,
+    "Fecha": "2025-09-05",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "15:14:35.7169818",
+    "HoraSalida": "15:15:40.0089230"
+  },
+  {
+    "ID": 15,
+    "Fecha": "2025-09-05",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "15:16:02.4853314",
+    "HoraSalida": "15:49:42.7786369"
+  },
+  {
+    "ID": 16,
+    "Fecha": "2025-09-05",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "15:50:02.2745324",
+    "HoraSalida": "19:51:03.2927018"
+  },
+  {
+    "ID": 17,
+    "Fecha": "2025-09-06",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "10:48:32.3962411",
+    "HoraSalida": "20:47:04.8721343"
+  },
+  {
+    "ID": 18,
+    "Fecha": "2025-09-06",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "20:44:13.8488561",
+    "HoraSalida": "20:47:04.8721343"
+  },
+  {
+    "ID": 19,
+    "Fecha": "2025-09-07",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "20:44:40.6606479",
+    "HoraSalida": "20:59:24.9324948"
+  },
+  {
+    "ID": 20,
+    "Fecha": "2025-09-08",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "11:45:59.8753235",
+    "HoraSalida": "20:11:07.2633727"
+  },
+  {
+    "ID": 21,
+    "Fecha": "2025-09-09",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "11:38:31.7917794",
+    "HoraSalida": "12:06:33.1556830"
+  },
+  {
+    "ID": 22,
+    "Fecha": "2025-09-09",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "12:16:32.4895253",
+    "HoraSalida": "19:39:28.1689037"
+  },
+  {
+    "ID": 23,
+    "Fecha": "2025-09-09",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "16:31:09.7486709",
+    "HoraSalida": "19:39:28.1689037"
+  },
+  {
+    "ID": 24,
+    "Fecha": "2025-09-10",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "11:46:55.3341824",
+    "HoraSalida": "20:05:58.6295929"
+  },
+  {
+    "ID": 25,
+    "Fecha": "2025-09-10",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "12:44:45.5242723",
+    "HoraSalida": "20:05:58.6295929"
+  },
+  {
+    "ID": 26,
+    "Fecha": "2025-09-11",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "12:27:31.9567704",
+    "HoraSalida": "19:51:40.8811044"
+  },
+  {
+    "ID": 27,
+    "Fecha": "2025-09-12",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "11:33:18.5772015",
+    "HoraSalida": "17:32:17.0058219"
+  },
+  {
+    "ID": 28,
+    "Fecha": "2025-09-12",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "16:20:52.9398782",
+    "HoraSalida": "17:32:17.0058219"
+  },
+  {
+    "ID": 29,
+    "Fecha": "2025-09-12",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "17:39:26.0944431",
+    "HoraSalida": "21:09:33.0077886"
+  },
+  {
+    "ID": 30,
+    "Fecha": "2025-09-12",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "21:08:11.6291298",
+    "HoraSalida": "21:09:33.0077886"
+  },
+  {
+    "ID": 31,
+    "Fecha": "2025-09-15",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "11:38:11.1634725",
+    "HoraSalida": "20:13:54.4268841"
+  },
+  {
+    "ID": 32,
+    "Fecha": "2025-09-17",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "12:43:55.4672627",
+    "HoraSalida": null
+  },
+  {
+    "ID": 33,
+    "Fecha": "2025-09-18",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "10:53:21.8125861",
+    "HoraSalida": "19:45:04.6392078"
+  },
+  {
+    "ID": 34,
+    "Fecha": "2025-09-18",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "11:46:46.6490872",
+    "HoraSalida": "19:45:04.6392078"
+  },
+  {
+    "ID": 35,
+    "Fecha": "2025-09-19",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "13:47:19.8402602",
+    "HoraSalida": "19:55:30.2206333"
+  },
+  {
+    "ID": 36,
+    "Fecha": "2025-09-19",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "16:11:32.8950368",
+    "HoraSalida": "19:55:30.2206333"
+  },
+  {
+    "ID": 1036,
+    "Fecha": "2025-09-19",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "16:44:13.9750046",
+    "HoraSalida": "19:55:30.2206333"
+  },
+  {
+    "ID": 1037,
+    "Fecha": "2025-09-20",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "12:47:59.5457381",
+    "HoraSalida": "19:58:09.4601267"
+  },
+  {
+    "ID": 1038,
+    "Fecha": "2025-09-22",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "10:41:25.6245902",
+    "HoraSalida": "19:53:16.4911945"
+  },
+  {
+    "ID": 1039,
+    "Fecha": "2025-09-23",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "11:14:28.5397678",
+    "HoraSalida": "19:57:41.2151312"
+  },
+  {
+    "ID": 1040,
+    "Fecha": "2025-09-23",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "18:01:23.7480491",
+    "HoraSalida": "19:57:41.2151312"
+  },
+  {
+    "ID": 1041,
+    "Fecha": "2025-09-24",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "11:03:22.4064903",
+    "HoraSalida": "17:38:28.1901938"
+  },
+  {
+    "ID": 1042,
+    "Fecha": "2025-09-24",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "11:39:12.9392757",
+    "HoraSalida": "17:38:28.1901938"
+  },
+  {
+    "ID": 1043,
+    "Fecha": "2025-09-24",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "14:42:24.5561614",
+    "HoraSalida": "17:38:28.1901938"
+  },
+  {
+    "ID": 1044,
+    "Fecha": "2025-09-26",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "15:38:58.5585155",
+    "HoraSalida": "20:30:14.5590363"
+  },
+  {
+    "ID": 1045,
+    "Fecha": "2025-09-27",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "15:42:19.0326016",
+    "HoraSalida": "16:39:46.0818132"
+  },
+  {
+    "ID": 1046,
+    "Fecha": "2025-09-29",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "11:38:48.7227272",
+    "HoraSalida": "19:56:01.1007832"
+  },
+  {
+    "ID": 1047,
+    "Fecha": "2025-09-29",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "18:41:26.3407472",
+    "HoraSalida": "19:56:01.1007832"
+  },
+  {
+    "ID": 1048,
+    "Fecha": "2025-09-30",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "13:26:50.8065751",
+    "HoraSalida": "18:55:08.9059288"
+  }
+]
