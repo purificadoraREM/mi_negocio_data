@@ -1,0 +1,79 @@
+[
+  {
+    "ID": "GA-03",
+    "Concepto": "pago Gaby",
+    "Monto": 1000.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "sabado 23 de agosto",
+    "Categoria": "sueldo",
+    "FolioV": "f.01",
+    "Fecha": "2025-09-07",
+    "Cajero": null
+  },
+  {
+    "ID": "GA-04",
+    "Concepto": "pago Gaby",
+    "Monto": 1000.00,
+    "MetodoDePago": "Tarjeta",
+    "Notas": "Sabado 30 de agosto",
+    "Categoria": "sueldo",
+    "FolioV": "f.02",
+    "Fecha": "2025-09-07",
+    "Cajero": null
+  },
+  {
+    "ID": "GA-05",
+    "Concepto": "Pago Gaby",
+    "Monto": 1000.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "sabado 06 de septiembre",
+    "Categoria": "Sueldo",
+    "FolioV": "f.03",
+    "Fecha": "2025-09-07",
+    "Cajero": null
+  },
+  {
+    "ID": "GA-06",
+    "Concepto": "Gasolina",
+    "Monto": 1265.00,
+    "MetodoDePago": "Tarjeta",
+    "Notas": "dia 02 septimbre",
+    "Categoria": "transporte Gasolina",
+    "FolioV": "f.04",
+    "Fecha": "2025-09-07",
+    "Cajero": null
+  },
+  {
+    "ID": "GA-07",
+    "Concepto": "leche Esthela",
+    "Monto": 282.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "0",
+    "Categoria": "casa",
+    "FolioV": "f.04",
+    "Fecha": "2025-09-09",
+    "Cajero": null
+  },
+  {
+    "ID": "GA-08",
+    "Concepto": "bolsas de hielo",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "tapanosa",
+    "Categoria": "hielo",
+    "FolioV": "b02",
+    "Fecha": "2025-09-17",
+    "Cajero": null
+  },
+  {
+    "ID": "GA-09",
+    "Concepto": "reparacion freezer",
+    "Monto": 100.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Jonathan",
+    "Categoria": "reparacion",
+    "FolioV": "n023",
+    "Fecha": "2025-09-18",
+    "Cajero": null
+  }
+]
