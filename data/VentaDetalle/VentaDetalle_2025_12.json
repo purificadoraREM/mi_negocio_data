@@ -656,5 +656,19 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-828",
+    "Fecha": "2025-12-08",
+    "Hora": "14:44:56",
+    "Cliente": "N/A",
+    "Articulo": "Maquina",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Transferencia",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 200.00,
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00
   }
 ]
