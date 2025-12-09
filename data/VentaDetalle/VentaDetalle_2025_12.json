@@ -670,5 +670,19 @@
     "Subtotal": 200.00,
     "Iva": 0.00,
     "Total": 200.00
+  },
+  {
+    "Folio": "VMEN-829",
+    "Fecha": "2025-12-08",
+    "Hora": "18:34:48",
+    "Cliente": "N/A",
+    "Articulo": "Maquina",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 321.00,
+    "Subtotal": 321.00,
+    "Iva": 0.00,
+    "Total": 321.00
   }
 ]
