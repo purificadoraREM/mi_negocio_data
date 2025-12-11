@@ -670,5 +670,41 @@
     "CostoUnitario": 0.00,
     "Referencia": "bolsas tapanosa ",
     "Observaciones": "10/12/25"
+  },
+  {
+    "MovimientoID": 5111,
+    "ProductoID": 4,
+    "Tipo": "SALIDA",
+    "Cantidad": 15,
+    "Fecha": "2025-12-10",
+    "StockAntesMov": 150,
+    "StockDespMov": 135,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 5112,
+    "ProductoID": 4,
+    "Tipo": "SALIDA",
+    "Cantidad": 20,
+    "Fecha": "2025-12-10",
+    "StockAntesMov": 135,
+    "StockDespMov": 115,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 5113,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "Cantidad": 18,
+    "Fecha": "2025-12-10",
+    "StockAntesMov": 200,
+    "StockDespMov": 182,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
   }
 ]
