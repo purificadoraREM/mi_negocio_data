@@ -718,5 +718,50 @@
     "Tarjeta": 20.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-170",
+    "Fecha": "2025-12-10",
+    "Hora": "18:51:38",
+    "Cliente": "Ningún Cliente Seleccionado",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 180.00,
+    "Iva": 0.00,
+    "Total": 180.00,
+    "Efectivo": 180.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-171",
+    "Fecha": "2025-12-10",
+    "Hora": "18:52:18",
+    "Cliente": "YO SOY DON GIL",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 260.00,
+    "Iva": 0.00,
+    "Total": 260.00,
+    "Efectivo": 260.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-172",
+    "Fecha": "2025-12-10",
+    "Hora": "18:52:53",
+    "Cliente": "LAS LOMAS",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 360.00,
+    "Iva": 0.00,
+    "Total": 360.00,
+    "Efectivo": 360.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
