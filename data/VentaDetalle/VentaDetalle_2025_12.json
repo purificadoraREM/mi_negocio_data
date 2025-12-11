@@ -796,5 +796,47 @@
     "Subtotal": 20.00,
     "Iva": 0.00,
     "Total": 20.00
+  },
+  {
+    "Folio": "VM-170",
+    "Fecha": "2025-12-10",
+    "Hora": "18:51:38",
+    "Cliente": "Ningún Cliente Seleccionado",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 12.00,
+    "Subtotal": 180.00,
+    "Iva": 0.00,
+    "Total": 180.00
+  },
+  {
+    "Folio": "VM-171",
+    "Fecha": "2025-12-10",
+    "Hora": "18:52:18",
+    "Cliente": "YO SOY DON GIL",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 20.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 260.00,
+    "Iva": 0.00,
+    "Total": 260.00
+  },
+  {
+    "Folio": "VM-172",
+    "Fecha": "2025-12-10",
+    "Hora": "18:52:53",
+    "Cliente": "LAS LOMAS",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 18.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 360.00,
+    "Iva": 0.00,
+    "Total": 360.00
   }
 ]
