@@ -922,5 +922,33 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VM-173",
+    "Fecha": "2025-12-11",
+    "Hora": "20:06:13",
+    "Cliente": "FRUTERIA MADRID SUC OLIVARES",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 30.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 600.00,
+    "Iva": 0.00,
+    "Total": 600.00
+  },
+  {
+    "Folio": "VM-174",
+    "Fecha": "2025-12-11",
+    "Hora": "20:06:28",
+    "Cliente": "SUPER CORDOVA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 12.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00
   }
 ]
