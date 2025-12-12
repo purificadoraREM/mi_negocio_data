@@ -853,5 +853,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-173",
+    "Fecha": "2025-12-11",
+    "Hora": "20:06:13",
+    "Cliente": "FRUTERIA MADRID SUC OLIVARES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 600.00,
+    "Iva": 0.00,
+    "Total": 600.00,
+    "Efectivo": 600.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-174",
+    "Fecha": "2025-12-11",
+    "Hora": "20:06:28",
+    "Cliente": "SUPER CORDOVA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00,
+    "Efectivo": 240.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
