@@ -1034,5 +1034,19 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-845",
+    "Fecha": "2025-12-13",
+    "Hora": "17:50:21",
+    "Cliente": "N/A",
+    "Articulo": "Maquina",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 300.00,
+    "Subtotal": 300.00,
+    "Iva": 0.00,
+    "Total": 300.00
   }
 ]
