@@ -1123,5 +1123,50 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-177",
+    "Fecha": "2025-12-15",
+    "Hora": "19:58:06",
+    "Cliente": "PUERTA REAL",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00,
+    "Efectivo": 330.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-178",
+    "Fecha": "2025-12-15",
+    "Hora": "19:58:35",
+    "Cliente": "SOLIDARIDAD 3",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00,
+    "Efectivo": 200.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-179",
+    "Fecha": "2025-12-15",
+    "Hora": "19:58:48",
+    "Cliente": "LA CARIDAD",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00,
+    "Efectivo": 200.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
