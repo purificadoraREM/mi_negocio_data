@@ -1202,5 +1202,61 @@
     "Subtotal": 20.00,
     "Iva": 0.00,
     "Total": 20.00
+  },
+  {
+    "Folio": "VM-177",
+    "Fecha": "2025-12-15",
+    "Hora": "19:58:06",
+    "Cliente": "PUERTA REAL",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00
+  },
+  {
+    "Folio": "VM-177",
+    "Fecha": "2025-12-15",
+    "Hora": "19:58:06",
+    "Cliente": "PUERTA REAL",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00
+  },
+  {
+    "Folio": "VM-178",
+    "Fecha": "2025-12-15",
+    "Hora": "19:58:35",
+    "Cliente": "SOLIDARIDAD 3",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00
+  },
+  {
+    "Folio": "VM-179",
+    "Fecha": "2025-12-15",
+    "Hora": "19:58:48",
+    "Cliente": "LA CARIDAD",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00
   }
 ]
