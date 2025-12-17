@@ -1496,5 +1496,61 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VM-180",
+    "Fecha": "2025-12-16",
+    "Hora": "19:37:39",
+    "Cliente": "OLIVARES 2",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00
+  },
+  {
+    "Folio": "VM-181",
+    "Fecha": "2025-12-16",
+    "Hora": "19:37:59",
+    "Cliente": "LAS TORRES",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00
+  },
+  {
+    "Folio": "VM-182",
+    "Fecha": "2025-12-16",
+    "Hora": "19:45:27",
+    "Cliente": "Dulceria Sahuaro",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00
+  },
+  {
+    "Folio": "VMEN-868",
+    "Fecha": "2025-12-16",
+    "Hora": "19:45:34",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
