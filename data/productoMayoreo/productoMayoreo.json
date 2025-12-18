@@ -1,1 +1,15 @@
-
+[
+  {
+    "Id":"PM-002",
+    "Nombre":"Hielo M 3kg",
+    "Precio":13,
+    "ImagenArchivo":"",
+    "GravaIVA":false
+  },
+  {"Id":"PM-003",
+    "Nombre":"Hielo M 5kg",
+    "Precio":20.00,
+    "ImagenArchivo":"",
+    "GravaIVA":false
+  }
+]
