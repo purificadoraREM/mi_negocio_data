@@ -9,5 +9,16 @@
     "FolioV": null,
     "Fecha": "2025-12-01",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-19",
+    "Concepto": "Gasolina",
+    "Monto": 356.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina para camioneta ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2025-12-18",
+    "Cajero": "Admin                                                                                               "
   }
 ]
