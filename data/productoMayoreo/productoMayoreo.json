@@ -10,6 +10,6 @@
     "Nombre":"Hielo M 5kg",
     "Precio":20.00,
     "ImagenArchivo":"",
-    "GravaIVA":false
+    "GravaIVA":true
   }
 ]
