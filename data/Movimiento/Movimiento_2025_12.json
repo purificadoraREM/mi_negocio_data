@@ -1750,5 +1750,17 @@
     "CostoUnitario": 0.00,
     "Referencia": "hicieron falta dos bolsas de hielo",
     "Observaciones": "tapanosa 20/12/25"
+  },
+  {
+    "MovimientoID": 5201,
+    "ProductoID": 2,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2025-12-20",
+    "StockAntesMov": 73,
+    "StockDespMov": 72,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
   }
 ]
