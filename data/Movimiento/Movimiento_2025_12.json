@@ -1726,5 +1726,29 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 5199,
+    "ProductoID": 1,
+    "Tipo": "ENTRADA",
+    "Cantidad": 1000,
+    "Fecha": "2025-12-20",
+    "StockAntesMov": 88,
+    "StockDespMov": 1088,
+    "CostoUnitario": 0.00,
+    "Referencia": "tapa naranjas",
+    "Observaciones": "tapanosa 20/12/25"
+  },
+  {
+    "MovimientoID": 5200,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "Cantidad": 98,
+    "Fecha": "2025-12-20",
+    "StockAntesMov": 12,
+    "StockDespMov": 110,
+    "CostoUnitario": 0.00,
+    "Referencia": "hicieron falta dos bolsas de hielo",
+    "Observaciones": "tapanosa 20/12/25"
   }
 ]
