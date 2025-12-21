@@ -1858,5 +1858,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-185",
+    "Fecha": "2025-12-20",
+    "Hora": "17:31:32",
+    "Cliente": "ARROYOS",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00,
+    "Efectivo": 200.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
