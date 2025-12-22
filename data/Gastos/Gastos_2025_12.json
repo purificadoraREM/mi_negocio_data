@@ -20,5 +20,16 @@
     "FolioV": null,
     "Fecha": "2025-12-18",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-20",
+    "Concepto": "foco",
+    "Monto": 20.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2025-12-22",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
