@@ -1993,5 +1993,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-186",
+    "Fecha": "2025-12-22",
+    "Hora": "20:22:39",
+    "Cliente": "SUPER CORDOVA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00,
+    "Efectivo": 240.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-187",
+    "Fecha": "2025-12-22",
+    "Hora": "20:23:12",
+    "Cliente": "LAS TORRES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00,
+    "Efectivo": 200.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
