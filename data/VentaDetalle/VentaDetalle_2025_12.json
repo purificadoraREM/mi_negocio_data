@@ -2532,5 +2532,61 @@
     "Subtotal": 20.00,
     "Iva": 0.00,
     "Total": 20.00
+  },
+  {
+    "Folio": "VMEN-918",
+    "Fecha": "2025-12-23",
+    "Hora": "19:03:37",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-919",
+    "Fecha": "2025-12-23",
+    "Hora": "19:04:55",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 30.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
+  },
+  {
+    "Folio": "VM-188",
+    "Fecha": "2025-12-23",
+    "Hora": "19:12:24",
+    "Cliente": "HERBALIFE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00
+  },
+  {
+    "Folio": "VM-189",
+    "Fecha": "2025-12-23",
+    "Hora": "19:13:04",
+    "Cliente": "LAS LOMAS",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 13.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 260.00,
+    "Iva": 0.00,
+    "Total": 260.00
   }
 ]
