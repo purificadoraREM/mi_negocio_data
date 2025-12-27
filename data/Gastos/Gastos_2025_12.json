@@ -42,5 +42,49 @@
     "FolioV": null,
     "Fecha": "2025-12-23",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-22",
+    "Concepto": "Gasolina",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina carro tata",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2025-12-24",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-23",
+    "Concepto": "Gasolina",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina carro tata",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2025-12-24",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-24",
+    "Concepto": "Dogos",
+    "Monto": 210.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Dogos para cena",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2025-12-26",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-25",
+    "Concepto": "Gasolina",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina carro tata",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2025-12-27",
+    "Cajero": "Admin                                                                                               "
   }
 ]
