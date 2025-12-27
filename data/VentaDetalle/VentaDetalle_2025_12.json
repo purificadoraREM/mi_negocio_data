@@ -2784,5 +2784,33 @@
     "Subtotal": 300.00,
     "Iva": 0.00,
     "Total": 300.00
+  },
+  {
+    "Folio": "VMEN-931",
+    "Fecha": "2025-12-27",
+    "Hora": "12:47:58",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-931",
+    "Fecha": "2025-12-27",
+    "Hora": "12:47:58",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
