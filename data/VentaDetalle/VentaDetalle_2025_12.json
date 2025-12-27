@@ -2770,5 +2770,19 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VM-190",
+    "Fecha": "2025-12-26",
+    "Hora": "20:02:24",
+    "Cliente": "SUPER CORDOVA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 300.00,
+    "Iva": 0.00,
+    "Total": 300.00
   }
 ]
