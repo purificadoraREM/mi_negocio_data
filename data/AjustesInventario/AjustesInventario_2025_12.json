@@ -7,5 +7,14 @@
     "Motivo": "hicieron falta dos bolsas en el paquete tapanosa",
     "Fecha": "2025-12-20",
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 15,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 2,
+    "Motivo": "sobraron, no hay frezer",
+    "Fecha": "2025-12-27",
+    "Usuario": "Gabriela Gracia"
   }
 ]
