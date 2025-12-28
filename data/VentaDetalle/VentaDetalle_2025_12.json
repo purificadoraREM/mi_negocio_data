@@ -2896,5 +2896,33 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VM-191",
+    "Fecha": "2025-12-27",
+    "Hora": "18:05:26",
+    "Cliente": "PUERTA REAL",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 13.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 260.00,
+    "Iva": 0.00,
+    "Total": 260.00
+  },
+  {
+    "Folio": "VMEN-937",
+    "Fecha": "2025-12-27",
+    "Hora": "18:17:30",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 3.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
   }
 ]
