@@ -2578,5 +2578,53 @@
     "CostoUnitario": 0.00,
     "Referencia": "tapanosa nuevas",
     "Observaciones": "29/12/25"
+  },
+  {
+    "MovimientoID": 5270,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "Cantidad": 30,
+    "Fecha": "2025-12-29",
+    "StockAntesMov": 988,
+    "StockDespMov": 958,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 5271,
+    "ProductoID": 2,
+    "Tipo": "SALIDA",
+    "Cantidad": 10,
+    "Fecha": "2025-12-29",
+    "StockAntesMov": 124,
+    "StockDespMov": 114,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 5272,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "Cantidad": 2,
+    "Fecha": "2025-12-29",
+    "StockAntesMov": 958,
+    "StockDespMov": 956,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 5273,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2025-12-29",
+    "StockAntesMov": 956,
+    "StockDespMov": 955,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
   }
 ]
