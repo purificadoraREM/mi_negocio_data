@@ -2698,5 +2698,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 10.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-192",
+    "Fecha": "2025-12-29",
+    "Hora": "20:07:38",
+    "Cliente": "SOLIDARIDAD 1",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00,
+    "Efectivo": 240.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-193",
+    "Fecha": "2025-12-29",
+    "Hora": "20:07:51",
+    "Cliente": "PALO VERDE",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 400.00,
+    "Iva": 0.00,
+    "Total": 400.00,
+    "Efectivo": 400.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
