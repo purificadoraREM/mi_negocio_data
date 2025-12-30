@@ -16,5 +16,14 @@
     "Motivo": "sobraron, no hay frezer",
     "Fecha": "2025-12-27",
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 16,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 7,
+    "Motivo": "se echaron a perder, por el freezer",
+    "Fecha": "2025-12-29",
+    "Usuario": "Gabriela Gracia"
   }
 ]
