@@ -25,5 +25,14 @@
     "Motivo": "se echaron a perder, por el freezer",
     "Fecha": "2025-12-29",
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 17,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 100,
+    "Motivo": "error al capturar",
+    "Fecha": "2025-12-29",
+    "Usuario": "Gabriela Gracia"
   }
 ]
