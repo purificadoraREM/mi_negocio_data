@@ -3120,5 +3120,19 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-947",
+    "Fecha": "2025-12-30",
+    "Hora": "14:19:55",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 4.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 40.00,
+    "Iva": 0.00,
+    "Total": 40.00
   }
 ]
