@@ -3078,5 +3078,33 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VM-192",
+    "Fecha": "2025-12-29",
+    "Hora": "20:07:38",
+    "Cliente": "SOLIDARIDAD 1",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 12.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00
+  },
+  {
+    "Folio": "VM-193",
+    "Fecha": "2025-12-29",
+    "Hora": "20:07:51",
+    "Cliente": "PALO VERDE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 20.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 400.00,
+    "Iva": 0.00,
+    "Total": 400.00
   }
 ]
