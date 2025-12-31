@@ -3162,5 +3162,47 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VM-194",
+    "Fecha": "2025-12-30",
+    "Hora": "19:00:40",
+    "Cliente": "NATURA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 5.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 100.00,
+    "Iva": 0.00,
+    "Total": 100.00
+  },
+  {
+    "Folio": "VM-194",
+    "Fecha": "2025-12-30",
+    "Hora": "19:00:40",
+    "Cliente": "NATURA",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00
+  },
+  {
+    "Folio": "VM-195",
+    "Fecha": "2025-12-30",
+    "Hora": "19:01:07",
+    "Cliente": "LA CARIDAD",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00
   }
 ]
