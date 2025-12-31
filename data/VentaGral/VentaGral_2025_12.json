@@ -2788,5 +2788,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-194",
+    "Fecha": "2025-12-30",
+    "Hora": "19:00:40",
+    "Cliente": "NATURA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 230.00,
+    "Iva": 0.00,
+    "Total": 230.00,
+    "Efectivo": 230.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-195",
+    "Fecha": "2025-12-30",
+    "Hora": "19:01:07",
+    "Cliente": "LA CARIDAD",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00,
+    "Efectivo": 200.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
