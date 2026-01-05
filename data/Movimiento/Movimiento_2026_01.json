@@ -1,0 +1,14 @@
+[
+  {
+    "MovimientoID": 5283,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-01-05",
+    "StockAntesMov": 944,
+    "StockDespMov": 943,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  }
+]
