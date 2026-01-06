@@ -124,5 +124,19 @@
     "IDConsumible": 2,
     "Consumible": "Tapa rosca",
     "Usuario": "rem"
+  },
+  {
+    "IDProducto": "p-012",
+    "Producto": "Promoción Miercoles PRESIÓN",
+    "IDConsumible": 1,
+    "Consumible": "Tapa presión",
+    "Usuario": "rem"
+  },
+  {
+    "IDProducto": "p-013",
+    "Producto": "Promoción Miercoles ROSCA",
+    "IDConsumible": 2,
+    "Consumible": "Tapa rosca",
+    "Usuario": "rem"
   }
 ]
