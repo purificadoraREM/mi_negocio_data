@@ -16,5 +16,23 @@
     "EfectivoEsperado": 1120.00,
     "EfectivoContado": 1120.00,
     "FondoFinal": 100.00
+  },
+  {
+    "CorteID": 121,
+    "Fecha": "2026-01-06",
+    "TotalVenta": 60.00,
+    "TotalEfectivo": 60.00,
+    "TotalTarjeta": 0.00,
+    "TotalTransferencia": 0.00,
+    "Sobro": 0.00,
+    "Falto": 0.00,
+    "Usuario": "Gabriela Gracia",
+    "ReporteEnviado": true,
+    "Gasto": 0.00,
+    "FondoInicial": 100.00,
+    "SubTotalEsperado": 160.00,
+    "EfectivoEsperado": 160.00,
+    "EfectivoContado": 160.00,
+    "FondoFinal": 100.00
   }
 ]
