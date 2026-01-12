@@ -474,5 +474,33 @@
     "Subtotal": 580.00,
     "Iva": 0.00,
     "Total": 580.00
+  },
+  {
+    "Folio": "VMEN-979",
+    "Fecha": "2026-01-12",
+    "Hora": "16:13:10",
+    "Cliente": "N/A",
+    "Articulo": "Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 0.00,
+    "Subtotal": 0.00,
+    "Iva": 0.00,
+    "Total": 0.00
+  },
+  {
+    "Folio": "VMEN-979",
+    "Fecha": "2026-01-12",
+    "Hora": "16:13:10",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
   }
 ]
