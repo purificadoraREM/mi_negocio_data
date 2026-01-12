@@ -460,5 +460,19 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-978",
+    "Fecha": "2026-01-12",
+    "Hora": "15:22:49",
+    "Cliente": "N/A",
+    "Articulo": "Maquina",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 580.00,
+    "Subtotal": 580.00,
+    "Iva": 0.00,
+    "Total": 580.00
   }
 ]
