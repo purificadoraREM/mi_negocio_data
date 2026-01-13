@@ -448,5 +448,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-196",
+    "Fecha": "2026-01-12",
+    "Hora": "20:31:21",
+    "Cliente": "HERBALIFE",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00,
+    "Efectivo": 240.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-197",
+    "Fecha": "2026-01-12",
+    "Hora": "20:31:39",
+    "Cliente": "PUERTA REAL",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00,
+    "Efectivo": 240.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
