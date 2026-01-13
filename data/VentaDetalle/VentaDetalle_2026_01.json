@@ -502,5 +502,33 @@
     "Subtotal": 30.00,
     "Iva": 0.00,
     "Total": 30.00
+  },
+  {
+    "Folio": "VM-196",
+    "Fecha": "2026-01-12",
+    "Hora": "20:31:21",
+    "Cliente": "HERBALIFE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 12.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00
+  },
+  {
+    "Folio": "VM-197",
+    "Fecha": "2026-01-12",
+    "Hora": "20:31:39",
+    "Cliente": "PUERTA REAL",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 12.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00
   }
 ]
