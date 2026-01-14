@@ -530,5 +530,19 @@
     "Subtotal": 240.00,
     "Iva": 0.00,
     "Total": 240.00
+  },
+  {
+    "Folio": "VMEN-980",
+    "Fecha": "2026-01-14",
+    "Hora": "13:26:08",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles ROSCA",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 20.00,
+    "Iva": 0.00,
+    "Total": 20.00
   }
 ]
