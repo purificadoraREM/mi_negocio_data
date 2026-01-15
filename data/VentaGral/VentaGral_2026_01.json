@@ -598,5 +598,50 @@
     "Tarjeta": 10.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-198",
+    "Fecha": "2026-01-14",
+    "Hora": "20:05:45",
+    "Cliente": "Dulceria Sahuaro",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 120.00,
+    "Iva": 0.00,
+    "Total": 120.00,
+    "Efectivo": 120.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-199",
+    "Fecha": "2026-01-14",
+    "Hora": "20:10:54",
+    "Cliente": "FRUTERIA MADRID SUC VILLAS DEL REAL",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00,
+    "Efectivo": 130.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-200",
+    "Fecha": "2026-01-14",
+    "Hora": "20:11:07",
+    "Cliente": "OLIVARES 1 (MODELORAMA)",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 160.00,
+    "Iva": 0.00,
+    "Total": 160.00,
+    "Efectivo": 160.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
