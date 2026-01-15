@@ -656,5 +656,47 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VM-198",
+    "Fecha": "2026-01-14",
+    "Hora": "20:05:45",
+    "Cliente": "Dulceria Sahuaro",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 6.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 120.00,
+    "Iva": 0.00,
+    "Total": 120.00
+  },
+  {
+    "Folio": "VM-199",
+    "Fecha": "2026-01-14",
+    "Hora": "20:10:54",
+    "Cliente": "FRUTERIA MADRID SUC VILLAS DEL REAL",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00
+  },
+  {
+    "Folio": "VM-200",
+    "Fecha": "2026-01-14",
+    "Hora": "20:11:07",
+    "Cliente": "OLIVARES 1 (MODELORAMA)",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 8.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 160.00,
+    "Iva": 0.00,
+    "Total": 160.00
   }
 ]
