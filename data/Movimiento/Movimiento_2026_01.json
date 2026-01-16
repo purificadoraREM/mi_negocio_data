@@ -586,5 +586,29 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 5332,
+    "ProductoID": 5,
+    "Tipo": "ENTRADA",
+    "Cantidad": 3,
+    "Fecha": "2026-01-15",
+    "StockAntesMov": 0,
+    "StockDespMov": 3,
+    "CostoUnitario": 0.00,
+    "Referencia": "nuevos 15/01/26",
+    "Observaciones": "tapanosa"
+  },
+  {
+    "MovimientoID": 5333,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "Cantidad": 100,
+    "Fecha": "2026-01-15",
+    "StockAntesMov": 16,
+    "StockDespMov": 116,
+    "CostoUnitario": 0.00,
+    "Referencia": "nuevos 15/01/26",
+    "Observaciones": "tapanosa"
   }
 ]
