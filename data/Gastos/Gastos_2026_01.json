@@ -9,5 +9,16 @@
     "FolioV": null,
     "Fecha": "2026-01-15",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-27",
+    "Concepto": "duros ramón",
+    "Monto": 20.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-01-15",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
