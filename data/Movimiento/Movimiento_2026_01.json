@@ -610,5 +610,17 @@
     "CostoUnitario": 0.00,
     "Referencia": "nuevos 15/01/26",
     "Observaciones": "tapanosa"
+  },
+  {
+    "MovimientoID": 5334,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "Cantidad": 2,
+    "Fecha": "2026-01-15",
+    "StockAntesMov": 785,
+    "StockDespMov": 783,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
   }
 ]
