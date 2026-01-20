@@ -1034,5 +1034,19 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VM-202",
+    "Fecha": "2026-01-19",
+    "Hora": "18:31:51",
+    "Cliente": "LA CARIDAD",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 200.00,
+    "Iva": 0.00,
+    "Total": 200.00
   }
 ]
