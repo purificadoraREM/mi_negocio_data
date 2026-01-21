@@ -1216,5 +1216,61 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-1017",
+    "Fecha": "2026-01-21",
+    "Hora": "13:22:00",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles ROSCA",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 100.00,
+    "Iva": 0.00,
+    "Total": 100.00
+  },
+  {
+    "Folio": "VMEN-1018",
+    "Fecha": "2026-01-21",
+    "Hora": "13:24:37",
+    "Cliente": "N/A",
+    "Articulo": "Maquina",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 350.00,
+    "Subtotal": 350.00,
+    "Iva": 0.00,
+    "Total": 350.00
+  },
+  {
+    "Folio": "VMEN-1018",
+    "Fecha": "2026-01-21",
+    "Hora": "13:24:37",
+    "Cliente": "N/A",
+    "Articulo": "Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 0.00,
+    "Subtotal": 0.00,
+    "Iva": 0.00,
+    "Total": 0.00
+  },
+  {
+    "Folio": "VMEN-1018",
+    "Fecha": "2026-01-21",
+    "Hora": "13:24:37",
+    "Cliente": "N/A",
+    "Articulo": "Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 0.00,
+    "Subtotal": 0.00,
+    "Iva": 0.00,
+    "Total": 0.00
   }
 ]
