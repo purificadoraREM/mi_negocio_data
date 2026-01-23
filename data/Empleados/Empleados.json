@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 1,
+    "Nombre": "Gabriela Gracia",
+    "Correo": "Gabriela.Gracia",
+    "Contraseña": "21gabriela",
+    "Permisos": "0"
+  },
+  {
+    "ID": 2,
+    "Nombre": "jesus alberto",
+    "Correo": "valenzuela.",
+    "Contraseña": "enero08",
+    "Permisos": "0"
+  }
+]
