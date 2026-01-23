@@ -1510,5 +1510,33 @@
     "Subtotal": 0.00,
     "Iva": 0.00,
     "Total": 0.00
+  },
+  {
+    "Folio": "VM-203",
+    "Fecha": "2026-01-22",
+    "Hora": "19:57:58",
+    "Cliente": "HERBALIFE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 12.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00
+  },
+  {
+    "Folio": "VM-204",
+    "Fecha": "2026-01-22",
+    "Hora": "19:58:18",
+    "Cliente": "SUPER CORDOVA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 14.00,
+    "PrecioUnitario": 20.00,
+    "Subtotal": 280.00,
+    "Iva": 0.00,
+    "Total": 280.00
   }
 ]
