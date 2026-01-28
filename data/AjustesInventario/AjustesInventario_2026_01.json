@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "AjusteID": 18,
+    "ProductoID": 5,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 2,
+    "Motivo": "no se descontaron cuando se vendieron",
+    "Fecha": "2026-01-28",
+    "Usuario": "Gabriela Gracia"
+  }
+]
