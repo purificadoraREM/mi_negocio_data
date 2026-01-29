@@ -9,8 +9,8 @@
   {
     "IDProducto": "p-005",
     "Producto": "Garrafon sin asa",
-    "IDConsumible": 1,
-    "Consumible": "Tapa presión",
+    "IDConsumible": 5,
+    "Consumible": "Garrafon 19 lt",
     "Usuario": "rem"
   },
   {
@@ -58,8 +58,8 @@
   {
     "IDProducto": "p-005",
     "Producto": "Garrafon sin asa",
-    "IDConsumible": 5,
-    "Consumible": "Garrafon 19 lt",
+    "IDConsumible": 1,
+    "Consumible": "Tapa presión",
     "Usuario": "rem"
   },
   {
@@ -95,13 +95,6 @@
     "Producto": "Hielo 5kg",
     "IDConsumible": 3,
     "Consumible": "Bolsa 5 kg",
-    "Usuario": "rem"
-  },
-  {
-    "IDProducto": "p-005",
-    "Producto": "Garrafon sin asa",
-    "IDConsumible": 5,
-    "Consumible": "Garrafon 19 lt",
     "Usuario": "rem"
   },
   {
