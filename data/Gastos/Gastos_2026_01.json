@@ -42,5 +42,16 @@
     "FolioV": null,
     "Fecha": "2026-01-26",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-30",
+    "Concepto": "prueba 03",
+    "Monto": 0.01,
+    "MetodoDePago": "Efectivo",
+    "Notas": "pruaba 3",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-01-29",
+    "Cajero": "Admin                                                                                               "
   }
 ]
