@@ -55,7 +55,7 @@
     "PrecioCompra": 75.00,
     "PrecioVenta": 86.21,
     "StockMinimo": 5,
-    "StockActual": 1,
+    "StockActual": 0,
     "Unidad": "",
     "GravaIVA": true
   },
