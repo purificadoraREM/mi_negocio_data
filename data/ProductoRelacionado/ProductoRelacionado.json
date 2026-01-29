@@ -16,8 +16,8 @@
   {
     "IDProducto": "p-006",
     "Producto": "Garrafon con asa",
-    "IDConsumible": 2,
-    "Consumible": "Tapa rosca",
+    "IDConsumible": 6,
+    "Consumible": "Garrafón asa",
     "Usuario": "rem"
   },
   {
@@ -28,15 +28,15 @@
     "Usuario": "rem"
   },
   {
-    "IDProducto": "PM-001",
+    "IDProducto": "p-001",
     "Producto": "Hielo 5kg",
     "IDConsumible": 3,
     "Consumible": "Bolsa 5 kg",
     "Usuario": "rem"
   },
   {
-    "IDProducto": "p-001",
-    "Producto": "Hielo 5kg",
+    "IDProducto": "PM-003",
+    "Producto": "Hielo M 5kg",
     "IDConsumible": 3,
     "Consumible": "Bolsa 5 kg",
     "Usuario": "rem"
@@ -50,58 +50,9 @@
   },
   {
     "IDProducto": "PM-002",
-    "Producto": "Hielo 3kg",
+    "Producto": "Hielo M 3kg",
     "IDConsumible": 4,
     "Consumible": "Bolsas 3kg",
-    "Usuario": "rem"
-  },
-  {
-    "IDProducto": "p-005",
-    "Producto": "Garrafon sin asa",
-    "IDConsumible": 1,
-    "Consumible": "Tapa presión",
-    "Usuario": "rem"
-  },
-  {
-    "IDProducto": "p-006",
-    "Producto": "Garrafon con asa",
-    "IDConsumible": 6,
-    "Consumible": "Garrafón asa",
-    "Usuario": "rem"
-  },
-  {
-    "IDProducto": "p-001",
-    "Producto": "Hielo 5kg",
-    "IDConsumible": 3,
-    "Consumible": "Bolsa 5 kg",
-    "Usuario": "rem"
-  },
-  {
-    "IDProducto": "p-001",
-    "Producto": "Hielo 5kg",
-    "IDConsumible": 3,
-    "Consumible": "Bolsa 5 kg",
-    "Usuario": "rem"
-  },
-  {
-    "IDProducto": "PM-003",
-    "Producto": "Hielo 5kg",
-    "IDConsumible": 3,
-    "Consumible": "Bolsa 5 kg",
-    "Usuario": "rem"
-  },
-  {
-    "IDProducto": "PM-003",
-    "Producto": "Hielo 5kg",
-    "IDConsumible": 3,
-    "Consumible": "Bolsa 5 kg",
-    "Usuario": "rem"
-  },
-  {
-    "IDProducto": "p-006",
-    "Producto": "Garrafon con asa",
-    "IDConsumible": 6,
-    "Consumible": "Garrafón asa",
     "Usuario": "rem"
   },
   {
