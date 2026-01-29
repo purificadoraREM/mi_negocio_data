@@ -2154,5 +2154,19 @@
     "Subtotal": 75.00,
     "Iva": 0.00,
     "Total": 75.00
+  },
+  {
+    "Folio": "VMEN-1064",
+    "Fecha": "2026-01-29",
+    "Hora": "14:46:20",
+    "Cliente": "N/A",
+    "Articulo": "Garrafon sin asa",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.01,
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01
   }
 ]
