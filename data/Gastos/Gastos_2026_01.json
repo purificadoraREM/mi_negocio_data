@@ -53,5 +53,16 @@
     "FolioV": null,
     "Fecha": "2026-01-29",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-31",
+    "Concepto": "PRUBA 1000",
+    "Monto": 0.01,
+    "MetodoDePago": "Efectivo",
+    "Notas": "PEUBAA",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-01-29",
+    "Cajero": "Admin                                                                                               "
   }
 ]
