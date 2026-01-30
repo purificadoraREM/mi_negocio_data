@@ -1963,5 +1963,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-207",
+    "Fecha": "2026-01-29",
+    "Hora": "19:05:08",
+    "Cliente": "YO SOY DON GIL",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00,
+    "Efectivo": 130.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
