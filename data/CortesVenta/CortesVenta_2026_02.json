@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "CorteID": 139,
+    "Fecha": "2026-02-03",
+    "TotalVenta": 150.00,
+    "TotalEfectivo": 105.00,
+    "TotalTarjeta": 0.00,
+    "TotalTransferencia": 45.00,
+    "Sobro": 0.00,
+    "Falto": 0.00,
+    "Usuario": "Gabriela Gracia",
+    "ReporteEnviado": true,
+    "Gasto": 0.00,
+    "FondoInicial": 100.00,
+    "SubTotalEsperado": 205.00,
+    "EfectivoEsperado": 205.00,
+    "EfectivoContado": 205.00,
+    "FondoFinal": 100.00
+  }
+]
