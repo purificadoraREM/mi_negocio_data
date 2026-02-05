@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "AjusteID": 24,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 9,
+    "Motivo": "venta de mayoreo no se desconto al meterla al sistema ramón",
+    "Fecha": "2026-02-04",
+    "Usuario": "Gabriela Gracia"
+  }
+]
