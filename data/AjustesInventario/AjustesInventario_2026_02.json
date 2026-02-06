@@ -25,5 +25,14 @@
     "Motivo": "ajuste por venta de cliente arroyos ",
     "Fecha": "2026-02-04",
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 27,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 10,
+    "Motivo": "cliente super cordova, ajuste por venta ",
+    "Fecha": "2026-02-05",
+    "Usuario": "Gabriela Gracia"
   }
 ]
