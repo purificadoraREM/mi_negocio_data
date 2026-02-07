@@ -34,5 +34,14 @@
     "Motivo": "cliente super cordova, ajuste por venta ",
     "Fecha": "2026-02-05",
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 28,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 10,
+    "Motivo": "prueba ramon",
+    "Fecha": "2026-02-06",
+    "Usuario": "Gabriela Gracia"
   }
 ]
