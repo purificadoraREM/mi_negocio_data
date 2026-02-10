@@ -838,5 +838,33 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VM-211",
+    "Fecha": "2026-02-09",
+    "Hora": "19:26:20",
+    "Cliente": "Dulceria Sahuaro",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 5.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 110.00,
+    "Iva": 0.00,
+    "Total": 110.00
+  },
+  {
+    "Folio": "VM-212",
+    "Fecha": "2026-02-09",
+    "Hora": "19:27:26",
+    "Cliente": "HERBALIFE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 11.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 242.00,
+    "Iva": 0.00,
+    "Total": 242.00
   }
 ]
