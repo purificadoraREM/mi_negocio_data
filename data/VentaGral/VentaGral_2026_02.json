@@ -703,5 +703,35 @@
     "Tarjeta": 35.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-211",
+    "Fecha": "2026-02-09",
+    "Hora": "19:26:20",
+    "Cliente": "Dulceria Sahuaro",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 110.00,
+    "Iva": 0.00,
+    "Total": 110.00,
+    "Efectivo": 110.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-212",
+    "Fecha": "2026-02-09",
+    "Hora": "19:27:26",
+    "Cliente": "HERBALIFE",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 242.00,
+    "Iva": 0.00,
+    "Total": 242.00,
+    "Efectivo": 242.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
