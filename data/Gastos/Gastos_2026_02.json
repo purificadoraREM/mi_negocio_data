@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "ID": "GA-34",
+    "Concepto": "bolsa para basura",
+    "Monto": 30.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "compre bolsas negras 11/02/26",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-02-11",
+    "Cajero": "Gabriela Gracia                                                                                     "
+  }
+]
