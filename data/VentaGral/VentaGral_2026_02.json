@@ -988,5 +988,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-213",
+    "Fecha": "2026-02-11",
+    "Hora": "19:24:08",
+    "Cliente": "YO SOY DON GIL",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 104.00,
+    "Iva": 0.00,
+    "Total": 104.00,
+    "Efectivo": 104.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
