@@ -1118,5 +1118,19 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-1130",
+    "Fecha": "2026-02-11",
+    "Hora": "19:08:46",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 3.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
   }
 ]
