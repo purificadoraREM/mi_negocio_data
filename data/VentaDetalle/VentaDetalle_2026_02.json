@@ -1202,5 +1202,33 @@
     "Subtotal": 20.00,
     "Iva": 0.00,
     "Total": 20.00
+  },
+  {
+    "Folio": "VM-214",
+    "Fecha": "2026-02-11",
+    "Hora": "20:10:59",
+    "Cliente": "LA CARIDAD",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
+  },
+  {
+    "Folio": "VM-215",
+    "Fecha": "2026-02-11",
+    "Hora": "20:12:12",
+    "Cliente": "SUPER CORDOVA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 6.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 132.00,
+    "Iva": 0.00,
+    "Total": 132.00
   }
 ]
