@@ -9,5 +9,27 @@
     "FolioV": null,
     "Fecha": "2026-02-11",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-35",
+    "Concepto": "GASOLINA",
+    "Monto": 1000.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "GASOLINA ALTIMA",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-02-12",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-36",
+    "Concepto": "BOLSAS DE HIELO",
+    "Monto": 600.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "TAPANOSA 2 PACK",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-02-12",
+    "Cajero": "Admin                                                                                               "
   }
 ]
