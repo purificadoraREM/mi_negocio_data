@@ -31,5 +31,38 @@
     "FolioV": null,
     "Fecha": "2026-02-12",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-37",
+    "Concepto": "Gasolina carro tata",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina carro tata",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-02-12",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-38",
+    "Concepto": "Gasolina carro tata",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina carro tata",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-02-10",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-39",
+    "Concepto": "Dogos",
+    "Monto": 200.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Cena hot dog",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-02-10",
+    "Cajero": "Admin                                                                                               "
   }
 ]
