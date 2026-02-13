@@ -1300,5 +1300,61 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-1138",
+    "Fecha": "2026-02-12",
+    "Hora": "18:23:36",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
+  },
+  {
+    "Folio": "VM-216",
+    "Fecha": "2026-02-12",
+    "Hora": "18:30:55",
+    "Cliente": "FRUTERIA MADRID SUC OLIVARES",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 29.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 638.00,
+    "Iva": 0.00,
+    "Total": 638.00
+  },
+  {
+    "Folio": "VM-217",
+    "Fecha": "2026-02-12",
+    "Hora": "18:32:01",
+    "Cliente": "SUPER CORDOVA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 6.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 132.00,
+    "Iva": 0.00,
+    "Total": 132.00
+  },
+  {
+    "Folio": "VM-218",
+    "Fecha": "2026-02-12",
+    "Hora": "18:32:33",
+    "Cliente": "LAS TORRES",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 12.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 264.00,
+    "Iva": 0.00,
+    "Total": 264.00
   }
 ]
