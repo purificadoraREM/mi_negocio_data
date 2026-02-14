@@ -1510,5 +1510,19 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VM-221",
+    "Fecha": "2026-02-14",
+    "Hora": "15:24:23",
+    "Cliente": "5 de mayo",
+    "Articulo": "hi",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.01,
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01
   }
 ]
