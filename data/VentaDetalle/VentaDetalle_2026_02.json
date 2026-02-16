@@ -1524,5 +1524,33 @@
     "Subtotal": 0.01,
     "Iva": 0.00,
     "Total": 0.01
+  },
+  {
+    "Folio": "VMEN-1147",
+    "Fecha": "2026-02-16",
+    "Hora": "10:27:27",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 3.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 45.00,
+    "Iva": 0.00,
+    "Total": 45.00
+  },
+  {
+    "Folio": "VMEN-1147",
+    "Fecha": "2026-02-16",
+    "Hora": "10:27:27",
+    "Cliente": "N/A",
+    "Articulo": "Garrafon con asa",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 99.14,
+    "Subtotal": 99.14,
+    "Iva": 15.86,
+    "Total": 115.00
   }
 ]
