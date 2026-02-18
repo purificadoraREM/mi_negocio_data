@@ -1642,5 +1642,17 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 5573,
+    "ProductoID": 6,
+    "Tipo": "ENTRADA",
+    "Cantidad": 5,
+    "Fecha": "2026-02-18",
+    "StockAntesMov": 0,
+    "StockDespMov": 5,
+    "CostoUnitario": 0.00,
+    "Referencia": "tapanosa 18/02/26",
+    "Observaciones": "garrafones nuevos"
   }
 ]
