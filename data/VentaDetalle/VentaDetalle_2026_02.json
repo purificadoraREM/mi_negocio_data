@@ -2266,5 +2266,19 @@
     "Subtotal": 30.00,
     "Iva": 0.00,
     "Total": 30.00
+  },
+  {
+    "Folio": "VM-226",
+    "Fecha": "2026-02-19",
+    "Hora": "20:29:58",
+    "Cliente": "LAS LOMAS",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 9.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 198.00,
+    "Iva": 0.00,
+    "Total": 198.00
   }
 ]
