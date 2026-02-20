@@ -64,5 +64,27 @@
     "FolioV": null,
     "Fecha": "2026-02-10",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-40",
+    "Concepto": "Gasolina carro tata",
+    "Monto": 200.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina carro tata",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-02-19",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-41",
+    "Concepto": "Gasolina carro tata",
+    "Monto": 250.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina carro tata",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-02-16",
+    "Cajero": "Admin                                                                                               "
   }
 ]
