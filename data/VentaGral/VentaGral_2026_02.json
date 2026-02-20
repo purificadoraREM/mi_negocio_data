@@ -2008,5 +2008,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-226",
+    "Fecha": "2026-02-19",
+    "Hora": "20:29:58",
+    "Cliente": "LAS LOMAS",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 198.00,
+    "Iva": 0.00,
+    "Total": 198.00,
+    "Efectivo": 198.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
