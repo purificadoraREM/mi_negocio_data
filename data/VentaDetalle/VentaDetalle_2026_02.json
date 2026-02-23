@@ -2588,5 +2588,19 @@
     "Subtotal": 100.00,
     "Iva": 0.00,
     "Total": 100.00
+  },
+  {
+    "Folio": "VMEN-1204",
+    "Fecha": "2026-02-23",
+    "Hora": "16:08:35",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 3kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 25.00,
+    "Subtotal": 25.00,
+    "Iva": 0.00,
+    "Total": 25.00
   }
 ]
