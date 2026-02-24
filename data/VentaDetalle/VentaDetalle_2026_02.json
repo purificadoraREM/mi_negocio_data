@@ -2854,5 +2854,19 @@
     "Subtotal": 25.00,
     "Iva": 0.00,
     "Total": 25.00
+  },
+  {
+    "Folio": "VM-228",
+    "Fecha": "2026-02-24",
+    "Hora": "16:50:49",
+    "Cliente": "SOLIDARIDAD 1",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00
   }
 ]
