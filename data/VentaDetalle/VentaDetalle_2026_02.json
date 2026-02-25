@@ -2868,5 +2868,19 @@
     "Subtotal": 330.00,
     "Iva": 0.00,
     "Total": 330.00
+  },
+  {
+    "Folio": "VMEN-1218",
+    "Fecha": "2026-02-24",
+    "Hora": "17:29:21",
+    "Cliente": "N/A",
+    "Articulo": "Maquina",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 400.00,
+    "Subtotal": 400.00,
+    "Iva": 0.00,
+    "Total": 400.00
   }
 ]
