@@ -298,5 +298,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-233",
+    "Fecha": "2026-03-02",
+    "Hora": "20:59:15",
+    "Cliente": "INSURGENTES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 352.00,
+    "Iva": 0.00,
+    "Total": 352.00,
+    "Efectivo": 352.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
