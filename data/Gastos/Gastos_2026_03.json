@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "ID": "GA-42",
+    "Concepto": "Lavado carro tata",
+    "Monto": 150.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Lavado de carro",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-03-02",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-43",
+    "Concepto": "Bolsas de hielo",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Bolsas de hielo",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-03-02",
+    "Cajero": "Admin                                                                                               "
+  }
+]
