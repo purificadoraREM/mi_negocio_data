@@ -238,5 +238,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-231",
+    "Fecha": "2026-03-02",
+    "Hora": "19:27:27",
+    "Cliente": "PALO VERDE",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 550.00,
+    "Iva": 0.00,
+    "Total": 550.00,
+    "Efectivo": 550.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-232",
+    "Fecha": "2026-03-02",
+    "Hora": "19:44:50",
+    "Cliente": "LAS LOMAS",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00,
+    "Efectivo": 220.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
