@@ -320,5 +320,19 @@
     "Subtotal": 25.00,
     "Iva": 0.00,
     "Total": 25.00
+  },
+  {
+    "Folio": "VM-233",
+    "Fecha": "2026-03-02",
+    "Hora": "20:59:15",
+    "Cliente": "INSURGENTES",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 16.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 352.00,
+    "Iva": 0.00,
+    "Total": 352.00
   }
 ]
