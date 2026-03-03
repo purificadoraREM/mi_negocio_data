@@ -250,5 +250,33 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VM-231",
+    "Fecha": "2026-03-02",
+    "Hora": "19:27:27",
+    "Cliente": "PALO VERDE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 25.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 550.00,
+    "Iva": 0.00,
+    "Total": 550.00
+  },
+  {
+    "Folio": "VM-232",
+    "Fecha": "2026-03-02",
+    "Hora": "19:44:50",
+    "Cliente": "LAS LOMAS",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
   }
 ]
