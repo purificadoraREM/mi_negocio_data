@@ -16,5 +16,14 @@
     "Motivo": "faltante",
     "Fecha": "2026-03-02",
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 31,
+    "ProductoID": 4,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 3,
+    "Motivo": "merma",
+    "Fecha": "2026-03-04",
+    "Usuario": "Gabriela Gracia"
   }
 ]
