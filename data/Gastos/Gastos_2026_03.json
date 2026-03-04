@@ -20,5 +20,16 @@
     "FolioV": null,
     "Fecha": "2026-03-02",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-44",
+    "Concepto": "Lavado de lastima",
+    "Monto": 150.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Lavado de lastima",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-03-03",
+    "Cajero": "Admin                                                                                               "
   }
 ]
