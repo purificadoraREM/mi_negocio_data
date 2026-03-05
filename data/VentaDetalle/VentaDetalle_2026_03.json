@@ -768,5 +768,19 @@
     "Subtotal": 0.00,
     "Iva": 0.00,
     "Total": 0.00
+  },
+  {
+    "Folio": "VM-241",
+    "Fecha": "2026-03-04",
+    "Hora": "18:44:09",
+    "Cliente": "PALO VERDE 2",
+    "Articulo": "REGISTRO DE CLIENTE NUEVO",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.01,
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01
   }
 ]
