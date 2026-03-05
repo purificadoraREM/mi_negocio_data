@@ -42,5 +42,38 @@
     "FolioV": null,
     "Fecha": "2026-03-04",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-46",
+    "Concepto": "Bolsas de hielo tapanosa",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-03-04",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-47",
+    "Concepto": "Gasolina altima",
+    "Monto": 1000.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-03-05",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-48",
+    "Concepto": "Cena hot dog",
+    "Monto": 230.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-03-04",
+    "Cajero": "Admin                                                                                               "
   }
 ]
