@@ -894,5 +894,33 @@
     "Subtotal": 40.00,
     "Iva": 0.00,
     "Total": 40.00
+  },
+  {
+    "Folio": "VM-243",
+    "Fecha": "2026-03-04",
+    "Hora": "20:50:51",
+    "Cliente": "HERBALIFE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 6.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 132.00,
+    "Iva": 0.00,
+    "Total": 132.00
+  },
+  {
+    "Folio": "VM-244",
+    "Fecha": "2026-03-04",
+    "Hora": "21:33:58",
+    "Cliente": "YO SOY DON GIL",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00
   }
 ]
