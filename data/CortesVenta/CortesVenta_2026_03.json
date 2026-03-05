@@ -36,21 +36,21 @@
     "FondoFinal": 100.00
   },
   {
-    "CorteID": 161,
+    "CorteID": 162,
     "Fecha": "2026-03-04",
-    "TotalVenta": 440.00,
-    "TotalEfectivo": 430.00,
+    "TotalVenta": 645.01,
+    "TotalEfectivo": 635.01,
     "TotalTarjeta": 0.00,
     "TotalTransferencia": 10.00,
-    "Sobro": 10.00,
+    "Sobro": 0.99,
     "Falto": 0.00,
     "Usuario": "Gabriela Gracia",
     "ReporteEnviado": true,
-    "Gasto": 0.00,
-    "FondoInicial": 0.00,
-    "SubTotalEsperado": 430.00,
-    "EfectivoEsperado": 430.00,
-    "EfectivoContado": 440.00,
+    "Gasto": 320.00,
+    "FondoInicial": 100.00,
+    "SubTotalEsperado": 735.01,
+    "EfectivoEsperado": 415.01,
+    "EfectivoContado": 416.00,
     "FondoFinal": 100.00
   }
 ]
