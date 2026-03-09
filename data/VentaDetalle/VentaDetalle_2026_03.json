@@ -1118,5 +1118,47 @@
     "Subtotal": 45.00,
     "Iva": 0.00,
     "Total": 45.00
+  },
+  {
+    "Folio": "VMEN-1274",
+    "Fecha": "2026-03-09",
+    "Hora": "13:53:48",
+    "Cliente": "N/A",
+    "Articulo": "agua suelta",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 7.00,
+    "Subtotal": 7.00,
+    "Iva": 0.00,
+    "Total": 7.00
+  },
+  {
+    "Folio": "VMEN-1275",
+    "Fecha": "2026-03-09",
+    "Hora": "13:59:09",
+    "Cliente": "N/A",
+    "Articulo": "Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.00,
+    "Subtotal": 0.00,
+    "Iva": 0.00,
+    "Total": 0.00
+  },
+  {
+    "Folio": "VMEN-1275",
+    "Fecha": "2026-03-09",
+    "Hora": "13:59:09",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
   }
 ]
