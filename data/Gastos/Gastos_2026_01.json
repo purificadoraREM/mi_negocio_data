@@ -64,5 +64,27 @@
     "FolioV": null,
     "Fecha": "2026-01-29",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-32",
+    "Concepto": "tapanosa",
+    "Monto": 680.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "bolsa para hielo garrafones y taparoscas",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-01-28",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-33",
+    "Concepto": "Toallitas humedas",
+    "Monto": 60.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Toallitas humedas esthela",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-01-03",
+    "Cajero": "Admin                                                                                               "
   }
 ]
