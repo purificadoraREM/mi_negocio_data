@@ -2578,5 +2578,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-229",
+    "Fecha": "2026-02-25",
+    "Hora": "09:26:37",
+    "Cliente": "SUPER CORDOVA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00,
+    "Efectivo": 330.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-230",
+    "Fecha": "2026-02-25",
+    "Hora": "09:26:40",
+    "Cliente": "SUPER CORDOVA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00,
+    "Efectivo": 330.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
