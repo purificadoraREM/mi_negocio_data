@@ -25,5 +25,41 @@
     "Motivo": "merma",
     "Fecha": "2026-03-04",
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 32,
+    "ProductoID": 2,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 51,
+    "Motivo": "tapas en fisico",
+    "Fecha": "2026-03-11",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 33,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 153,
+    "Motivo": "maquina",
+    "Fecha": "2026-03-11",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 34,
+    "ProductoID": 1,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 1000,
+    "Motivo": "nuevas tapanosa",
+    "Fecha": "2026-03-11",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 35,
+    "ProductoID": 2,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 200,
+    "Motivo": "nuevas tapanosas",
+    "Fecha": "2026-03-11",
+    "Usuario": "Gabriela Gracia"
   }
 ]
