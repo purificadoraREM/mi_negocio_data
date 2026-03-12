@@ -1552,5 +1552,33 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-1297",
+    "Fecha": "2026-03-11",
+    "Hora": "18:34:15",
+    "Cliente": "N/A",
+    "Articulo": "agua suelta",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 7.00,
+    "Subtotal": 7.00,
+    "Iva": 0.00,
+    "Total": 7.00
+  },
+  {
+    "Folio": "VMEN-1297",
+    "Fecha": "2026-03-11",
+    "Hora": "18:34:15",
+    "Cliente": "N/A",
+    "Articulo": "Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.00,
+    "Subtotal": 0.00,
+    "Iva": 0.00,
+    "Total": 0.00
   }
 ]
