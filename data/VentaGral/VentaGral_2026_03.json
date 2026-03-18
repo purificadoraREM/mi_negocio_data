@@ -1888,5 +1888,50 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-245",
+    "Fecha": "2026-03-14",
+    "Hora": "18:51:11",
+    "Cliente": "FRUTERIA MADRID SUC OLIVARES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 440.00,
+    "Iva": 0.00,
+    "Total": 440.00,
+    "Efectivo": 440.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-246",
+    "Fecha": "2026-03-17",
+    "Hora": "18:52:17",
+    "Cliente": "FRUTERIA MADRID SUC VILLAS DEL REAL",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 748.00,
+    "Iva": 0.00,
+    "Total": 748.00,
+    "Efectivo": 748.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-247",
+    "Fecha": "2026-03-14",
+    "Hora": "18:53:06",
+    "Cliente": "SUPER CORDOVA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00,
+    "Efectivo": 330.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
