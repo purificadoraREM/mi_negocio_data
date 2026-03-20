@@ -2826,5 +2826,47 @@
     "Subtotal": 30.00,
     "Iva": 0.00,
     "Total": 30.00
+  },
+  {
+    "Folio": "VMEN-1357",
+    "Fecha": "2026-03-20",
+    "Hora": "13:12:35",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 3kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 25.00,
+    "Subtotal": 25.00,
+    "Iva": 0.00,
+    "Total": 25.00
+  },
+  {
+    "Folio": "VMEN-1358",
+    "Fecha": "2026-03-20",
+    "Hora": "13:13:26",
+    "Cliente": "N/A",
+    "Articulo": "Garrafon con asa",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 99.14,
+    "Subtotal": 99.14,
+    "Iva": 15.86,
+    "Total": 115.00
+  },
+  {
+    "Folio": "VMEN-1358",
+    "Fecha": "2026-03-20",
+    "Hora": "13:13:26",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
   }
 ]
