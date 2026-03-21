@@ -2980,5 +2980,61 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VM-255",
+    "Fecha": "2026-03-20",
+    "Hora": "19:13:10",
+    "Cliente": "ARROYOS",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 7.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 91.00,
+    "Iva": 0.00,
+    "Total": 91.00
+  },
+  {
+    "Folio": "VM-255",
+    "Fecha": "2026-03-20",
+    "Hora": "19:13:10",
+    "Cliente": "ARROYOS",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 5.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 110.00,
+    "Iva": 0.00,
+    "Total": 110.00
+  },
+  {
+    "Folio": "VM-256",
+    "Fecha": "2026-03-19",
+    "Hora": "19:14:05",
+    "Cliente": "SUPER CORDOVA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
+  },
+  {
+    "Folio": "VM-257",
+    "Fecha": "2026-03-20",
+    "Hora": "19:17:58",
+    "Cliente": "REFORMA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
   }
 ]
