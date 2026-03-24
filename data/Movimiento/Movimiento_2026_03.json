@@ -2770,5 +2770,17 @@
     "CostoUnitario": 0.00,
     "Referencia": "bolsas nuevas",
     "Observaciones": "24/03/26"
+  },
+  {
+    "MovimientoID": 5863,
+    "ProductoID": 2,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-03-24",
+    "StockAntesMov": 174,
+    "StockDespMov": 173,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
   }
 ]
