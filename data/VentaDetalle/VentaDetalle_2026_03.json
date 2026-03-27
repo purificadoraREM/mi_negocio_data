@@ -4016,5 +4016,19 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-1417",
+    "Fecha": "2026-03-27",
+    "Hora": "15:13:20",
+    "Cliente": "N/A",
+    "Articulo": "agua suelta",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 9.00,
+    "Subtotal": 9.00,
+    "Iva": 0.00,
+    "Total": 9.00
   }
 ]
