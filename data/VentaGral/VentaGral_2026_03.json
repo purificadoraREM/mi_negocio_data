@@ -3313,5 +3313,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-265",
+    "Fecha": "2026-03-26",
+    "Hora": "19:00:21",
+    "Cliente": "Dulceria Sahuaro",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 132.00,
+    "Iva": 0.00,
+    "Total": 132.00,
+    "Efectivo": 132.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
