@@ -3328,5 +3328,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VMEN-1408",
+    "Fecha": "2026-03-26",
+    "Hora": "19:16:30",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00,
+    "Efectivo": 15.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-266",
+    "Fecha": "2026-03-26",
+    "Hora": "19:01:00",
+    "Cliente": "LA CARIDAD",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00,
+    "Efectivo": 220.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
