@@ -3553,5 +3553,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-269",
+    "Fecha": "2026-03-27",
+    "Hora": "08:17:59",
+    "Cliente": "MANANTIALES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Transferencia",
+    "Subtotal": 396.00,
+    "Iva": 0.00,
+    "Total": 396.00,
+    "Efectivo": 0.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 396.00,
+    "Usuario": "Admin"
   }
 ]
