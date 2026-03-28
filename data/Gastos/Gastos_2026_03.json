@@ -86,5 +86,16 @@
     "FolioV": null,
     "Fecha": "2026-03-11",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-50",
+    "Concepto": "Garrafones y tapa",
+    "Monto": 845.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "5 con asa 5 sin asa y 100 tapa roscas",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-03-28",
+    "Cajero": "Admin                                                                                               "
   }
 ]
