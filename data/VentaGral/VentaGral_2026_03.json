@@ -3508,5 +3508,35 @@
     "Tarjeta": 15.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-267",
+    "Fecha": "2026-03-27",
+    "Hora": "18:49:07",
+    "Cliente": "LAS TORRES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00,
+    "Efectivo": 330.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-268",
+    "Fecha": "2026-03-21",
+    "Hora": "18:51:05",
+    "Cliente": "INSURGENTES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 264.00,
+    "Iva": 0.00,
+    "Total": 264.00,
+    "Efectivo": 264.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
