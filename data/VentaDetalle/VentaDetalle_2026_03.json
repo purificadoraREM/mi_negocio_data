@@ -4100,5 +4100,19 @@
     "Subtotal": 25.00,
     "Iva": 0.00,
     "Total": 25.00
+  },
+  {
+    "Folio": "VM-269",
+    "Fecha": "2026-03-27",
+    "Hora": "08:17:59",
+    "Cliente": "MANANTIALES",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Transferencia",
+    "Cantidad": 18.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 396.00,
+    "Iva": 0.00,
+    "Total": 396.00
   }
 ]
