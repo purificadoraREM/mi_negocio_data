@@ -97,5 +97,16 @@
     "FolioV": null,
     "Fecha": "2026-03-28",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-51",
+    "Concepto": "cloro farmacia",
+    "Monto": 10.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "28/03/2026",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-03-28",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
