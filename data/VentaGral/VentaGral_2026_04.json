@@ -223,5 +223,50 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VMEN-1461",
+    "Fecha": "2026-04-01",
+    "Hora": "19:36:07",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 50.00,
+    "Iva": 0.00,
+    "Total": 50.00,
+    "Efectivo": 50.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-1462",
+    "Fecha": "2026-04-01",
+    "Hora": "19:36:12",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00,
+    "Efectivo": 10.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-1463",
+    "Fecha": "2026-04-01",
+    "Hora": "19:40:31",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00,
+    "Efectivo": 35.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
