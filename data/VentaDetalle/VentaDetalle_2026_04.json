@@ -110,5 +110,19 @@
     "Subtotal": 30.00,
     "Iva": 0.00,
     "Total": 30.00
+  },
+  {
+    "Folio": "VM-275",
+    "Fecha": "2026-04-01",
+    "Hora": "18:22:49",
+    "Cliente": "Dulceria Sahuaro",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 6.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 132.00,
+    "Iva": 0.00,
+    "Total": 132.00
   }
 ]
