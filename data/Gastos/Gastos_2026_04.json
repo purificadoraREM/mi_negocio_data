@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "ID": "GA-53",
+    "Concepto": "Pago gaby",
+    "Monto": 6000.00,
+    "MetodoDePago": "Transferencia",
+    "Notas": "Abono 2 pago Gaby \n2430 abono 1 ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-03",
+    "Cajero": "Admin                                                                                               "
+  }
+]
