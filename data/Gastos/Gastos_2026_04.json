@@ -20,5 +20,16 @@
     "FolioV": null,
     "Fecha": "2026-04-06",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-55",
+    "Concepto": "llanta ponchada",
+    "Monto": 70.00,
+    "MetodoDePago": "Tarjeta",
+    "Notas": "07/04/26",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-07",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
