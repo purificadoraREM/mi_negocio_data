@@ -574,5 +574,41 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 6000,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "Cantidad": 2,
+    "Fecha": "2026-04-06",
+    "StockAntesMov": 617,
+    "StockDespMov": 615,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 6001,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "Cantidad": 27,
+    "Fecha": "2026-04-06",
+    "StockAntesMov": -7,
+    "StockDespMov": 20,
+    "CostoUnitario": 0.00,
+    "Referencia": "bolsas nuevas",
+    "Observaciones": "06/04/2026"
+  },
+  {
+    "MovimientoID": 6002,
+    "ProductoID": 4,
+    "Tipo": "ENTRADA",
+    "Cantidad": 3,
+    "Fecha": "2026-04-06",
+    "StockAntesMov": 13,
+    "StockDespMov": 16,
+    "CostoUnitario": 0.00,
+    "Referencia": "bolsas nuevas",
+    "Observaciones": "06/04/26"
   }
 ]
