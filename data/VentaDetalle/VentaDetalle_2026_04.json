@@ -866,5 +866,47 @@
     "Subtotal": 90.00,
     "Iva": 0.00,
     "Total": 90.00
+  },
+  {
+    "Folio": "VM-281",
+    "Fecha": "2026-04-07",
+    "Hora": "18:37:29",
+    "Cliente": "LA CHOYA",
+    "Articulo": "REGISTRO DE CLIENTE NUEVO",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.01,
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01
+  },
+  {
+    "Folio": "VM-282",
+    "Fecha": "2026-04-07",
+    "Hora": "18:40:25",
+    "Cliente": "COLOSIO",
+    "Articulo": "REGISTRO DE CLIENTE NUEVO",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.01,
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01
+  },
+  {
+    "Folio": "VMEN-1498",
+    "Fecha": "2026-04-07",
+    "Hora": "18:40:45",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
   }
 ]
