@@ -31,5 +31,16 @@
     "FolioV": null,
     "Fecha": "2026-04-07",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-56",
+    "Concepto": "Gasolina altima",
+    "Monto": 1000.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina altima",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-07",
+    "Cajero": "Admin                                                                                               "
   }
 ]
