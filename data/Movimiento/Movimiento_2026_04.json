@@ -778,5 +778,29 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 6017,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "Cantidad": 25,
+    "Fecha": "2026-04-07",
+    "StockAntesMov": -25,
+    "StockDespMov": 0,
+    "CostoUnitario": 0.00,
+    "Referencia": "BOLSAS NUEVAS",
+    "Observaciones": "07/04/2026"
+  },
+  {
+    "MovimientoID": 6018,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "Cantidad": 35,
+    "Fecha": "2026-04-07",
+    "StockAntesMov": 0,
+    "StockDespMov": 35,
+    "CostoUnitario": 0.00,
+    "Referencia": "BOLSAS DE HIELO",
+    "Observaciones": "07/04/26"
   }
 ]
