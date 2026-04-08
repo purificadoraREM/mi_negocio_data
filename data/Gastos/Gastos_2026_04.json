@@ -23,10 +23,10 @@
   },
   {
     "ID": "GA-55",
-    "Concepto": "llanta ponchada",
+    "Concepto": "parchado de llanta",
     "Monto": 70.00,
-    "MetodoDePago": "Tarjeta",
-    "Notas": "07/04/26",
+    "MetodoDePago": "Efectivo",
+    "Notas": "07/04/2026",
     "Categoria": null,
     "FolioV": null,
     "Fecha": "2026-04-07",
