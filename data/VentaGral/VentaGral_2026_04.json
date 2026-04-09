@@ -1123,5 +1123,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-284",
+    "Fecha": "2026-04-08",
+    "Hora": "18:52:26",
+    "Cliente": "LA CHOYA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 328.00,
+    "Iva": 0.00,
+    "Total": 328.00,
+    "Efectivo": 328.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-285",
+    "Fecha": "2026-04-08",
+    "Hora": "18:53:02",
+    "Cliente": "LAS TORRES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00,
+    "Efectivo": 330.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
