@@ -1636,5 +1636,61 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VM-288",
+    "Fecha": "2026-04-09",
+    "Hora": "19:37:17",
+    "Cliente": "PALO VERDE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 8.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 176.00,
+    "Iva": 0.00,
+    "Total": 176.00
+  },
+  {
+    "Folio": "VM-289",
+    "Fecha": "2026-04-09",
+    "Hora": "19:37:18",
+    "Cliente": "PALO VERDE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 8.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 176.00,
+    "Iva": 0.00,
+    "Total": 176.00
+  },
+  {
+    "Folio": "VM-290",
+    "Fecha": "2026-04-09",
+    "Hora": "19:37:50",
+    "Cliente": "LAS LOMAS",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
+  },
+  {
+    "Folio": "VM-291",
+    "Fecha": "2026-04-09",
+    "Hora": "19:39:15",
+    "Cliente": "HERBALIFE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
   }
 ]
