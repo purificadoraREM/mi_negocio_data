@@ -64,5 +64,16 @@
     "FolioV": null,
     "Fecha": "2026-04-09",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-59",
+    "Concepto": "bolsas para la basura",
+    "Monto": 40.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "10/04/2026",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-10",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
