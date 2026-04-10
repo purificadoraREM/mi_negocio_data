@@ -42,5 +42,27 @@
     "FolioV": null,
     "Fecha": "2026-04-07",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-57",
+    "Concepto": "Tubo y coples",
+    "Monto": 100.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Tubos y copple",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-09",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-58",
+    "Concepto": "Tubo y copple",
+    "Monto": 50.00,
+    "MetodoDePago": "Tarjeta",
+    "Notas": "Tubo y copple",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-09",
+    "Cajero": "Admin                                                                                               "
   }
 ]
