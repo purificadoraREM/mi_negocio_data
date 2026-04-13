@@ -1902,5 +1902,47 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VM-292",
+    "Fecha": "2026-04-11",
+    "Hora": "09:00:35",
+    "Cliente": "REFORMA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
+  },
+  {
+    "Folio": "VM-293",
+    "Fecha": "2026-04-10",
+    "Hora": "09:01:29",
+    "Cliente": "SUPER CORDOVA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00
+  },
+  {
+    "Folio": "VM-294",
+    "Fecha": "2026-04-10",
+    "Hora": "09:25:45",
+    "Cliente": "FRUTERIA MADRID SUC VILLAS DEL REAL",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 25.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 550.00,
+    "Iva": 0.00,
+    "Total": 550.00
   }
 ]
