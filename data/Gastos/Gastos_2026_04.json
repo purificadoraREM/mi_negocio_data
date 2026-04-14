@@ -97,5 +97,16 @@
     "FolioV": null,
     "Fecha": "2026-04-13",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-62",
+    "Concepto": "cloro",
+    "Monto": 20.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "14/04/26",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-14",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
