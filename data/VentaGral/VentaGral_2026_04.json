@@ -2008,5 +2008,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "rem"
+  },
+  {
+    "Folio": "VMEN-1561",
+    "Fecha": "2026-04-14",
+    "Hora": "11:15:35",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 45.00,
+    "Iva": 0.00,
+    "Total": 45.00,
+    "Efectivo": 45.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "rem"
+  },
+  {
+    "Folio": "VMEN-1562",
+    "Fecha": "2026-04-14",
+    "Hora": "11:34:28",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 45.00,
+    "Iva": 0.00,
+    "Total": 45.00,
+    "Efectivo": 45.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "rem"
   }
 ]
