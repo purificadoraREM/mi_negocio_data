@@ -1933,5 +1933,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VMEN-1557",
+    "Fecha": "2026-04-13",
+    "Hora": "19:37:37",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 40.00,
+    "Iva": 0.00,
+    "Total": 40.00,
+    "Efectivo": 40.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-296",
+    "Fecha": "2026-04-13",
+    "Hora": "19:36:08",
+    "Cliente": "INSURGENTES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00,
+    "Efectivo": 220.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
