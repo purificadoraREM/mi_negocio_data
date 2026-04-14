@@ -75,5 +75,16 @@
     "FolioV": null,
     "Fecha": "2026-04-10",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-60",
+    "Concepto": "Gasolina altima",
+    "Monto": 1000.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina altima venta hielo sem 06 al 11 de abril",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-13",
+    "Cajero": "Admin                                                                                               "
   }
 ]
