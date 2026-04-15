@@ -2173,5 +2173,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 208.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-298",
+    "Fecha": "2026-04-14",
+    "Hora": "20:25:40",
+    "Cliente": "SOLIDARIDAD 2",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01,
+    "Efectivo": 0.01,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-299",
+    "Fecha": "2026-04-14",
+    "Hora": "20:17:38",
+    "Cliente": "NATURA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 240.00,
+    "Iva": 0.00,
+    "Total": 240.00,
+    "Efectivo": 240.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
