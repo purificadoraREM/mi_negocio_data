@@ -2546,5 +2546,19 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-1574",
+    "Fecha": "2026-04-15",
+    "Hora": "12:30:50",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 4.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 40.00,
+    "Iva": 0.00,
+    "Total": 40.00
   }
 ]
