@@ -108,5 +108,27 @@
     "FolioV": null,
     "Fecha": "2026-04-14",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-63",
+    "Concepto": "Mandado costco",
+    "Monto": 200.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Mandado costco",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-17",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-64",
+    "Concepto": "Mandado costco",
+    "Monto": 200.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Mandado costco",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-17",
+    "Cajero": "Admin                                                                                               "
   }
 ]
