@@ -2473,5 +2473,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-302",
+    "Fecha": "2026-04-18",
+    "Hora": "13:55:44",
+    "Cliente": "SOLIDARIDAD 1",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 308.00,
+    "Iva": 0.00,
+    "Total": 308.00,
+    "Efectivo": 308.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
