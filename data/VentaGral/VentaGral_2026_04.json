@@ -2488,5 +2488,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-303",
+    "Fecha": "2026-04-18",
+    "Hora": "17:47:34",
+    "Cliente": "LA CHOYA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 328.00,
+    "Iva": 0.00,
+    "Total": 328.00,
+    "Efectivo": 328.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-304",
+    "Fecha": "2026-04-18",
+    "Hora": "17:47:35",
+    "Cliente": "LA CHOYA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 328.00,
+    "Iva": 0.00,
+    "Total": 328.00,
+    "Efectivo": 328.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
