@@ -250,5 +250,23 @@
     "EfectivoEsperado": 220.00,
     "EfectivoContado": 220.00,
     "FondoFinal": 100.00
+  },
+  {
+    "CorteID": 199,
+    "Fecha": "2026-04-18",
+    "TotalVenta": 80.00,
+    "TotalEfectivo": 80.00,
+    "TotalTarjeta": 0.00,
+    "TotalTransferencia": 0.00,
+    "Sobro": 0.00,
+    "Falto": 0.00,
+    "Usuario": "rem",
+    "ReporteEnviado": true,
+    "Gasto": 0.00,
+    "FondoInicial": 0.00,
+    "SubTotalEsperado": 80.00,
+    "EfectivoEsperado": 80.00,
+    "EfectivoContado": 80.00,
+    "FondoFinal": 0.00
   }
 ]
