@@ -3092,5 +3092,61 @@
     "Subtotal": 40.00,
     "Iva": 0.00,
     "Total": 40.00
+  },
+  {
+    "Folio": "VMEN-1599",
+    "Fecha": "2026-04-22",
+    "Hora": "16:14:22",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-1599",
+    "Fecha": "2026-04-22",
+    "Hora": "16:14:22",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles ROSCA",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-1600",
+    "Fecha": "2026-04-22",
+    "Hora": "16:15:12",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-1600",
+    "Fecha": "2026-04-22",
+    "Hora": "16:15:12",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles ROSCA",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
