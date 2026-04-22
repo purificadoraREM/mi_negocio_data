@@ -2896,5 +2896,47 @@
     "Subtotal": 90.00,
     "Iva": 0.00,
     "Total": 90.00
+  },
+  {
+    "Folio": "VMEN-1589",
+    "Fecha": "2026-04-21",
+    "Hora": "17:07:34",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-1589",
+    "Fecha": "2026-04-21",
+    "Hora": "17:07:34",
+    "Cliente": "N/A",
+    "Articulo": "Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 20.00,
+    "PrecioUnitario": 0.00,
+    "Subtotal": 0.00,
+    "Iva": 0.00,
+    "Total": 0.00
+  },
+  {
+    "Folio": "VMEN-1589",
+    "Fecha": "2026-04-21",
+    "Hora": "17:07:34",
+    "Cliente": "N/A",
+    "Articulo": "Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 20.00,
+    "PrecioUnitario": 0.00,
+    "Subtotal": 0.00,
+    "Iva": 0.00,
+    "Total": 0.00
   }
 ]
