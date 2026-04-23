@@ -3428,5 +3428,19 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VM-308",
+    "Fecha": "2026-04-23",
+    "Hora": "11:36:11",
+    "Cliente": "HERBALIFE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 12.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 264.00,
+    "Iva": 0.00,
+    "Total": 264.00
   }
 ]
