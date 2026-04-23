@@ -2758,5 +2758,17 @@
     "CostoUnitario": 0.00,
     "Referencia": "bolsa nueva",
     "Observaciones": "22/04/2026"
+  },
+  {
+    "MovimientoID": 6182,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-04-23",
+    "StockAntesMov": 341,
+    "StockDespMov": 340,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
   }
 ]
