@@ -3442,5 +3442,33 @@
     "Subtotal": 264.00,
     "Iva": 0.00,
     "Total": 264.00
+  },
+  {
+    "Folio": "VMEN-1615",
+    "Fecha": "2026-04-23",
+    "Hora": "12:15:47",
+    "Cliente": "N/A",
+    "Articulo": "agua suelta",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 6.00,
+    "Subtotal": 6.00,
+    "Iva": 0.00,
+    "Total": 6.00
+  },
+  {
+    "Folio": "VMEN-1615",
+    "Fecha": "2026-04-23",
+    "Hora": "12:15:47",
+    "Cliente": "N/A",
+    "Articulo": "hielo",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 14.00,
+    "Subtotal": 14.00,
+    "Iva": 0.00,
+    "Total": 14.00
   }
 ]
