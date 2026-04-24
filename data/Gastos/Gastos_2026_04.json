@@ -130,5 +130,38 @@
     "FolioV": null,
     "Fecha": "2026-04-17",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-65",
+    "Concepto": "Fumigacion purificadora ",
+    "Monto": 900.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Fumigacion purificadora",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-20",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-66",
+    "Concepto": "Fumigacion plagafin",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Fumigacion plagafin",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-23",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-67",
+    "Concepto": "Cambio de compresor refrigerador ",
+    "Monto": 700.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Cambio de compresor refrigerador ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-23",
+    "Cajero": "Admin                                                                                               "
   }
 ]
