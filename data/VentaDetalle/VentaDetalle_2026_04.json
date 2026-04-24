@@ -3596,5 +3596,47 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-1625",
+    "Fecha": "2026-04-23",
+    "Hora": "20:23:22",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
+  },
+  {
+    "Folio": "VM-309",
+    "Fecha": "2026-04-23",
+    "Hora": "20:34:29",
+    "Cliente": "PALO VERDE 2",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00
+  },
+  {
+    "Folio": "VM-310",
+    "Fecha": "2026-04-23",
+    "Hora": "20:35:50",
+    "Cliente": "PALO VERDE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 16.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 352.00,
+    "Iva": 0.00,
+    "Total": 352.00
   }
 ]
