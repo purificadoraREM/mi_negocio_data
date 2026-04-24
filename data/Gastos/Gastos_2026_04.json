@@ -163,5 +163,16 @@
     "FolioV": null,
     "Fecha": "2026-04-23",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-68",
+    "Concepto": "ramon, jonathan",
+    "Monto": 50.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "23/04/26",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-04-23",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
