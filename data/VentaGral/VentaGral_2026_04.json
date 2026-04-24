@@ -3238,5 +3238,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VMEN-1628",
+    "Fecha": "2026-04-24",
+    "Hora": "09:13:11",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 120.00,
+    "Iva": 0.00,
+    "Total": 120.00,
+    "Efectivo": 120.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "rem"
   }
 ]
