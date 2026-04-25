@@ -3313,5 +3313,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-313",
+    "Fecha": "2026-04-24",
+    "Hora": "18:29:27",
+    "Cliente": "FRUTERIA MADRID SUC OLIVARES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 550.00,
+    "Iva": 0.00,
+    "Total": 550.00,
+    "Efectivo": 550.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
