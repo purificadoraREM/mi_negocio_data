@@ -3764,5 +3764,19 @@
     "Subtotal": 330.00,
     "Iva": 0.00,
     "Total": 330.00
+  },
+  {
+    "Folio": "VM-313",
+    "Fecha": "2026-04-24",
+    "Hora": "18:29:27",
+    "Cliente": "FRUTERIA MADRID SUC OLIVARES",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 25.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 550.00,
+    "Iva": 0.00,
+    "Total": 550.00
   }
 ]
