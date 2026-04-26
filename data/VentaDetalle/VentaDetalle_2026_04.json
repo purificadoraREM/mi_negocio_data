@@ -3918,5 +3918,33 @@
     "Subtotal": 132.00,
     "Iva": 0.00,
     "Total": 132.00
+  },
+  {
+    "Folio": "VM-316",
+    "Fecha": "2026-04-25",
+    "Hora": "17:06:12",
+    "Cliente": "LAS TORRES",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
+  },
+  {
+    "Folio": "VM-317",
+    "Fecha": "2026-04-25",
+    "Hora": "17:07:27",
+    "Cliente": "LA CARIDAD",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
   }
 ]
