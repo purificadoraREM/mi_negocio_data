@@ -3718,5 +3718,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-321",
+    "Fecha": "2026-04-28",
+    "Hora": "19:38:08",
+    "Cliente": "LAS LOMAS",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00,
+    "Efectivo": 330.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-322",
+    "Fecha": "2026-04-28",
+    "Hora": "19:38:04",
+    "Cliente": "LAS LOMAS",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00,
+    "Efectivo": 330.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
