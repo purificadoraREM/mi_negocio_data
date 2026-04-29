@@ -3688,5 +3688,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-319",
+    "Fecha": "2026-04-28",
+    "Hora": "19:11:30",
+    "Cliente": "PALO VERDE 2",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 350.00,
+    "Iva": 0.00,
+    "Total": 350.00,
+    "Efectivo": 350.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-320",
+    "Fecha": "2026-04-28",
+    "Hora": "19:18:54",
+    "Cliente": "PALO VERDE",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 154.00,
+    "Iva": 0.00,
+    "Total": 154.00,
+    "Efectivo": 154.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
