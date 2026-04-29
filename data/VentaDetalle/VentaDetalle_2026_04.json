@@ -4184,5 +4184,47 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-1650",
+    "Fecha": "2026-04-28",
+    "Hora": "18:36:06",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
+  },
+  {
+    "Folio": "VM-318",
+    "Fecha": "2026-04-28",
+    "Hora": "18:48:30",
+    "Cliente": "LA CHOYA",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00
+  },
+  {
+    "Folio": "VM-318",
+    "Fecha": "2026-04-28",
+    "Hora": "18:48:30",
+    "Cliente": "LA CHOYA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 5.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 110.00,
+    "Iva": 0.00,
+    "Total": 110.00
   }
 ]
