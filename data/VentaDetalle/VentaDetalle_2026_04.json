@@ -4632,5 +4632,33 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-1668",
+    "Fecha": "2026-04-30",
+    "Hora": "08:52:47",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
+  },
+  {
+    "Folio": "VM-325",
+    "Fecha": "2026-04-30",
+    "Hora": "07:55:26",
+    "Cliente": "FRUTERIA MADRID SUC VILLAS DEL REAL",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 28.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 616.00,
+    "Iva": 0.00,
+    "Total": 616.00
   }
 ]
