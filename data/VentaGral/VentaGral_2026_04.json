@@ -3735,16 +3735,16 @@
     "Usuario": "Admin"
   },
   {
-    "Folio": "VM-322",
-    "Fecha": "2026-04-28",
-    "Hora": "19:38:04",
-    "Cliente": "LAS LOMAS",
+    "Folio": "VM-324",
+    "Fecha": "2026-04-29",
+    "Hora": "17:13:28",
+    "Cliente": "FRUTERIA MADRID SUC VILLAS DEL REAL",
     "TipoDeCompra": "Mayoreo",
     "TipoDePago": "Efectivo",
-    "Subtotal": 330.00,
+    "Subtotal": 704.00,
     "Iva": 0.00,
-    "Total": 330.00,
-    "Efectivo": 330.00,
+    "Total": 704.00,
+    "Efectivo": 704.00,
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Admin"
@@ -3913,5 +3913,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-323",
+    "Fecha": "2026-04-29",
+    "Hora": "17:12:50",
+    "Cliente": "SUPER CORDOVA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 286.00,
+    "Iva": 0.00,
+    "Total": 286.00,
+    "Efectivo": 286.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
