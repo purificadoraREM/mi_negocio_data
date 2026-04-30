@@ -4284,20 +4284,6 @@
     "Total": 330.00
   },
   {
-    "Folio": "VM-322",
-    "Fecha": "2026-04-28",
-    "Hora": "19:38:04",
-    "Cliente": "LAS LOMAS",
-    "Articulo": "Hielo M 5kg",
-    "TipoDeCompra": "Mayoreo",
-    "TipoDePago": "Efectivo",
-    "Cantidad": 15.00,
-    "PrecioUnitario": 22.00,
-    "Subtotal": 330.00,
-    "Iva": 0.00,
-    "Total": 330.00
-  },
-  {
     "Folio": "VMEN-1651",
     "Fecha": "2026-04-28",
     "Hora": "20:05:25",
@@ -4534,5 +4520,19 @@
     "Subtotal": 704.00,
     "Iva": 0.00,
     "Total": 704.00
+  },
+  {
+    "Folio": "VMEN-1662",
+    "Fecha": "2026-04-29",
+    "Hora": "17:26:12",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 6.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 60.00,
+    "Iva": 0.00,
+    "Total": 60.00
   }
 ]
