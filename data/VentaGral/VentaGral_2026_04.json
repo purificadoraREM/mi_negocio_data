@@ -4018,5 +4018,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-1668",
+    "Fecha": "2026-04-30",
+    "Hora": "08:52:47",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00,
+    "Efectivo": 15.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-325",
+    "Fecha": "2026-04-30",
+    "Hora": "07:55:26",
+    "Cliente": "FRUTERIA MADRID SUC VILLAS DEL REAL",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 616.00,
+    "Iva": 0.00,
+    "Total": 616.00,
+    "Efectivo": 616.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
