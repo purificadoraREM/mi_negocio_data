@@ -138,5 +138,19 @@
     "Subtotal": 60.00,
     "Iva": 0.00,
     "Total": 60.00
+  },
+  {
+    "Folio": "VMEN-1681",
+    "Fecha": "2026-05-02",
+    "Hora": "14:15:01",
+    "Cliente": "N/A",
+    "Articulo": "Maquina",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 372.00,
+    "Subtotal": 372.00,
+    "Iva": 0.00,
+    "Total": 372.00
   }
 ]
