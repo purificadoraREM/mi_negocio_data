@@ -96,5 +96,33 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-1678",
+    "Fecha": "2026-05-02",
+    "Hora": "11:04:48",
+    "Cliente": "N/A",
+    "Articulo": "agua suelta",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-1679",
+    "Fecha": "2026-05-02",
+    "Hora": "11:11:46",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
   }
 ]
