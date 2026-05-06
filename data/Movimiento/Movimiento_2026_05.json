@@ -658,5 +658,17 @@
     "CostoUnitario": 0.00,
     "Referencia": "nuevas",
     "Observaciones": "05/05/26"
+  },
+  {
+    "MovimientoID": 6328,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-05-05",
+    "StockAntesMov": 137,
+    "StockDespMov": 136,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
   }
 ]
