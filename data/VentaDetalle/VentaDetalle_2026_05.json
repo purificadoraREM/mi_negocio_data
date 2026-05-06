@@ -810,5 +810,47 @@
     "Subtotal": 480.00,
     "Iva": 0.00,
     "Total": 480.00
+  },
+  {
+    "Folio": "VMEN-1710",
+    "Fecha": "2026-05-06",
+    "Hora": "09:09:33",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 3.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
+  },
+  {
+    "Folio": "VMEN-1711",
+    "Fecha": "2026-05-06",
+    "Hora": "09:30:00",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 100.00,
+    "Iva": 0.00,
+    "Total": 100.00
+  },
+  {
+    "Folio": "VMEN-1712",
+    "Fecha": "2026-05-06",
+    "Hora": "09:30:08",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles ROSCA",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
