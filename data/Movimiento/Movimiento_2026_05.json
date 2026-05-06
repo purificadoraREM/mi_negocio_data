@@ -874,5 +874,17 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 6346,
+    "ProductoID": 1,
+    "Tipo": "ENTRADA",
+    "Cantidad": 1000,
+    "Fecha": "2026-05-06",
+    "StockAntesMov": 84,
+    "StockDespMov": 1084,
+    "CostoUnitario": 0.00,
+    "Referencia": "tapas nuevas",
+    "Observaciones": "06/05/2026"
   }
 ]
