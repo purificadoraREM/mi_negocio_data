@@ -180,10 +180,10 @@
     "FondoFinal": 100.00
   },
   {
-    "CorteID": 235,
+    "CorteID": 236,
     "Fecha": "2026-05-07",
-    "TotalVenta": 140.00,
-    "TotalEfectivo": 140.00,
+    "TotalVenta": 155.00,
+    "TotalEfectivo": 155.00,
     "TotalTarjeta": 0.00,
     "TotalTransferencia": 0.00,
     "Sobro": 0.00,
@@ -192,9 +192,9 @@
     "ReporteEnviado": true,
     "Gasto": 0.00,
     "FondoInicial": 140.00,
-    "SubTotalEsperado": 280.00,
-    "EfectivoEsperado": 280.00,
-    "EfectivoContado": 280.00,
+    "SubTotalEsperado": 295.00,
+    "EfectivoEsperado": 295.00,
+    "EfectivoContado": 295.00,
     "FondoFinal": 140.00
   }
 ]
