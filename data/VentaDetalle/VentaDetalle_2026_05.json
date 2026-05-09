@@ -1580,5 +1580,61 @@
     "Subtotal": 220.00,
     "Iva": 0.00,
     "Total": 220.00
+  },
+  {
+    "Folio": "VMEN-1748",
+    "Fecha": "2026-05-09",
+    "Hora": "10:21:21",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-1749",
+    "Fecha": "2026-05-09",
+    "Hora": "10:37:50",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-1749",
+    "Fecha": "2026-05-09",
+    "Hora": "10:37:50",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 4.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 60.00,
+    "Iva": 0.00,
+    "Total": 60.00
+  },
+  {
+    "Folio": "VMEN-1750",
+    "Fecha": "2026-05-09",
+    "Hora": "10:41:29",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
   }
 ]
