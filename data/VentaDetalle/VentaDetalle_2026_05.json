@@ -1510,5 +1510,47 @@
     "Subtotal": 5.00,
     "Iva": 0.00,
     "Total": 5.00
+  },
+  {
+    "Folio": "VM-340",
+    "Fecha": "2026-05-08",
+    "Hora": "19:59:03",
+    "Cliente": "PALO VERDE 2",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00
+  },
+  {
+    "Folio": "VM-340",
+    "Fecha": "2026-05-08",
+    "Hora": "19:59:03",
+    "Cliente": "PALO VERDE 2",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 5.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 65.00,
+    "Iva": 0.00,
+    "Total": 65.00
+  },
+  {
+    "Folio": "VM-341",
+    "Fecha": "2026-05-08",
+    "Hora": "20:00:03",
+    "Cliente": "OLIVARES 2",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
   }
 ]
