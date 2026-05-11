@@ -1453,5 +1453,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-344",
+    "Fecha": "2026-05-09",
+    "Hora": "19:50:01",
+    "Cliente": "LA CHOYA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 222.00,
+    "Iva": 0.00,
+    "Total": 222.00,
+    "Efectivo": 222.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
