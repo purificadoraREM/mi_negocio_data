@@ -2126,5 +2126,47 @@
     "Subtotal": 70.00,
     "Iva": 0.00,
     "Total": 70.00
+  },
+  {
+    "Folio": "VM-351",
+    "Fecha": "2026-05-12",
+    "Hora": "18:43:24",
+    "Cliente": "LA CHOYA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
+  },
+  {
+    "Folio": "VM-351",
+    "Fecha": "2026-05-12",
+    "Hora": "18:43:24",
+    "Cliente": "LA CHOYA",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00
+  },
+  {
+    "Folio": "VM-352",
+    "Fecha": "2026-05-12",
+    "Hora": "18:43:53",
+    "Cliente": "COLOSIO",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Transferencia",
+    "Cantidad": 16.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 208.00,
+    "Iva": 0.00,
+    "Total": 208.00
   }
 ]
