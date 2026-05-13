@@ -1798,5 +1798,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 208.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VMEN-1769",
+    "Fecha": "2026-05-12",
+    "Hora": "20:12:33",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 2.00,
+    "Iva": 0.00,
+    "Total": 2.00,
+    "Efectivo": 2.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
