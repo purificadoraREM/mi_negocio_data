@@ -7,5 +7,23 @@
     "Motivo": "ajuste por calidad",
     "Fecha": "2026-05-05",
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 37,
+    "ProductoID": 4,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 24,
+    "Motivo": "cambio a bolsas de 5 kg",
+    "Fecha": "2026-05-13",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 38,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 24,
+    "Motivo": "hacian falta bolsas ",
+    "Fecha": "2026-05-13",
+    "Usuario": "Gabriela Gracia"
   }
 ]
