@@ -360,24 +360,6 @@
     "FondoFinal": 100.00
   },
   {
-    "CorteID": 247,
-    "Fecha": "2026-05-15",
-    "TotalVenta": 80.00,
-    "TotalEfectivo": 80.00,
-    "TotalTarjeta": 0.00,
-    "TotalTransferencia": 0.00,
-    "Sobro": 0.00,
-    "Falto": 100.00,
-    "Usuario": "Gabriela Gracia",
-    "ReporteEnviado": true,
-    "Gasto": 0.00,
-    "FondoInicial": 100.00,
-    "SubTotalEsperado": 180.00,
-    "EfectivoEsperado": 180.00,
-    "EfectivoContado": 80.00,
-    "FondoFinal": 100.00
-  },
-  {
     "CorteID": 249,
     "Fecha": "2026-05-15",
     "TotalVenta": 129.00,
@@ -394,5 +376,23 @@
     "EfectivoEsperado": 229.00,
     "EfectivoContado": 229.00,
     "FondoFinal": 100.00
+  },
+  {
+    "CorteID": 250,
+    "Fecha": "2026-05-15",
+    "TotalVenta": 436.00,
+    "TotalEfectivo": 406.00,
+    "TotalTarjeta": 30.00,
+    "TotalTransferencia": 0.00,
+    "Sobro": 0.00,
+    "Falto": 0.00,
+    "Usuario": "Gabriela Gracia",
+    "ReporteEnviado": true,
+    "Gasto": 0.00,
+    "FondoInicial": 100.00,
+    "SubTotalEsperado": 506.00,
+    "EfectivoEsperado": 506.00,
+    "EfectivoContado": 506.00,
+    "FondoFinal": 120.00
   }
 ]
