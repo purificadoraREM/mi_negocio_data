@@ -1,7 +1,7 @@
 [
   {
-    "IDProducto": "p-004",
-    "Producto": "Relleno Tapa Presión",
+    "IDProducto": "p-010",
+    "Producto": "Tapa Presión",
     "IDConsumible": 1,
     "Consumible": "Tapa presión",
     "Usuario": "rem"
@@ -21,8 +21,8 @@
     "Usuario": "rem"
   },
   {
-    "IDProducto": "p-003",
-    "Producto": "Relleno Tapa Rosca",
+    "IDProducto": "p-011",
+    "Producto": "Tapa Rosca",
     "IDConsumible": 2,
     "Consumible": "Tapa rosca",
     "Usuario": "rem"
@@ -53,6 +53,13 @@
     "Producto": "Hielo M 3kg",
     "IDConsumible": 4,
     "Consumible": "Bolsas 3kg",
+    "Usuario": "rem"
+  },
+  {
+    "IDProducto": "PM-005",
+    "Producto": "Hielo M 20 kg",
+    "IDConsumible": 7,
+    "Consumible": "Bolsas 20 kg",
     "Usuario": "rem"
   },
   {
