@@ -70,5 +70,17 @@
     "StockActual": 2,
     "Unidad": "",
     "GravaIVA": true
+  },
+  {
+    "ID": 7,
+    "Nombre": "Bolsas 20 kg",
+    "Descripcion": "bolsas nuevas",
+    "Categoria": "Hielo",
+    "PrecioCompra": 0.00,
+    "PrecioVenta": 0.00,
+    "StockMinimo": 50,
+    "StockActual": 3,
+    "Unidad": "",
+    "GravaIVA": false
   }
 ]
