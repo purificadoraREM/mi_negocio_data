@@ -3596,5 +3596,19 @@
     "Subtotal": 70.00,
     "Iva": 0.00,
     "Total": 70.00
+  },
+  {
+    "Folio": "VMEN-1842",
+    "Fecha": "2026-05-18",
+    "Hora": "16:51:24",
+    "Cliente": "N/A",
+    "Articulo": "Maquina",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 726.00,
+    "Subtotal": 726.00,
+    "Iva": 0.00,
+    "Total": 726.00
   }
 ]
