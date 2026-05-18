@@ -3400,5 +3400,33 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-1830",
+    "Fecha": "2026-05-18",
+    "Hora": "09:21:15",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
+  },
+  {
+    "Folio": "VMEN-1830",
+    "Fecha": "2026-05-18",
+    "Hora": "09:21:15",
+    "Cliente": "N/A",
+    "Articulo": "hielo",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 40.00,
+    "Subtotal": 40.00,
+    "Iva": 0.00,
+    "Total": 40.00
   }
 ]
