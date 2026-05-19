@@ -3736,5 +3736,19 @@
     "Subtotal": 440.00,
     "Iva": 0.00,
     "Total": 440.00
+  },
+  {
+    "Folio": "VM-362",
+    "Fecha": "2026-05-18",
+    "Hora": "19:34:30",
+    "Cliente": "REFORMA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
   }
 ]
