@@ -4212,5 +4212,33 @@
     "Subtotal": 22.00,
     "Iva": 0.00,
     "Total": 22.00
+  },
+  {
+    "Folio": "VMEN-1871",
+    "Fecha": "2026-05-20",
+    "Hora": "11:50:40",
+    "Cliente": "N/A",
+    "Articulo": "agua",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-1871",
+    "Fecha": "2026-05-20",
+    "Hora": "11:50:40",
+    "Cliente": "N/A",
+    "Articulo": "hielo",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
