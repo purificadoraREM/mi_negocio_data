@@ -4562,5 +4562,19 @@
     "Subtotal": 25.00,
     "Iva": 0.00,
     "Total": 25.00
+  },
+  {
+    "Folio": "VMEN-1884",
+    "Fecha": "2026-05-21",
+    "Hora": "11:44:58",
+    "Cliente": "N/A",
+    "Articulo": "hielo",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 23.00,
+    "Subtotal": 23.00,
+    "Iva": 0.00,
+    "Total": 23.00
   }
 ]
