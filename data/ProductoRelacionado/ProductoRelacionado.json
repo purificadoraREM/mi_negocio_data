@@ -63,6 +63,13 @@
     "Usuario": "rem"
   },
   {
+    "IDProducto": "PM-006",
+    "Producto": "RELLENO TAPAROSCA M",
+    "IDConsumible": 2,
+    "Consumible": "Tapa rosca",
+    "Usuario": "rem"
+  },
+  {
     "IDProducto": "p-010",
     "Producto": "Relleno Tapa Presión",
     "IDConsumible": 1,
