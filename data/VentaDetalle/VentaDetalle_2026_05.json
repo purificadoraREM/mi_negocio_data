@@ -4674,5 +4674,33 @@
     "Subtotal": 210.00,
     "Iva": 0.00,
     "Total": 210.00
+  },
+  {
+    "Folio": "VM-370",
+    "Fecha": "2026-05-21",
+    "Hora": "17:10:12",
+    "Cliente": "Ningún Cliente Seleccionado",
+    "Articulo": "RELLENO TAPAROSCA M",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Transferencia",
+    "Cantidad": 7.00,
+    "PrecioUnitario": 25.00,
+    "Subtotal": 175.00,
+    "Iva": 0.00,
+    "Total": 175.00
+  },
+  {
+    "Folio": "VMEN-1892",
+    "Fecha": "2026-05-21",
+    "Hora": "17:17:27",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
   }
 ]
