@@ -5220,5 +5220,19 @@
     "Subtotal": 220.00,
     "Iva": 0.00,
     "Total": 220.00
+  },
+  {
+    "Folio": "VM-377",
+    "Fecha": "2026-05-25",
+    "Hora": "16:27:52",
+    "Cliente": "purificadora(villas)",
+    "Articulo": "REGISTRO DE CLIENTE NUEVO",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.01,
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01
   }
 ]
