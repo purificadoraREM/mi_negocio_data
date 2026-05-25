@@ -4273,5 +4273,50 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-373",
+    "Fecha": "2026-05-23",
+    "Hora": "19:16:29",
+    "Cliente": "LA CHOYA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 328.00,
+    "Iva": 0.00,
+    "Total": 328.00,
+    "Efectivo": 328.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-374",
+    "Fecha": "2026-05-23",
+    "Hora": "19:17:24",
+    "Cliente": "PALO VERDE",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 264.00,
+    "Iva": 0.00,
+    "Total": 264.00,
+    "Efectivo": 264.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-375",
+    "Fecha": "2026-05-23",
+    "Hora": "19:18:12",
+    "Cliente": "PALO VERDE 2",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 363.00,
+    "Iva": 0.00,
+    "Total": 363.00,
+    "Efectivo": 363.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
