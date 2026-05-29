@@ -4603,5 +4603,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-387",
+    "Fecha": "2026-05-27",
+    "Hora": "17:45:58",
+    "Cliente": "INSURGENTES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 352.00,
+    "Iva": 0.00,
+    "Total": 352.00,
+    "Efectivo": 352.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
