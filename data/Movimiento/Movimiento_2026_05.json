@@ -3622,5 +3622,65 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 6575,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "Cantidad": 9,
+    "Fecha": "2026-05-28",
+    "StockAntesMov": -224,
+    "StockDespMov": -233,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 6576,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "Cantidad": 10,
+    "Fecha": "2026-05-28",
+    "StockAntesMov": -233,
+    "StockDespMov": -243,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 6577,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "Cantidad": 7,
+    "Fecha": "2026-05-28",
+    "StockAntesMov": -243,
+    "StockDespMov": -250,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 6578,
+    "ProductoID": 4,
+    "Tipo": "SALIDA",
+    "Cantidad": 13,
+    "Fecha": "2026-05-28",
+    "StockAntesMov": -66,
+    "StockDespMov": -79,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 6579,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "Cantidad": 50,
+    "Fecha": "2026-05-28",
+    "StockAntesMov": -250,
+    "StockDespMov": -300,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
   }
 ]
