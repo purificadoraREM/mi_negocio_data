@@ -5542,5 +5542,33 @@
     "Subtotal": 352.00,
     "Iva": 0.00,
     "Total": 352.00
+  },
+  {
+    "Folio": "VMEN-1922",
+    "Fecha": "2026-05-29",
+    "Hora": "08:51:50",
+    "Cliente": "N/A",
+    "Articulo": "agua",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 7.00,
+    "Subtotal": 7.00,
+    "Iva": 0.00,
+    "Total": 7.00
+  },
+  {
+    "Folio": "VMEN-1922",
+    "Fecha": "2026-05-29",
+    "Hora": "08:51:50",
+    "Cliente": "N/A",
+    "Articulo": "hielo",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 6.00,
+    "Subtotal": 6.00,
+    "Iva": 0.00,
+    "Total": 6.00
   }
 ]
