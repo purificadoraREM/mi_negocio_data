@@ -1,0 +1,26 @@
+[
+  {
+    "MovimientoID": 6584,
+    "ProductoID": 2,
+    "Tipo": "SALIDA",
+    "Cantidad": 3,
+    "Fecha": "2026-06-01",
+    "StockAntesMov": 24,
+    "StockDespMov": 21,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 6585,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "Cantidad": 20,
+    "Fecha": "2026-06-01",
+    "StockAntesMov": 708,
+    "StockDespMov": 688,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  }
+]
