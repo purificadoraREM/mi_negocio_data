@@ -31,7 +31,7 @@
     "PrecioCompra": 1.00,
     "PrecioVenta": 1.00,
     "StockMinimo": 500,
-    "StockActual": -319,
+    "StockActual": -320,
     "Unidad": "",
     "GravaIVA": true
   },
