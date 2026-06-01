@@ -173,5 +173,40 @@
     "FechaRegistro": "2026-03-04T00:00:00",
     "Direccion": "JOSEFA ORTIZ DE DOMINGUEZ 152",
     "Telefono": "6621844222"
+  },
+  {
+    "ID": "CM-26",
+    "Nombre": "LA CHOYA",
+    "FechaRegistro": "2026-04-07T00:00:00",
+    "Direccion": "AVENIDA VEDRA 35",
+    "Telefono": "6623515313"
+  },
+  {
+    "ID": "CM-27",
+    "Nombre": "COLOSIO",
+    "FechaRegistro": "2026-04-07T00:00:00",
+    "Direccion": "PRIVADA AMBROSIA 9",
+    "Telefono": "6441960569"
+  },
+  {
+    "ID": "CM-28",
+    "Nombre": "Foton tractocamiones",
+    "FechaRegistro": "2026-05-21T00:00:00",
+    "Direccion": "luis encinas, serca de federal",
+    "Telefono": "0"
+  },
+  {
+    "ID": "CM-29",
+    "Nombre": "purificadora(villas)",
+    "FechaRegistro": "2026-05-25T00:00:00",
+    "Direccion": "0",
+    "Telefono": "0"
+  },
+  {
+    "ID": "CM-30",
+    "Nombre": "san luis",
+    "FechaRegistro": "2026-05-28T00:00:00",
+    "Direccion": "0",
+    "Telefono": "0"
   }
 ]
