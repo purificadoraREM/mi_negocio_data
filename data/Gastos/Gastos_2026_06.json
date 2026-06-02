@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "ID": "GA-70",
+    "Concepto": "Tortillas y soda",
+    "Monto": 40.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Tortilla y soda",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-01",
+    "Cajero": "Admin                                                                                               "
+  }
+]
