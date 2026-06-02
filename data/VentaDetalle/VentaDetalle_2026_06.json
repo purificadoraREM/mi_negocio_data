@@ -462,6 +462,34 @@
     "Total": 25.00
   },
   {
+    "Folio": "VMEN-1949",
+    "Fecha": "2026-06-02",
+    "Hora": "11:53:31",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-1949",
+    "Fecha": "2026-06-02",
+    "Hora": "11:53:31",
+    "Cliente": "N/A",
+    "Articulo": "agua",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
+  },
+  {
     "Folio": "VMEN-1937",
     "Fecha": "2026-06-01",
     "Hora": "14:39:31",
