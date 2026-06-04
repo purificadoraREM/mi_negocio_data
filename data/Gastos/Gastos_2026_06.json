@@ -9,5 +9,60 @@
     "FolioV": null,
     "Fecha": "2026-06-01",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-71",
+    "Concepto": "Gasolina altima",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-03",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-72",
+    "Concepto": "Rollos primavera",
+    "Monto": 40.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-03",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-73",
+    "Concepto": "Hot dog comida",
+    "Monto": 160.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-04",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-74",
+    "Concepto": "Lavado de membrana",
+    "Monto": 900.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-04",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-75",
+    "Concepto": "Filtro plisado",
+    "Monto": 180.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-04",
+    "Cajero": "Admin                                                                                               "
   }
 ]
