@@ -840,6 +840,20 @@
     "Total": 15.00
   },
   {
+    "Folio": "VMEN-1960",
+    "Fecha": "2026-06-04",
+    "Hora": "19:04:43",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
+  },
+  {
     "Folio": "VMEN-1937",
     "Fecha": "2026-06-01",
     "Hora": "14:39:31",
