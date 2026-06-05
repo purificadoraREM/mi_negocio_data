@@ -643,5 +643,50 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-396",
+    "Fecha": "2026-06-05",
+    "Hora": "16:46:15",
+    "Cliente": "el antojo 18 (lomas)",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01,
+    "Efectivo": 0.01,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-397",
+    "Fecha": "2026-06-05",
+    "Hora": "16:46:23",
+    "Cliente": "altares",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01,
+    "Efectivo": 0.01,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-398",
+    "Fecha": "2026-06-05",
+    "Hora": "16:41:34",
+    "Cliente": "LA CHOYA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 525.00,
+    "Iva": 0.00,
+    "Total": 525.00,
+    "Efectivo": 525.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
