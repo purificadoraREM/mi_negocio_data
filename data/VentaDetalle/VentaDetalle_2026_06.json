@@ -936,5 +936,61 @@
     "Subtotal": 5.00,
     "Iva": 0.00,
     "Total": 5.00
+  },
+  {
+    "Folio": "VM-396",
+    "Fecha": "2026-06-05",
+    "Hora": "16:46:15",
+    "Cliente": "el antojo 18 (lomas)",
+    "Articulo": "REGISTRO DE CLIENTE NUEVO",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.01,
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01
+  },
+  {
+    "Folio": "VM-397",
+    "Fecha": "2026-06-05",
+    "Hora": "16:46:23",
+    "Cliente": "altares",
+    "Articulo": "REGISTRO DE CLIENTE NUEVO",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.01,
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01
+  },
+  {
+    "Folio": "VM-398",
+    "Fecha": "2026-06-05",
+    "Hora": "16:41:34",
+    "Cliente": "LA CHOYA",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 195.00,
+    "Iva": 0.00,
+    "Total": 195.00
+  },
+  {
+    "Folio": "VM-398",
+    "Fecha": "2026-06-05",
+    "Hora": "16:41:34",
+    "Cliente": "LA CHOYA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00
   }
 ]
