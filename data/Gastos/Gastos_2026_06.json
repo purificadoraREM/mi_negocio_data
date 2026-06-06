@@ -75,5 +75,27 @@
     "FolioV": null,
     "Fecha": "2026-06-05",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-77",
+    "Concepto": "Tortillas gorditas",
+    "Monto": 68.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-04",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-78",
+    "Concepto": "Gasolina altima",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-05",
+    "Cajero": "Admin                                                                                               "
   }
 ]
