@@ -97,5 +97,16 @@
     "FolioV": null,
     "Fecha": "2026-06-05",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-79",
+    "Concepto": "sodas",
+    "Monto": 40.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-06",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
