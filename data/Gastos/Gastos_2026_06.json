@@ -108,5 +108,16 @@
     "FolioV": null,
     "Fecha": "2026-06-06",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-80",
+    "Concepto": "Pvc",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-06",
+    "Cajero": "Admin                                                                                               "
   }
 ]
