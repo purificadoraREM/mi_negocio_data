@@ -1328,5 +1328,47 @@
     "Subtotal": 30.00,
     "Iva": 0.00,
     "Total": 30.00
+  },
+  {
+    "Folio": "VMEN-1982",
+    "Fecha": "2026-06-06",
+    "Hora": "17:02:04",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
+  },
+  {
+    "Folio": "VM-405",
+    "Fecha": "2026-06-06",
+    "Hora": "17:10:39",
+    "Cliente": "PALO VERDE 2",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 14.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 308.00,
+    "Iva": 0.00,
+    "Total": 308.00
+  },
+  {
+    "Folio": "VM-405",
+    "Fecha": "2026-06-06",
+    "Hora": "17:10:39",
+    "Cliente": "PALO VERDE 2",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 195.00,
+    "Iva": 0.00,
+    "Total": 195.00
   }
 ]
