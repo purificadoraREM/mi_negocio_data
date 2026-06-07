@@ -1412,5 +1412,33 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-1986",
+    "Fecha": "2026-06-06",
+    "Hora": "19:46:53",
+    "Cliente": "N/A",
+    "Articulo": "Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 30.00,
+    "PrecioUnitario": 0.00,
+    "Subtotal": 0.00,
+    "Iva": 0.00,
+    "Total": 0.00
+  },
+  {
+    "Folio": "VMEN-1986",
+    "Fecha": "2026-06-06",
+    "Hora": "19:46:53",
+    "Cliente": "N/A",
+    "Articulo": "Maquina",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
