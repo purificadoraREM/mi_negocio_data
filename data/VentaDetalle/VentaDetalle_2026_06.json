@@ -1566,5 +1566,33 @@
     "Subtotal": 5.00,
     "Iva": 0.00,
     "Total": 5.00
+  },
+  {
+    "Folio": "VMEN-1994",
+    "Fecha": "2026-06-08",
+    "Hora": "14:03:22",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-1995",
+    "Fecha": "2026-06-08",
+    "Hora": "14:06:14",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 3kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 25.00,
+    "Subtotal": 25.00,
+    "Iva": 0.00,
+    "Total": 25.00
   }
 ]
