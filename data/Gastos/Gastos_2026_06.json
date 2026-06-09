@@ -130,5 +130,27 @@
     "FolioV": null,
     "Fecha": "2026-06-06",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-82",
+    "Concepto": "Gasolina altima",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-08",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-83",
+    "Concepto": "Rollos primavera y comida ",
+    "Monto": 200.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-08",
+    "Cajero": "Admin                                                                                               "
   }
 ]
