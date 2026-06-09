@@ -1318,5 +1318,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-407",
+    "Fecha": "2026-06-08",
+    "Hora": "19:05:20",
+    "Cliente": "HERBALIFE",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00,
+    "Efectivo": 220.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-408",
+    "Fecha": "2026-06-08",
+    "Hora": "19:14:24",
+    "Cliente": "LA CHOYA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 371.00,
+    "Iva": 0.00,
+    "Total": 371.00,
+    "Efectivo": 371.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
