@@ -1636,5 +1636,47 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VM-407",
+    "Fecha": "2026-06-08",
+    "Hora": "19:05:20",
+    "Cliente": "HERBALIFE",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 220.00,
+    "Iva": 0.00,
+    "Total": 220.00
+  },
+  {
+    "Folio": "VM-408",
+    "Fecha": "2026-06-08",
+    "Hora": "19:14:24",
+    "Cliente": "LA CHOYA",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 8.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 176.00,
+    "Iva": 0.00,
+    "Total": 176.00
+  },
+  {
+    "Folio": "VM-408",
+    "Fecha": "2026-06-08",
+    "Hora": "19:14:24",
+    "Cliente": "LA CHOYA",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 195.00,
+    "Iva": 0.00,
+    "Total": 195.00
   }
 ]
