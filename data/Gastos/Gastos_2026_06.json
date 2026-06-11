@@ -185,5 +185,16 @@
     "FolioV": null,
     "Fecha": "2026-06-11",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-87",
+    "Concepto": "Tortillas",
+    "Monto": 25.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-11",
+    "Cajero": "Admin                                                                                               "
   }
 ]
