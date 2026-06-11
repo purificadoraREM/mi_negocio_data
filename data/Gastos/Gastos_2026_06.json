@@ -152,5 +152,38 @@
     "FolioV": null,
     "Fecha": "2026-06-08",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-84",
+    "Concepto": "Tortillas maiz harina",
+    "Monto": 60.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Tortillas de harina y maiz ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-10",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-85",
+    "Concepto": "Gasolina ",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "500 pesos gasolina altima",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-10",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-86",
+    "Concepto": "Tapa roscas ",
+    "Monto": 140.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "200 piezas ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-11",
+    "Cajero": "Admin                                                                                               "
   }
 ]
