@@ -2350,5 +2350,19 @@
     "Subtotal": 25.00,
     "Iva": 0.00,
     "Total": 25.00
+  },
+  {
+    "Folio": "VMEN-2023",
+    "Fecha": "2026-06-12",
+    "Hora": "11:46:33",
+    "Cliente": "N/A",
+    "Articulo": "Maquina",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 1039.00,
+    "Subtotal": 1039.00,
+    "Iva": 0.00,
+    "Total": 1039.00
   }
 ]
