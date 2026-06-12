@@ -2210,5 +2210,61 @@
     "Subtotal": 5.00,
     "Iva": 0.00,
     "Total": 5.00
+  },
+  {
+    "Folio": "VM-415",
+    "Fecha": "2026-06-11",
+    "Hora": "20:45:18",
+    "Cliente": "SOLIDARIDAD 3",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 15.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00
+  },
+  {
+    "Folio": "VM-416",
+    "Fecha": "2026-06-11",
+    "Hora": "20:45:54",
+    "Cliente": "SOLIDARIDAD 1",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 12.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 264.00,
+    "Iva": 0.00,
+    "Total": 264.00
+  },
+  {
+    "Folio": "VM-417",
+    "Fecha": "2026-06-11",
+    "Hora": "20:47:08",
+    "Cliente": "purificadora(villas)",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Transferencia",
+    "Cantidad": 17.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 374.00,
+    "Iva": 0.00,
+    "Total": 374.00
+  },
+  {
+    "Folio": "VM-418",
+    "Fecha": "2026-06-12",
+    "Hora": "08:44:02",
+    "Cliente": "zona militar",
+    "Articulo": "REGISTRO DE CLIENTE NUEVO",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.01,
+    "Subtotal": 0.01,
+    "Iva": 0.00,
+    "Total": 0.01
   }
 ]
