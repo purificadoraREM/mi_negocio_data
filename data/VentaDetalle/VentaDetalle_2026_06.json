@@ -2574,5 +2574,19 @@
     "Subtotal": 440.00,
     "Iva": 0.00,
     "Total": 440.00
+  },
+  {
+    "Folio": "VMEN-2028",
+    "Fecha": "2026-06-15",
+    "Hora": "12:21:06",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 70.00,
+    "Iva": 0.00,
+    "Total": 70.00
   }
 ]
