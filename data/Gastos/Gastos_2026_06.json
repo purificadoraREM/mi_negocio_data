@@ -196,5 +196,38 @@
     "FolioV": null,
     "Fecha": "2026-06-11",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-88",
+    "Concepto": "Gasolina",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina lastima",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-14",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-89",
+    "Concepto": "Aire lastima",
+    "Monto": 2000.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Aire carro",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-13",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-90",
+    "Concepto": "Mandado",
+    "Monto": 715.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Mandado",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-14",
+    "Cajero": "Admin                                                                                               "
   }
 ]
