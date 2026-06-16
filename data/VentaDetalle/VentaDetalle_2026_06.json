@@ -3022,5 +3022,47 @@
     "Subtotal": 25.00,
     "Iva": 0.00,
     "Total": 25.00
+  },
+  {
+    "Folio": "VMEN-2054",
+    "Fecha": "2026-06-16",
+    "Hora": "11:14:21",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-2054",
+    "Fecha": "2026-06-16",
+    "Hora": "11:14:21",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 3.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 45.00,
+    "Iva": 0.00,
+    "Total": 45.00
+  },
+  {
+    "Folio": "VMEN-2054",
+    "Fecha": "2026-06-16",
+    "Hora": "11:14:21",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 3kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 25.00,
+    "Subtotal": 25.00,
+    "Iva": 0.00,
+    "Total": 25.00
   }
 ]
