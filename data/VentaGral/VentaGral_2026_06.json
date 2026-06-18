@@ -3268,5 +3268,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-433",
+    "Fecha": "2026-06-17",
+    "Hora": "22:17:47",
+    "Cliente": "SOLIDARIDAD 3",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 308.00,
+    "Iva": 0.00,
+    "Total": 308.00,
+    "Efectivo": 308.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-434",
+    "Fecha": "2026-06-17",
+    "Hora": "22:18:23",
+    "Cliente": "NATURA",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00,
+    "Efectivo": 130.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
