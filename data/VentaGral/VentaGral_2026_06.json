@@ -3418,20 +3418,5 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
-  },
-  {
-    "Folio": "VM-435",
-    "Fecha": "2026-06-19",
-    "Hora": "00:00:00",
-    "Cliente": "Publico",
-    "TipoDeCompra": "Vending",
-    "TipoDePago": "Monedero",
-    "Subtotal": 10.00,
-    "Iva": 0.00,
-    "Total": 10.00,
-    "Efectivo": 10.00,
-    "Tarjeta": 0.00,
-    "Transferencia": 0.00,
-    "Usuario": "ESP32"
   }
 ]
