@@ -4170,19 +4170,5 @@
     "Subtotal": 70.00,
     "Iva": 0.00,
     "Total": 70.00
-  },
-  {
-    "Folio": "VM-435",
-    "Fecha": "2026-06-19",
-    "Hora": "00:00:00",
-    "Cliente": "Publico",
-    "Articulo": "Agua Purificada",
-    "TipoDeCompra": "Vending",
-    "TipoDePago": "Monedero",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 10.00,
-    "Subtotal": 10.00,
-    "Iva": 0.00,
-    "Total": 10.00
   }
 ]
