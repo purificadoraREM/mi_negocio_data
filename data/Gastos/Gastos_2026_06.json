@@ -262,5 +262,16 @@
     "FolioV": null,
     "Fecha": "2026-06-17",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-94",
+    "Concepto": "comida",
+    "Monto": 150.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "18/06/26",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-18",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
