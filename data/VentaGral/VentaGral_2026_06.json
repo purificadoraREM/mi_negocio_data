@@ -3583,5 +3583,50 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-2121",
+    "Fecha": "2026-06-19",
+    "Hora": "16:32:36",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00,
+    "Efectivo": 15.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-436",
+    "Fecha": "2026-06-19",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00,
+    "Efectivo": 5.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-437",
+    "Fecha": "2026-06-19",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Subtotal": 9.00,
+    "Iva": 0.00,
+    "Total": 9.00,
+    "Efectivo": 9.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
