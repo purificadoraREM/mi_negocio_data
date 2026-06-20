@@ -4800,5 +4800,47 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-2130",
+    "Fecha": "2026-06-20",
+    "Hora": "15:17:44",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 3.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 45.00,
+    "Iva": 0.00,
+    "Total": 45.00
+  },
+  {
+    "Folio": "VM-455",
+    "Fecha": "2026-06-20",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "Articulo": "Agua Purificada",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
+  },
+  {
+    "Folio": "VM-456",
+    "Fecha": "2026-06-20",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "Articulo": "Agua Purificada",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
   }
 ]
