@@ -273,5 +273,16 @@
     "FolioV": null,
     "Fecha": "2026-06-18",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-95",
+    "Concepto": "Gasolina",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-21",
+    "Cajero": "Admin                                                                                               "
   }
 ]
