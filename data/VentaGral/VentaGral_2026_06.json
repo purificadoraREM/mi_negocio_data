@@ -5355,6 +5355,21 @@
     "Usuario": "ESP32"
   },
   {
+    "Folio": "VM-546",
+    "Fecha": "2026-06-23",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00,
+    "Efectivo": 10.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
     "Folio": "VM-500",
     "Fecha": "2026-06-21",
     "Hora": "00:00:00",
@@ -5455,6 +5470,21 @@
     "Iva": 0.00,
     "Total": 3.00,
     "Efectivo": 3.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-547",
+    "Fecha": "2026-06-23",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Subtotal": 1.00,
+    "Iva": 0.00,
+    "Total": 1.00,
+    "Efectivo": 1.00,
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ESP32"
