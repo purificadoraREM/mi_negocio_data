@@ -284,5 +284,16 @@
     "FolioV": null,
     "Fecha": "2026-06-21",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-96",
+    "Concepto": "Carne asada",
+    "Monto": 711.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-20",
+    "Cajero": "Admin                                                                                               "
   }
 ]
