@@ -5250,6 +5250,36 @@
     "Usuario": "ramon gracia"
   },
   {
+    "Folio": "VMEN-2133",
+    "Fecha": "2026-06-23",
+    "Hora": "09:42:07",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00,
+    "Efectivo": 30.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-542",
+    "Fecha": "2026-06-23",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Subtotal": 6.00,
+    "Iva": 0.00,
+    "Total": 6.00,
+    "Efectivo": 6.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
     "Folio": "VM-500",
     "Fecha": "2026-06-21",
     "Hora": "00:00:00",
