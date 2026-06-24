@@ -2638,5 +2638,41 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 7803,
+    "ProductoID": 1,
+    "Tipo": "ENTRADA",
+    "Cantidad": 100,
+    "Fecha": "2026-06-24",
+    "StockAntesMov": 568,
+    "StockDespMov": 668,
+    "CostoUnitario": 0.00,
+    "Referencia": "nuevas tapanosa",
+    "Observaciones": ""
+  },
+  {
+    "MovimientoID": 7804,
+    "ProductoID": 2,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-06-24",
+    "StockAntesMov": -6,
+    "StockDespMov": -7,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 7805,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "Cantidad": 3,
+    "Fecha": "2026-06-24",
+    "StockAntesMov": 668,
+    "StockDespMov": 665,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
   }
 ]
