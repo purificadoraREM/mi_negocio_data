@@ -43,7 +43,7 @@
     "PrecioCompra": 1.00,
     "PrecioVenta": 1.00,
     "StockMinimo": 100,
-    "StockActual": -310,
+    "StockActual": -311,
     "Unidad": "",
     "GravaIVA": true
   },
@@ -81,6 +81,18 @@
     "StockMinimo": 50,
     "StockActual": 85,
     "Unidad": "",
+    "GravaIVA": false
+  },
+  {
+    "ID": 8,
+    "Nombre": "Agua Purificada",
+    "Descripcion": "maquina",
+    "Categoria": "Agua",
+    "PrecioCompra": 0.00,
+    "PrecioVenta": 0.00,
+    "StockMinimo": 100,
+    "StockActual": 2000,
+    "Unidad": "0",
     "GravaIVA": false
   }
 ]
