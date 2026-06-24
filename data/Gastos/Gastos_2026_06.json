@@ -306,5 +306,16 @@
     "FolioV": null,
     "Fecha": "2026-06-23",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-98",
+    "Concepto": "Gasolina",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina altima",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-23",
+    "Cajero": "Admin                                                                                               "
   }
 ]
