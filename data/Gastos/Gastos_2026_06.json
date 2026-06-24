@@ -317,5 +317,16 @@
     "FolioV": null,
     "Fecha": "2026-06-23",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-99",
+    "Concepto": "Pago tarjeta(agua)",
+    "Monto": 8392.84,
+    "MetodoDePago": "Tarjeta",
+    "Notas": "Agua purificadora",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-17",
+    "Cajero": "Admin                                                                                               "
   }
 ]
