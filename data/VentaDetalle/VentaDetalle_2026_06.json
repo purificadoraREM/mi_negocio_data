@@ -6466,5 +6466,19 @@
     "Subtotal": 7.00,
     "Iva": 0.00,
     "Total": 7.00
+  },
+  {
+    "Folio": "VM-555",
+    "Fecha": "2026-06-23",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "Articulo": "Agua Purificada",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
   }
 ]
