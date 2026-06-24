@@ -295,5 +295,16 @@
     "FolioV": null,
     "Fecha": "2026-06-20",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-97",
+    "Concepto": "Pago gaby del 15/06/26 al 20/06/26",
+    "Monto": 1490.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-23",
+    "Cajero": "Admin                                                                                               "
   }
 ]
