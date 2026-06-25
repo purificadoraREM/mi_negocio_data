@@ -7684,5 +7684,19 @@
     "Subtotal": 30.00,
     "Iva": 0.00,
     "Total": 30.00
+  },
+  {
+    "Folio": "VMEN-2182",
+    "Fecha": "2026-06-25",
+    "Hora": "11:56:18",
+    "Cliente": "N/A",
+    "Articulo": "agua",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 7.00,
+    "Subtotal": 7.00,
+    "Iva": 0.00,
+    "Total": 7.00
   }
 ]
