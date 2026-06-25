@@ -328,5 +328,49 @@
     "FolioV": null,
     "Fecha": "2026-06-17",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Alternador altima",
+    "Monto": 1800.00,
+    "MetodoDePago": "Transferencia",
+    "Notas": "Alternador dañado 2 meses garantía ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-24",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Gasolina lastima",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-24",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Dogos",
+    "Monto": 237.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Doguitos",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-24",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Bolsas para hielo",
+    "Monto": 2775.00,
+    "MetodoDePago": "Transferencia",
+    "Notas": "Bulto 25k",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-11",
+    "Cajero": "Admin                                                                                               "
   }
 ]
