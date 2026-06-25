@@ -7264,5 +7264,47 @@
     "Subtotal": 25.00,
     "Iva": 0.00,
     "Total": 25.00
+  },
+  {
+    "Folio": "VMEN-2169",
+    "Fecha": "2026-06-24",
+    "Hora": "18:14:11",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 4.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 40.00,
+    "Iva": 0.00,
+    "Total": 40.00
+  },
+  {
+    "Folio": "VMEN-2169",
+    "Fecha": "2026-06-24",
+    "Hora": "18:14:11",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles ROSCA",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VM-566",
+    "Fecha": "2026-06-24",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "Articulo": "Agua Purificada",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 3.00,
+    "Subtotal": 3.00,
+    "Iva": 0.00,
+    "Total": 3.00
   }
 ]
