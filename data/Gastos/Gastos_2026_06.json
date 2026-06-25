@@ -372,5 +372,16 @@
     "FolioV": null,
     "Fecha": "2026-06-11",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Tapa presion",
+    "Monto": 410.00,
+    "MetodoDePago": "Tarjeta",
+    "Notas": "Tapa presión roja 1000",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-25",
+    "Cajero": "Admin                                                                                               "
   }
 ]
