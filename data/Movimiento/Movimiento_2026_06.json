@@ -3010,5 +3010,53 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 7834,
+    "ProductoID": 2,
+    "Tipo": "ENTRADA",
+    "Cantidad": 100,
+    "Fecha": "2026-06-25",
+    "StockAntesMov": -10,
+    "StockDespMov": 90,
+    "CostoUnitario": 0.00,
+    "Referencia": "tapanosa",
+    "Observaciones": "25/06/26"
+  },
+  {
+    "MovimientoID": 7835,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "Cantidad": 1175,
+    "Fecha": "2026-06-25",
+    "StockAntesMov": -1175,
+    "StockDespMov": 0,
+    "CostoUnitario": 0.00,
+    "Referencia": "bolsas nuevas",
+    "Observaciones": "25/06/26"
+  },
+  {
+    "MovimientoID": 7836,
+    "ProductoID": 4,
+    "Tipo": "ENTRADA",
+    "Cantidad": 364,
+    "Fecha": "2026-06-25",
+    "StockAntesMov": -343,
+    "StockDespMov": 21,
+    "CostoUnitario": 0.00,
+    "Referencia": "tapanosa",
+    "Observaciones": "25/06/2026"
+  },
+  {
+    "MovimientoID": 7837,
+    "ProductoID": 3,
+    "Tipo": "ENTRADA",
+    "Cantidad": 32,
+    "Fecha": "2026-06-25",
+    "StockAntesMov": 0,
+    "StockDespMov": 32,
+    "CostoUnitario": 0.00,
+    "Referencia": "nuevas",
+    "Observaciones": "25/06/26"
   }
 ]
