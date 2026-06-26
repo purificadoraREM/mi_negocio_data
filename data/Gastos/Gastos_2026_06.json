@@ -394,5 +394,16 @@
     "FolioV": null,
     "Fecha": "2026-06-26",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "queso",
+    "Monto": 30.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-26",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
