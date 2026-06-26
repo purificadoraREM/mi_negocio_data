@@ -383,5 +383,16 @@
     "FolioV": null,
     "Fecha": "2026-06-25",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Fumigacion",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Plagafin",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-26",
+    "Cajero": "Admin                                                                                               "
   }
 ]
