@@ -7695,6 +7695,21 @@
     "Usuario": "ramon gracia"
   },
   {
+    "Folio": "VM-622",
+    "Fecha": "2026-06-27",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00,
+    "Efectivo": 5.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
     "Folio": "VMEN-2201",
     "Fecha": "2026-06-26",
     "Hora": "15:35:04",
