@@ -7290,6 +7290,36 @@
     "Usuario": "Gabriela Gracia"
   },
   {
+    "Folio": "VMEN-2206",
+    "Fecha": "2026-06-26",
+    "Hora": "19:03:28",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00,
+    "Efectivo": 15.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-2207",
+    "Fecha": "2026-06-26",
+    "Hora": "19:15:56",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00,
+    "Efectivo": 15.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
     "Folio": "VMEN-2199",
     "Fecha": "2026-06-26",
     "Hora": "14:19:50",
