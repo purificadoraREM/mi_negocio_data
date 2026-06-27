@@ -7665,6 +7665,36 @@
     "Usuario": "ESP32"
   },
   {
+    "Folio": "VMEN-2213",
+    "Fecha": "2026-06-27",
+    "Hora": "13:24:12",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 12.00,
+    "Iva": 0.00,
+    "Total": 12.00,
+    "Efectivo": 12.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VMEN-2214",
+    "Fecha": "2026-06-27",
+    "Hora": "13:36:57",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00,
+    "Efectivo": 15.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
+  },
+  {
     "Folio": "VMEN-2201",
     "Fecha": "2026-06-26",
     "Hora": "15:35:04",
