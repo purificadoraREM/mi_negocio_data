@@ -7785,6 +7785,21 @@
     "Usuario": "Gabriela Gracia"
   },
   {
+    "Folio": "VMEN-2220",
+    "Fecha": "2026-06-27",
+    "Hora": "15:45:00",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 50.00,
+    "Iva": 0.00,
+    "Total": 50.00,
+    "Efectivo": 50.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
     "Folio": "VMEN-2201",
     "Fecha": "2026-06-26",
     "Hora": "15:35:04",
