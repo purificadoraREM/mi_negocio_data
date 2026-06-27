@@ -8734,5 +8734,33 @@
     "Subtotal": 3.00,
     "Iva": 0.00,
     "Total": 3.00
+  },
+  {
+    "Folio": "VMEN-2212",
+    "Fecha": "2026-06-27",
+    "Hora": "09:50:38",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
+  },
+  {
+    "Folio": "VM-621",
+    "Fecha": "2026-06-27",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "Articulo": "Agua Purificada",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 2.00,
+    "Subtotal": 2.00,
+    "Iva": 0.00,
+    "Total": 2.00
   }
 ]
