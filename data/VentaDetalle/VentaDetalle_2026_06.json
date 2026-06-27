@@ -8762,5 +8762,47 @@
     "Subtotal": 2.00,
     "Iva": 0.00,
     "Total": 2.00
+  },
+  {
+    "Folio": "VMEN-2213",
+    "Fecha": "2026-06-27",
+    "Hora": "13:24:12",
+    "Cliente": "N/A",
+    "Articulo": "agua",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 12.00,
+    "Subtotal": 12.00,
+    "Iva": 0.00,
+    "Total": 12.00
+  },
+  {
+    "Folio": "VMEN-2213",
+    "Fecha": "2026-06-27",
+    "Hora": "13:24:12",
+    "Cliente": "N/A",
+    "Articulo": "Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 0.00,
+    "Subtotal": 0.00,
+    "Iva": 0.00,
+    "Total": 0.00
+  },
+  {
+    "Folio": "VMEN-2214",
+    "Fecha": "2026-06-27",
+    "Hora": "13:36:57",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
   }
 ]
