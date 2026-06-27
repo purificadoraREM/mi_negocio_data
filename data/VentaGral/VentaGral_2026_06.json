@@ -7320,6 +7320,36 @@
     "Usuario": "Gabriela Gracia"
   },
   {
+    "Folio": "VM-606",
+    "Fecha": "2026-06-26",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Subtotal": 2.00,
+    "Iva": 0.00,
+    "Total": 2.00,
+    "Efectivo": 2.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-607",
+    "Fecha": "2026-06-26",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Subtotal": 8.00,
+    "Iva": 0.00,
+    "Total": 8.00,
+    "Efectivo": 8.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
     "Folio": "VMEN-2199",
     "Fecha": "2026-06-26",
     "Hora": "14:19:50",
