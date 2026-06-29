@@ -405,5 +405,16 @@
     "FolioV": null,
     "Fecha": "2026-06-26",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Pago gaby del 22 al 27 junio 2026",
+    "Monto": 1471.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-06-27",
+    "Cajero": "Admin                                                                                               "
   }
 ]
