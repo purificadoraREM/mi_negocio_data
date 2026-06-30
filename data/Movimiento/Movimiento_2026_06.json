@@ -3562,5 +3562,29 @@
     "CostoUnitario": 0.00,
     "Referencia": "tapas nuevas",
     "Observaciones": "30/06/26"
+  },
+  {
+    "MovimientoID": 7880,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "Cantidad": 18,
+    "Fecha": "2026-06-30",
+    "StockAntesMov": -27,
+    "StockDespMov": -45,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 7881,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "Cantidad": 12,
+    "Fecha": "2026-06-30",
+    "StockAntesMov": -45,
+    "StockDespMov": -57,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
   }
 ]
