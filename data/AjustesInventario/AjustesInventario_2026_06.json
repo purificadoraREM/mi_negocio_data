@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "AjusteID": 39,
+    "ProductoID": 1,
+    "Tipo": "SALIDA",
+    "CantidadAjustada": 621,
+    "Motivo": "tapas maquina",
+    "Fecha": "2026-06-30",
+    "Usuario": "Gabriela Gracia"
+  }
+]
