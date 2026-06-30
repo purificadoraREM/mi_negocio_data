@@ -9403,5 +9403,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-2251",
+    "Fecha": "2026-06-30",
+    "Hora": "15:32:09",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 14.00,
+    "Iva": 0.00,
+    "Total": 14.00,
+    "Efectivo": 14.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
