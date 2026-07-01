@@ -264,5 +264,33 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-2261",
+    "Fecha": "2026-07-01",
+    "Hora": "10:17:25",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 4.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 40.00,
+    "Iva": 0.00,
+    "Total": 40.00
+  },
+  {
+    "Folio": "VMEN-2262",
+    "Fecha": "2026-07-01",
+    "Hora": "10:24:53",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 3kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 25.00,
+    "Subtotal": 50.00,
+    "Iva": 0.00,
+    "Total": 50.00
   }
 ]
