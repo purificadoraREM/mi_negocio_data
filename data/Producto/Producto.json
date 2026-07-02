@@ -7,7 +7,7 @@
     "PrecioCompra": 0.39,
     "PrecioVenta": 1.00,
     "StockMinimo": 200,
-    "StockActual": 971,
+    "StockActual": 968,
     "Unidad": "pieza",
     "GravaIVA": false
   },
@@ -19,7 +19,7 @@
     "PrecioCompra": 1.00,
     "PrecioVenta": 1.00,
     "StockMinimo": 50,
-    "StockActual": 85,
+    "StockActual": 84,
     "Unidad": "",
     "GravaIVA": true
   },
@@ -31,7 +31,7 @@
     "PrecioCompra": 1.00,
     "PrecioVenta": 1.00,
     "StockMinimo": 500,
-    "StockActual": -69,
+    "StockActual": -136,
     "Unidad": "",
     "GravaIVA": true
   },
