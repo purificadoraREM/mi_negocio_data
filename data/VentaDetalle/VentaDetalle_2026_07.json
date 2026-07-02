@@ -880,5 +880,33 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VM-742",
+    "Fecha": "2026-07-01",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "Articulo": "Agua Purificada",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 2.00,
+    "Subtotal": 2.00,
+    "Iva": 0.00,
+    "Total": 2.00
+  },
+  {
+    "Folio": "VM-743",
+    "Fecha": "2026-07-01",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "Articulo": "Agua Purificada",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 8.00,
+    "Subtotal": 8.00,
+    "Iva": 0.00,
+    "Total": 8.00
   }
 ]
