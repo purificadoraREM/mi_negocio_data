@@ -24,8 +24,8 @@
     "ID": 1320,
     "Fecha": "2026-07-02",
     "Nombre": "Gabriela Gracia",
-    "HoraEntrada": "17:13:39.6771782",
-    "HoraSalida": "21:10:38.6703146"
+    "HoraEntrada": "13:30:00",
+    "HoraSalida": "21:10:00"
   },
   {
     "ID": 1321,
@@ -33,5 +33,12 @@
     "Nombre": "ramon gracia",
     "HoraEntrada": "09:13:31.2193544",
     "HoraSalida": "14:12:35.0775821"
+  },
+  {
+    "ID": 1322,
+    "Fecha": "2026-07-03",
+    "Nombre": "Gabriela Gracia",
+    "HoraEntrada": "14:12:55.1487936",
+    "HoraSalida": null
   }
 ]
