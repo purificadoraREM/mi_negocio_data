@@ -77,6 +77,13 @@
     "Usuario": "rem"
   },
   {
+    "IDProducto": "PM-007",
+    "Producto": "Agua Purificada",
+    "IDConsumible": 8,
+    "Consumible": "Agua Purificada",
+    "Usuario": "rem"
+  },
+  {
     "IDProducto": "p-010",
     "Producto": "Relleno Tapa Presión",
     "IDConsumible": 1,
