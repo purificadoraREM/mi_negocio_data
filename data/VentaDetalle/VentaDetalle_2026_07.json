@@ -3050,5 +3050,19 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VM-833",
+    "Fecha": "2026-07-04",
+    "Hora": "00:00:00",
+    "Cliente": "Publico",
+    "Articulo": "Agua Purificada",
+    "TipoDeCompra": "Vending",
+    "TipoDePago": "Monedero",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
   }
 ]
