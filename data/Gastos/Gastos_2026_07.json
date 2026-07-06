@@ -31,5 +31,27 @@
     "FolioV": null,
     "Fecha": "2026-07-06",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Gasolina ",
+    "Monto": 500.00,
+    "MetodoDePago": "Tarjeta",
+    "Notas": "Gasolina Altima ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-07-06",
+    "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Gasolina",
+    "Monto": 350.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Gasolina parte dos ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-07-03",
+    "Cajero": "Admin                                                                                               "
   }
 ]
