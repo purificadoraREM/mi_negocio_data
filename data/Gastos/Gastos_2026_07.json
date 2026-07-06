@@ -20,5 +20,16 @@
     "FolioV": null,
     "Fecha": "2026-07-03",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Bolsas",
+    "Monto": 300.00,
+    "MetodoDePago": "Tarjeta",
+    "Notas": "Bolsas tapanosa ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-07-06",
+    "Cajero": "Admin                                                                                               "
   }
 ]
