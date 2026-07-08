@@ -53,5 +53,16 @@
     "FolioV": null,
     "Fecha": "2026-07-03",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Bolsas hielo tapanosa ",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "Bolsas ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-07-08",
+    "Cajero": "Admin                                                                                               "
   }
 ]
