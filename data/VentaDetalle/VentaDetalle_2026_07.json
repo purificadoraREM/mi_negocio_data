@@ -5290,5 +5290,19 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-2364",
+    "Fecha": "2026-07-08",
+    "Hora": "14:09:57",
+    "Cliente": "N/A",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 1010.00,
+    "Subtotal": 1010.00,
+    "Iva": 0.00,
+    "Total": 1010.00
   }
 ]
