@@ -4783,5 +4783,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-929",
+    "Fecha": "2026-07-07",
+    "Hora": "20:07:14",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 6.00,
+    "Iva": 0.00,
+    "Total": 6.00,
+    "Efectivo": 6.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
