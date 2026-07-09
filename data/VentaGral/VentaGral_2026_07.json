@@ -5205,6 +5205,21 @@
     "Usuario": "ramon gracia"
   },
   {
+    "Folio": "VMEN-2370",
+    "Fecha": "2026-07-08",
+    "Hora": "17:30:00",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00,
+    "Efectivo": 35.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
     "Folio": "VM-943",
     "Fecha": "2026-07-08",
     "Hora": "14:22:46",
