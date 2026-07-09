@@ -5938,5 +5938,35 @@
     "Tarjeta": 75.00,
     "Transferencia": 0.00,
     "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-965",
+    "Fecha": "2026-07-09",
+    "Hora": "14:26:31",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 1.00,
+    "Iva": 0.00,
+    "Total": 1.00,
+    "Efectivo": 1.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-966",
+    "Fecha": "2026-07-09",
+    "Hora": "14:26:39",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 1.00,
+    "Iva": 0.00,
+    "Total": 1.00,
+    "Efectivo": 1.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
