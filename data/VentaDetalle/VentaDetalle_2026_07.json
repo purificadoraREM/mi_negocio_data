@@ -5738,5 +5738,19 @@
     "Subtotal": 440.00,
     "Iva": 0.00,
     "Total": 440.00
+  },
+  {
+    "Folio": "VMEN-2382",
+    "Fecha": "2026-07-08",
+    "Hora": "21:10:14",
+    "Cliente": "N/A",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 57.00,
+    "Subtotal": 57.00,
+    "Iva": 0.00,
+    "Total": 57.00
   }
 ]
