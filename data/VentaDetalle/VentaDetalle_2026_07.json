@@ -5292,20 +5292,6 @@
     "Total": 10.00
   },
   {
-    "Folio": "VMEN-2364",
-    "Fecha": "2026-07-08",
-    "Hora": "14:09:57",
-    "Cliente": "N/A",
-    "Articulo": "Monedero",
-    "TipoDeCompra": "Menudeo",
-    "TipoDePago": "Efectivo",
-    "Cantidad": 1.00,
-    "PrecioUnitario": 1010.00,
-    "Subtotal": 1010.00,
-    "Iva": 0.00,
-    "Total": 1010.00
-  },
-  {
     "Folio": "VM-943",
     "Fecha": "2026-07-08",
     "Hora": "14:22:46",
@@ -5500,5 +5486,33 @@
     "Subtotal": 20.00,
     "Iva": 0.00,
     "Total": 20.00
+  },
+  {
+    "Folio": "VMEN-2368",
+    "Fecha": "2026-07-08",
+    "Hora": "17:13:44",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 70.00,
+    "Iva": 0.00,
+    "Total": 70.00
+  },
+  {
+    "Folio": "VMEN-2369",
+    "Fecha": "2026-07-08",
+    "Hora": "17:19:50",
+    "Cliente": "N/A",
+    "Articulo": "Agua",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 2.00,
+    "Subtotal": 2.00,
+    "Iva": 0.00,
+    "Total": 2.00
   }
 ]
