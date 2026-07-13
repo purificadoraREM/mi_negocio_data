@@ -7813,5 +7813,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VMEN-2418",
+    "Fecha": "2026-07-13",
+    "Hora": "12:30:03",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 179.83,
+    "Iva": 15.17,
+    "Total": 195.00,
+    "Efectivo": 195.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
   }
 ]
