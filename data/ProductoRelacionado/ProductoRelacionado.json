@@ -70,15 +70,8 @@
     "Usuario": "rem"
   },
   {
-    "IDProducto": "p-014",
-    "Producto": "Agua Purificada",
-    "IDConsumible": 8,
-    "Consumible": "Agua Purificada",
-    "Usuario": "rem"
-  },
-  {
     "IDProducto": "PM-007",
-    "Producto": "Agua Purificada",
+    "Producto": "Monedero",
     "IDConsumible": 8,
     "Consumible": "Agua Purificada",
     "Usuario": "rem"
