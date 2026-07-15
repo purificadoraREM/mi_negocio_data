@@ -8400,6 +8400,20 @@
     "Total": 8.00
   },
   {
+    "Folio": "VM-1088",
+    "Fecha": "2026-07-14",
+    "Hora": "16:51:20",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 1.00,
+    "Subtotal": 1.00,
+    "Iva": 0.00,
+    "Total": 1.00
+  },
+  {
     "Folio": "VM-1078",
     "Fecha": "2026-07-14",
     "Hora": "00:00:00",
