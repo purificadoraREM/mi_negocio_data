@@ -8776,5 +8776,33 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-2439",
+    "Fecha": "2026-07-15",
+    "Hora": "12:39:58",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 3kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 25.00,
+    "Subtotal": 25.00,
+    "Iva": 0.00,
+    "Total": 25.00
+  },
+  {
+    "Folio": "VM-1099",
+    "Fecha": "2026-07-15",
+    "Hora": "12:51:08",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
