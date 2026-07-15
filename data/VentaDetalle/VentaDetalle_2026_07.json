@@ -8958,5 +8958,33 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-2445",
+    "Fecha": "2026-07-15",
+    "Hora": "16:27:08",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 5.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 50.00,
+    "Iva": 0.00,
+    "Total": 50.00
+  },
+  {
+    "Folio": "VM-1106",
+    "Fecha": "2026-07-15",
+    "Hora": "16:17:55",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
