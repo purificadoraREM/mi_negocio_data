@@ -86,5 +86,16 @@
     "FolioV": null,
     "Fecha": "2026-07-10",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "soda Ramon",
+    "Monto": 45.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "15/07/26",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-07-15",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
