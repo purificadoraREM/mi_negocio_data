@@ -8414,6 +8414,20 @@
     "Total": 1.00
   },
   {
+    "Folio": "VMEN-2431",
+    "Fecha": "2026-07-14",
+    "Hora": "17:33:21",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 3kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 25.00,
+    "Subtotal": 25.00,
+    "Iva": 0.00,
+    "Total": 25.00
+  },
+  {
     "Folio": "VM-1078",
     "Fecha": "2026-07-14",
     "Hora": "00:00:00",
