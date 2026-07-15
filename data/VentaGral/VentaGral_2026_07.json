@@ -8310,6 +8310,21 @@
     "Usuario": "ESP32"
   },
   {
+    "Folio": "VMEN-2431",
+    "Fecha": "2026-07-14",
+    "Hora": "17:33:21",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 25.00,
+    "Iva": 0.00,
+    "Total": 25.00,
+    "Efectivo": 25.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
     "Folio": "VM-1077",
     "Fecha": "2026-07-14",
     "Hora": "00:00:00",
