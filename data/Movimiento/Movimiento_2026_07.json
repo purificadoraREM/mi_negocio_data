@@ -2386,5 +2386,65 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 8085,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-07-16",
+    "StockAntesMov": 1960,
+    "StockDespMov": 1959,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 8086,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-07-16",
+    "StockAntesMov": 1959,
+    "StockDespMov": 1958,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 8087,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-07-16",
+    "StockAntesMov": 1958,
+    "StockDespMov": 1957,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 8088,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-07-16",
+    "StockAntesMov": 1957,
+    "StockDespMov": 1956,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 8089,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-07-16",
+    "StockAntesMov": 1956,
+    "StockDespMov": 1955,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
   }
 ]
