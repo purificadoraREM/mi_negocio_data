@@ -9388,5 +9388,50 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VMEN-2460",
+    "Fecha": "2026-07-16",
+    "Hora": "12:59:24",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00,
+    "Efectivo": 10.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-1127",
+    "Fecha": "2026-07-16",
+    "Hora": "13:09:05",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00,
+    "Efectivo": 10.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-1128",
+    "Fecha": "2026-07-16",
+    "Hora": "13:10:13",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00,
+    "Efectivo": 10.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
