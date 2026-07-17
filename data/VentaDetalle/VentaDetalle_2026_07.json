@@ -10134,5 +10134,33 @@
     "Subtotal": 330.00,
     "Iva": 0.00,
     "Total": 330.00
+  },
+  {
+    "Folio": "VMEN-2469",
+    "Fecha": "2026-07-17",
+    "Hora": "12:30:07",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-2470",
+    "Fecha": "2026-07-17",
+    "Hora": "12:30:12",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
   }
 ]
