@@ -215,5 +215,12 @@
     "Nombre": "Gabriela Gracia",
     "HoraEntrada": "09:55:35.4497941",
     "HoraSalida": "21:09:42.4855291"
+  },
+  {
+    "ID": 1348,
+    "Fecha": "2026-07-18",
+    "Nombre": "ramon gracia",
+    "HoraEntrada": "10:32:36.6764876",
+    "HoraSalida": null
   }
 ]
