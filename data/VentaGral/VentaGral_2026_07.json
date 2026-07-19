@@ -10873,5 +10873,50 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-1190",
+    "Fecha": "2026-07-18",
+    "Hora": "20:18:01",
+    "Cliente": "PALO VERDE 2",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 518.00,
+    "Iva": 0.00,
+    "Total": 518.00,
+    "Efectivo": 518.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-1191",
+    "Fecha": "2026-07-18",
+    "Hora": "20:18:31",
+    "Cliente": "INSURGENTES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 440.00,
+    "Iva": 0.00,
+    "Total": 440.00,
+    "Efectivo": 440.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
+  },
+  {
+    "Folio": "VM-1192",
+    "Fecha": "2026-07-18",
+    "Hora": "20:19:18",
+    "Cliente": "SOLIDARIDAD 3",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00,
+    "Efectivo": 330.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
