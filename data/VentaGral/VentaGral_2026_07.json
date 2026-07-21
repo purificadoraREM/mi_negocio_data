@@ -11863,5 +11863,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-1243",
+    "Fecha": "2026-07-21",
+    "Hora": "10:58:50",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 4.00,
+    "Iva": 0.00,
+    "Total": 4.00,
+    "Efectivo": 4.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-1244",
+    "Fecha": "2026-07-21",
+    "Hora": "10:59:32",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 6.00,
+    "Iva": 0.00,
+    "Total": 6.00,
+    "Efectivo": 6.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
