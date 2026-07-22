@@ -11953,5 +11953,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-1245",
+    "Fecha": "2026-07-21",
+    "Hora": "17:27:10",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 2.00,
+    "Iva": 0.00,
+    "Total": 2.00,
+    "Efectivo": 2.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
