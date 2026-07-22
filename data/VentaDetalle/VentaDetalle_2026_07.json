@@ -12276,5 +12276,61 @@
     "Subtotal": 3.00,
     "Iva": 0.00,
     "Total": 3.00
+  },
+  {
+    "Folio": "VMEN-2521",
+    "Fecha": "2026-07-22",
+    "Hora": "12:48:13",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-2521",
+    "Fecha": "2026-07-22",
+    "Hora": "12:48:13",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles ROSCA",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-2521",
+    "Fecha": "2026-07-22",
+    "Hora": "12:48:13",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 4.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 40.00,
+    "Iva": 0.00,
+    "Total": 40.00
+  },
+  {
+    "Folio": "VMEN-2522",
+    "Fecha": "2026-07-22",
+    "Hora": "12:48:18",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
   }
 ]
