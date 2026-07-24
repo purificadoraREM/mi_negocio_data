@@ -13284,5 +13284,33 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-2562",
+    "Fecha": "2026-07-24",
+    "Hora": "11:01:37",
+    "Cliente": "N/A",
+    "Articulo": "Agua",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VMEN-2562",
+    "Fecha": "2026-07-24",
+    "Hora": "11:01:37",
+    "Cliente": "N/A",
+    "Articulo": "Hielo Suelto",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
