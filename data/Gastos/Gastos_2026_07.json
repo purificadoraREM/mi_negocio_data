@@ -97,5 +97,16 @@
     "FolioV": null,
     "Fecha": "2026-07-15",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "ramon tortillas",
+    "Monto": 61.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-07-24",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
