@@ -808,5 +808,23 @@
     "EfectivoEsperado": 435.00,
     "EfectivoContado": 435.00,
     "FondoFinal": 100.00
+  },
+  {
+    "CorteID": 352,
+    "Fecha": "2026-07-29",
+    "TotalVenta": 215.00,
+    "TotalEfectivo": 205.00,
+    "TotalTarjeta": 10.00,
+    "TotalTransferencia": 0.00,
+    "Sobro": 0.00,
+    "Falto": 0.00,
+    "Usuario": "ramon gracia",
+    "ReporteEnviado": true,
+    "Gasto": 0.00,
+    "FondoInicial": 100.00,
+    "SubTotalEsperado": 305.00,
+    "EfectivoEsperado": 305.00,
+    "EfectivoContado": 305.00,
+    "FondoFinal": 100.00
   }
 ]
