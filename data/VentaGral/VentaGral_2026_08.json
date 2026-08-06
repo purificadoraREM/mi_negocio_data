@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "Folio": "VMEN-2668",
+    "Fecha": "2026-08-06",
+    "Hora": "16:08:52",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00,
+    "Efectivo": 15.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-2669",
+    "Fecha": "2026-08-06",
+    "Hora": "16:14:25",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Subtotal": 70.00,
+    "Iva": 0.00,
+    "Total": 70.00,
+    "Efectivo": 0.00,
+    "Tarjeta": 70.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  }
+]
