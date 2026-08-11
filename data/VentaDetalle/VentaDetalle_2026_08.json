@@ -530,5 +530,47 @@
     "Subtotal": 3.00,
     "Iva": 0.00,
     "Total": 3.00
+  },
+  {
+    "Folio": "VM-1372",
+    "Fecha": "2026-08-10",
+    "Hora": "18:16:58",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 1.00,
+    "Subtotal": 1.00,
+    "Iva": 0.00,
+    "Total": 1.00
+  },
+  {
+    "Folio": "VM-1373",
+    "Fecha": "2026-08-10",
+    "Hora": "18:17:19",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 1.00,
+    "Subtotal": 1.00,
+    "Iva": 0.00,
+    "Total": 1.00
+  },
+  {
+    "Folio": "VM-1374",
+    "Fecha": "2026-08-10",
+    "Hora": "18:17:38",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 1.00,
+    "Subtotal": 1.00,
+    "Iva": 0.00,
+    "Total": 1.00
   }
 ]
