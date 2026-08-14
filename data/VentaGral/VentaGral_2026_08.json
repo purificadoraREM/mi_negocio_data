@@ -1603,5 +1603,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-1394",
+    "Fecha": "2026-08-13",
+    "Hora": "19:41:55",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 6.00,
+    "Iva": 0.00,
+    "Total": 6.00,
+    "Efectivo": 6.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
