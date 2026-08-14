@@ -2070,5 +2070,19 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VM-1407",
+    "Fecha": "2026-08-14",
+    "Hora": "14:14:44",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
   }
 ]
