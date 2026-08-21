@@ -5150,5 +5150,47 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-2860",
+    "Fecha": "2026-08-21",
+    "Hora": "12:38:06",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-2861",
+    "Fecha": "2026-08-21",
+    "Hora": "12:47:03",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-2862",
+    "Fecha": "2026-08-21",
+    "Hora": "12:58:32",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 4.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 60.00,
+    "Iva": 0.00,
+    "Total": 60.00
   }
 ]
