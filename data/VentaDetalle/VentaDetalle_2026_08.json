@@ -5444,5 +5444,19 @@
     "Subtotal": 10.00,
     "Iva": 0.00,
     "Total": 10.00
+  },
+  {
+    "Folio": "VM-1501",
+    "Fecha": "2026-08-22",
+    "Hora": "11:39:46",
+    "Cliente": "Ningún Cliente Seleccionado",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 11.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 143.00,
+    "Iva": 0.00,
+    "Total": 143.00
   }
 ]
