@@ -5780,5 +5780,33 @@
     "Subtotal": 3.00,
     "Iva": 0.00,
     "Total": 3.00
+  },
+  {
+    "Folio": "VM-1508",
+    "Fecha": "2026-08-23",
+    "Hora": "16:44:48",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
+  },
+  {
+    "Folio": "VM-1509",
+    "Fecha": "2026-08-23",
+    "Hora": "16:47:24",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
   }
 ]
