@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "ID": "GA-100",
+    "Concepto": "queso",
+    "Monto": 80.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "25/08/26",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-08-25",
+    "Cajero": "Gabriela Gracia                                                                                     "
+  }
+]
