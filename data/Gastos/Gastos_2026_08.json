@@ -9,5 +9,16 @@
     "FolioV": null,
     "Fecha": "2026-08-25",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "chileverde",
+    "Monto": 35.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "26/08/26",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-08-26",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
