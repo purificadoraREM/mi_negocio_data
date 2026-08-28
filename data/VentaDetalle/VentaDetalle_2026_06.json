@@ -10680,5 +10680,33 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VM-758",
+    "Fecha": "2026-06-30",
+    "Hora": "21:52:06",
+    "Cliente": "Publico",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 7.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 154.00,
+    "Iva": 0.00,
+    "Total": 154.00
+  },
+  {
+    "Folio": "VM-758",
+    "Fecha": "2026-06-30",
+    "Hora": "21:52:06",
+    "Cliente": "Publico",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 7.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 91.00,
+    "Iva": 0.00,
+    "Total": 91.00
   }
 ]
