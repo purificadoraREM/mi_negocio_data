@@ -208,5 +208,40 @@
     "FechaRegistro": "2026-05-28T00:00:00",
     "Direccion": "0",
     "Telefono": "0"
+  },
+  {
+    "ID": "CM-31",
+    "Nombre": "el antojo 18 (lomas)",
+    "FechaRegistro": "2026-06-05T00:00:00",
+    "Direccion": "0",
+    "Telefono": "6624136155"
+  },
+  {
+    "ID": "CM-32",
+    "Nombre": "altares",
+    "FechaRegistro": "2026-06-05T00:00:00",
+    "Direccion": "0",
+    "Telefono": "0"
+  },
+  {
+    "ID": "CM-33",
+    "Nombre": "mariachi",
+    "FechaRegistro": "2026-06-05T00:00:00",
+    "Direccion": "0",
+    "Telefono": "0"
+  },
+  {
+    "ID": "CM-34",
+    "Nombre": "zona militar",
+    "FechaRegistro": "2026-06-12T00:00:00",
+    "Direccion": "0",
+    "Telefono": "0"
+  },
+  {
+    "ID": "CM-35",
+    "Nombre": "aquacar",
+    "FechaRegistro": "2026-07-10T00:00:00",
+    "Direccion": "0",
+    "Telefono": "0"
   }
 ]
