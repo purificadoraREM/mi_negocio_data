@@ -9613,5 +9613,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-758",
+    "Fecha": "2026-06-30",
+    "Hora": "21:52:06",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 245.00,
+    "Iva": 0.00,
+    "Total": 245.00,
+    "Efectivo": 245.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Admin"
   }
 ]
