@@ -8146,5 +8146,47 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VMEN-2978",
+    "Fecha": "2026-08-31",
+    "Hora": "11:37:37",
+    "Cliente": "N/A",
+    "Articulo": "Agua",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
+  },
+  {
+    "Folio": "VMEN-2978",
+    "Fecha": "2026-08-31",
+    "Hora": "11:37:37",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 3kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 25.00,
+    "Subtotal": 25.00,
+    "Iva": 0.00,
+    "Total": 25.00
+  },
+  {
+    "Folio": "VM-1570",
+    "Fecha": "2026-08-31",
+    "Hora": "11:37:48",
+    "Cliente": "Ningún Cliente Seleccionado",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 7.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 91.00,
+    "Iva": 0.00,
+    "Total": 91.00
   }
 ]
