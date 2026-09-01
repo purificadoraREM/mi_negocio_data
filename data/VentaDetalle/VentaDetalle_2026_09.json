@@ -124,5 +124,19 @@
     "Subtotal": 5.00,
     "Iva": 0.00,
     "Total": 5.00
+  },
+  {
+    "Folio": "VMEN-2991",
+    "Fecha": "2026-09-01",
+    "Hora": "11:20:25",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
   }
 ]
