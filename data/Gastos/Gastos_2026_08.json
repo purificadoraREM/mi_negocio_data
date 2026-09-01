@@ -20,5 +20,16 @@
     "FolioV": null,
     "Fecha": "2026-08-26",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "papel 2",
+    "Monto": 20.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "31/08/26",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-08-31",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
