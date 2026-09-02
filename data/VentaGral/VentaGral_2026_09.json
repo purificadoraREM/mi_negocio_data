@@ -763,5 +763,50 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-1599",
+    "Fecha": "2026-09-02",
+    "Hora": "11:36:05",
+    "Cliente": "aquacar",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00,
+    "Efectivo": 130.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-1600",
+    "Fecha": "2026-09-02",
+    "Hora": "11:37:54",
+    "Cliente": "aquacar",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 13.00,
+    "Iva": 0.00,
+    "Total": 13.00,
+    "Efectivo": 13.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-1601",
+    "Fecha": "2026-09-02",
+    "Hora": "11:51:49",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00,
+    "Efectivo": 5.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
