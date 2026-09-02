@@ -255,19 +255,19 @@
     "Usuario": "ESP32"
   },
   {
-    "Folio": "VM-1584",
+    "Folio": "VMEN-3001",
     "Fecha": "2026-09-01",
-    "Hora": "00:00:00",
-    "Cliente": "Dulceria Sahuaro",
-    "TipoDeCompra": "Mayoreo",
+    "Hora": "18:33:08",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
     "TipoDePago": "Efectivo",
-    "Subtotal": 13.00,
+    "Subtotal": 15.00,
     "Iva": 0.00,
-    "Total": 13.00,
-    "Efectivo": 13.00,
+    "Total": 15.00,
+    "Efectivo": 15.00,
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
-    "Usuario": "Admin"
+    "Usuario": "Gabriela Gracia"
   },
   {
     "Folio": "VMEN-2997",
@@ -315,18 +315,33 @@
     "Usuario": "Gabriela Gracia"
   },
   {
-    "Folio": "VM-1584",
+    "Folio": "VMEN-3002",
     "Fecha": "2026-09-01",
-    "Hora": "00:00:00",
-    "Cliente": "Dulceria Sahuaro",
-    "TipoDeCompra": "Mayoreo",
+    "Hora": "18:42:07",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
     "TipoDePago": "Efectivo",
-    "Subtotal": 22.00,
+    "Subtotal": 35.00,
     "Iva": 0.00,
-    "Total": 22.00,
-    "Efectivo": 22.00,
+    "Total": 35.00,
+    "Efectivo": 35.00,
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
-    "Usuario": "Admin"
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-3000",
+    "Fecha": "2026-09-01",
+    "Hora": "18:20:40",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00,
+    "Efectivo": 35.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
