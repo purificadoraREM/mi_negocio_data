@@ -9,5 +9,16 @@
     "FolioV": null,
     "Fecha": "2026-09-02",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "Bolsas tapanosa ",
+    "Monto": 300.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "100 bolsas ",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-02",
+    "Cajero": "Admin                                                                                               "
   }
 ]
