@@ -20,5 +20,38 @@
     "FolioV": null,
     "Fecha": "2026-09-02",
     "Cajero": "Admin                                                                                               "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "gasolina",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "gasolina rendichicas",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-03",
+    "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "prueba",
+    "Monto": 1.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "prueba",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-03",
+    "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "prueba",
+    "Monto": 1.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "prueba",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-03",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
