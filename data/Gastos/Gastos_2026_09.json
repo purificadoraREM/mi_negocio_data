@@ -53,5 +53,16 @@
     "FolioV": null,
     "Fecha": "2026-09-03",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "maruchan y sabritas",
+    "Monto": 50.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-04",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
