@@ -2658,5 +2658,33 @@
     "Subtotal": 45.00,
     "Iva": 0.00,
     "Total": 45.00
+  },
+  {
+    "Folio": "VM-1647",
+    "Fecha": "2026-09-05",
+    "Hora": "00:00:00",
+    "Cliente": "aquacar",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 10.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 130.00,
+    "Iva": 0.00,
+    "Total": 130.00
+  },
+  {
+    "Folio": "VM-1648",
+    "Fecha": "2026-09-05",
+    "Hora": "00:00:00",
+    "Cliente": "Público en general",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Transferencia",
+    "Cantidad": 5.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 110.00,
+    "Iva": 0.00,
+    "Total": 110.00
   }
 ]
