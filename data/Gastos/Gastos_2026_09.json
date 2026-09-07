@@ -108,5 +108,16 @@
     "FolioV": null,
     "Fecha": "2026-09-04",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "pañales",
+    "Monto": 470.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "pañales esthela",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-06",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
