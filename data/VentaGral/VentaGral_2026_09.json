@@ -3478,5 +3478,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-1695",
+    "Fecha": "2026-09-08",
+    "Hora": "15:09:41",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 2.00,
+    "Iva": 0.00,
+    "Total": 2.00,
+    "Efectivo": 2.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-1696",
+    "Fecha": "2026-09-08",
+    "Hora": "15:10:31",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 2.00,
+    "Iva": 0.00,
+    "Total": 2.00,
+    "Efectivo": 2.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
