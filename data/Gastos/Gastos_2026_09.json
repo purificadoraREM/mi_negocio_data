@@ -130,5 +130,16 @@
     "FolioV": null,
     "Fecha": "2026-09-07",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "tarjeta ml",
+    "Monto": 7465.74,
+    "MetodoDePago": "Tarjeta",
+    "Notas": "pago para pagar luz",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-08",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
