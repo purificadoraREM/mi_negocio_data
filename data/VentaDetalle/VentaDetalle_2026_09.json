@@ -4030,5 +4030,33 @@
     "Subtotal": 50.00,
     "Iva": 0.00,
     "Total": 50.00
+  },
+  {
+    "Folio": "VMEN-3113",
+    "Fecha": "2026-09-09",
+    "Hora": "11:00:03",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 20.00,
+    "Iva": 0.00,
+    "Total": 20.00
+  },
+  {
+    "Folio": "VMEN-3113",
+    "Fecha": "2026-09-09",
+    "Hora": "11:00:03",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles ROSCA",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
