@@ -3708,5 +3708,33 @@
     "Subtotal": 2.00,
     "Iva": 0.00,
     "Total": 2.00
+  },
+  {
+    "Folio": "VMEN-3102",
+    "Fecha": "2026-09-08",
+    "Hora": "17:22:05",
+    "Cliente": "N/A",
+    "Articulo": "Hielo Suelto",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
+  },
+  {
+    "Folio": "VMEN-3102",
+    "Fecha": "2026-09-08",
+    "Hora": "17:22:05",
+    "Cliente": "N/A",
+    "Articulo": "Agua",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
   }
 ]
