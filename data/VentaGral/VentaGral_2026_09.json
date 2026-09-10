@@ -4513,5 +4513,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-1723",
+    "Fecha": "2026-09-10",
+    "Hora": "00:00:00",
+    "Cliente": "AQUACAR",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 169.00,
+    "Iva": 0.00,
+    "Total": 169.00,
+    "Efectivo": 169.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-1724",
+    "Fecha": "2026-09-10",
+    "Hora": "00:00:00",
+    "Cliente": "LAS TORRES",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 330.00,
+    "Iva": 0.00,
+    "Total": 330.00,
+    "Efectivo": 330.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
   }
 ]
