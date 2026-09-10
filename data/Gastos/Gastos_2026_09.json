@@ -141,5 +141,16 @@
     "FolioV": null,
     "Fecha": "2026-09-08",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "didi ",
+    "Monto": 65.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-09",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
