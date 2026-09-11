@@ -4884,5 +4884,19 @@
     "Subtotal": 330.00,
     "Iva": 0.00,
     "Total": 330.00
+  },
+  {
+    "Folio": "VM-1725",
+    "Fecha": "2026-09-10",
+    "Hora": "17:03:36",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
