@@ -5164,5 +5164,33 @@
     "Subtotal": 120.00,
     "Iva": 0.00,
     "Total": 120.00
+  },
+  {
+    "Folio": "VMEN-3150",
+    "Fecha": "2026-09-11",
+    "Hora": "10:01:48",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-3151",
+    "Fecha": "2026-09-11",
+    "Hora": "10:15:56",
+    "Cliente": "N/A",
+    "Articulo": "Agua",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
   }
 ]
