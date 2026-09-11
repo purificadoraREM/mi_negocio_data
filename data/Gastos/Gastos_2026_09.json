@@ -152,5 +152,16 @@
     "FolioV": null,
     "Fecha": "2026-09-09",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "gasolina altima",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "gasolina",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-10",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
