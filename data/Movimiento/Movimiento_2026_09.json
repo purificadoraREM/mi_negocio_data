@@ -3442,5 +3442,17 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 10164,
+    "ProductoID": 4,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-09-12",
+    "StockAntesMov": -149,
+    "StockDespMov": -150,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
   }
 ]
