@@ -5398,5 +5398,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-1748",
+    "Fecha": "2026-09-12",
+    "Hora": "21:03:17",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00,
+    "Efectivo": 10.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
