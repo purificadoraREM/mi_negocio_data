@@ -6028,5 +6028,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-1778",
+    "Fecha": "2026-09-14",
+    "Hora": "16:03:17",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 1.00,
+    "Iva": 0.00,
+    "Total": 1.00,
+    "Efectivo": 1.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
+  },
+  {
+    "Folio": "VM-1779",
+    "Fecha": "2026-09-14",
+    "Hora": "16:03:46",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00,
+    "Efectivo": 5.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
