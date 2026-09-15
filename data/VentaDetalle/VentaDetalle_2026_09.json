@@ -6480,5 +6480,33 @@
     "Subtotal": 75.00,
     "Iva": 0.00,
     "Total": 75.00
+  },
+  {
+    "Folio": "VM-1780",
+    "Fecha": "2026-09-14",
+    "Hora": "17:19:56",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
+  },
+  {
+    "Folio": "VM-1781",
+    "Fecha": "2026-09-14",
+    "Hora": "17:20:48",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 5.00,
+    "Subtotal": 5.00,
+    "Iva": 0.00,
+    "Total": 5.00
   }
 ]
