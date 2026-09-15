@@ -163,5 +163,27 @@
     "FolioV": null,
     "Fecha": "2026-09-10",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "gasolina",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-15",
+    "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "plagafin",
+    "Monto": 350.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "cebadero ratones",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-15",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
