@@ -7033,5 +7033,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-1826",
+    "Fecha": "2026-09-17",
+    "Hora": "11:57:57",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 1.00,
+    "Iva": 0.00,
+    "Total": 1.00,
+    "Efectivo": 1.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
