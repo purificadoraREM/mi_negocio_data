@@ -4978,5 +4978,89 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 10292,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-09-18",
+    "StockAntesMov": 1285,
+    "StockDespMov": 1284,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 10293,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-09-18",
+    "StockAntesMov": 1284,
+    "StockDespMov": 1283,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 10294,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-09-18",
+    "StockAntesMov": 1283,
+    "StockDespMov": 1282,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 10295,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-09-18",
+    "StockAntesMov": 1282,
+    "StockDespMov": 1281,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 10296,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-09-18",
+    "StockAntesMov": 1281,
+    "StockDespMov": 1280,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 10297,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-09-18",
+    "StockAntesMov": 1280,
+    "StockDespMov": 1279,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
+  },
+  {
+    "MovimientoID": 10298,
+    "ProductoID": 4,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-09-18",
+    "StockAntesMov": -160,
+    "StockDespMov": -161,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
   }
 ]
