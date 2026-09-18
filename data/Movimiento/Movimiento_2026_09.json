@@ -4954,5 +4954,29 @@
     "CostoUnitario": 0.00,
     "Referencia": "salidaxventa",
     "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 10290,
+    "ProductoID": 3,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-09-17",
+    "StockAntesMov": -519,
+    "StockDespMov": -520,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "Venta"
+  },
+  {
+    "MovimientoID": 10291,
+    "ProductoID": 8,
+    "Tipo": "SALIDA",
+    "Cantidad": 1,
+    "Fecha": "2026-09-17",
+    "StockAntesMov": 1286,
+    "StockDespMov": 1285,
+    "CostoUnitario": 0.00,
+    "Referencia": "salidaxventa",
+    "Observaciones": "VentaMayoreo"
   }
 ]
