@@ -8230,5 +8230,19 @@
     "Subtotal": 65.00,
     "Iva": 0.00,
     "Total": 65.00
+  },
+  {
+    "Folio": "VMEN-3232",
+    "Fecha": "2026-09-18",
+    "Hora": "16:26:12",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 4.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 60.00,
+    "Iva": 0.00,
+    "Total": 60.00
   }
 ]
