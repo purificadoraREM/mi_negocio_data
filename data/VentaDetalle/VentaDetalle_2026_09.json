@@ -8216,5 +8216,19 @@
     "Subtotal": 25.00,
     "Iva": 0.00,
     "Total": 25.00
+  },
+  {
+    "Folio": "VM-1852",
+    "Fecha": "2026-09-18",
+    "Hora": "14:46:12",
+    "Cliente": "AQUACAR",
+    "Articulo": "Hielo M 3kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 5.00,
+    "PrecioUnitario": 13.00,
+    "Subtotal": 65.00,
+    "Iva": 0.00,
+    "Total": 65.00
   }
 ]
