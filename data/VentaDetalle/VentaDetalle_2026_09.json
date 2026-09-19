@@ -8272,5 +8272,19 @@
     "Subtotal": 12.00,
     "Iva": 0.00,
     "Total": 12.00
+  },
+  {
+    "Folio": "VM-1853",
+    "Fecha": "2026-09-18",
+    "Hora": "17:20:00",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
