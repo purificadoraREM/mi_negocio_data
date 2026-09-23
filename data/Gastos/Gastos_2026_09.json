@@ -185,5 +185,27 @@
     "FolioV": null,
     "Fecha": "2026-09-15",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "cumple niña",
+    "Monto": 2310.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "gastos cumple estela",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-16",
+    "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "gasolina",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "altima gasolina",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-09-18",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
