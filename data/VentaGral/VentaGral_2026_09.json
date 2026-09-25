@@ -9058,5 +9058,35 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VMEN-3276",
+    "Fecha": "2026-09-25",
+    "Hora": "10:10:59",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00,
+    "Efectivo": 15.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VMEN-3277",
+    "Fecha": "2026-09-25",
+    "Hora": "10:28:38",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 20.00,
+    "Iva": 0.00,
+    "Total": 20.00,
+    "Efectivo": 20.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
   }
 ]
