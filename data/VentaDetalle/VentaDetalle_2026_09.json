@@ -9658,5 +9658,33 @@
     "Subtotal": 75.00,
     "Iva": 0.00,
     "Total": 75.00
+  },
+  {
+    "Folio": "VMEN-3279",
+    "Fecha": "2026-09-25",
+    "Hora": "11:39:11",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Cantidad": 5.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 75.00,
+    "Iva": 0.00,
+    "Total": 75.00
+  },
+  {
+    "Folio": "VMEN-3280",
+    "Fecha": "2026-09-25",
+    "Hora": "11:48:34",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
   }
 ]
