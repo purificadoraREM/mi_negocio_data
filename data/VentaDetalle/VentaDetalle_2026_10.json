@@ -68,5 +68,19 @@
     "Subtotal": 15.00,
     "Iva": 0.00,
     "Total": 15.00
+  },
+  {
+    "Folio": "VM-1924",
+    "Fecha": "2026-10-01",
+    "Hora": "15:23:40",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 9.00,
+    "Subtotal": 9.00,
+    "Iva": 0.00,
+    "Total": 9.00
   }
 ]
