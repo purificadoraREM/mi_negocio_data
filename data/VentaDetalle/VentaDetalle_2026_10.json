@@ -1,0 +1,16 @@
+[
+  {
+    "Folio": "VM-1923",
+    "Fecha": "2026-10-01",
+    "Hora": "09:16:20",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 2.00,
+    "Subtotal": 2.00,
+    "Iva": 0.00,
+    "Total": 2.00
+  }
+]
