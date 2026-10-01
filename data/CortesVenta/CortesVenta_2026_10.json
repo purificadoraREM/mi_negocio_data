@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "CorteID": 436,
+    "Fecha": "2026-10-01",
+    "TotalVenta": 15.00,
+    "TotalEfectivo": 15.00,
+    "TotalTarjeta": 0.00,
+    "TotalTransferencia": 0.00,
+    "Sobro": 0.00,
+    "Falto": 0.00,
+    "Usuario": "ramon gracia",
+    "ReporteEnviado": true,
+    "Gasto": 0.00,
+    "FondoInicial": 100.00,
+    "SubTotalEsperado": 115.00,
+    "EfectivoEsperado": 115.00,
+    "EfectivoContado": 115.00,
+    "FondoFinal": 100.00
+  }
+]
