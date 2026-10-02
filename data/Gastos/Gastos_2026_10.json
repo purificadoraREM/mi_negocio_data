@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "ID": "GA-100",
+    "Concepto": "remisiones",
+    "Monto": 40.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": " 2 remisiones 20 c/u",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-10-02",
+    "Cajero": "Gabriela Gracia                                                                                     "
+  }
+]
