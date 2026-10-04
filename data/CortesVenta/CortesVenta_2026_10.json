@@ -90,10 +90,10 @@
     "FondoFinal": 100.00
   },
   {
-    "CorteID": 441,
+    "CorteID": 442,
     "Fecha": "2026-10-03",
-    "TotalVenta": 95.00,
-    "TotalEfectivo": 60.00,
+    "TotalVenta": 125.00,
+    "TotalEfectivo": 90.00,
     "TotalTarjeta": 35.00,
     "TotalTransferencia": 0.00,
     "Sobro": 0.00,
@@ -102,9 +102,9 @@
     "ReporteEnviado": true,
     "Gasto": 0.00,
     "FondoInicial": 100.00,
-    "SubTotalEsperado": 160.00,
-    "EfectivoEsperado": 160.00,
-    "EfectivoContado": 160.00,
+    "SubTotalEsperado": 190.00,
+    "EfectivoEsperado": 190.00,
+    "EfectivoContado": 190.00,
     "FondoFinal": 100.00
   }
 ]
