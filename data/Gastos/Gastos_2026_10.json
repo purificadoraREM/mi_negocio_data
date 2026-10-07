@@ -9,5 +9,38 @@
     "FolioV": null,
     "Fecha": "2026-10-02",
     "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "papel baño",
+    "Monto": 20.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-10-06",
+    "Cajero": "Gabriela Gracia                                                                                     "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "tapanosa",
+    "Monto": 707.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "tapas sello\n2 tapa rosca\n1 garrafón asa\n1 garrafón sin asa",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-10-06",
+    "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "gasolina",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "gasolina altima",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-10-05",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
