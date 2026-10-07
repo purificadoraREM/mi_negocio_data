@@ -42,5 +42,16 @@
     "FolioV": null,
     "Fecha": "2026-10-05",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "gaeolina",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "altima gasolina",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-10-07",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
