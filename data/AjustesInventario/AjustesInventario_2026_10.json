@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "AjusteID": 40,
+    "ProductoID": 1,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 555,
+    "Motivo": "compra de tapas",
+    "Fecha": "2026-10-06",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 41,
+    "ProductoID": 4,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 64,
+    "Motivo": "ajustar a 0 ",
+    "Fecha": "2026-10-06",
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 42,
+    "ProductoID": 2,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 26,
+    "Motivo": "ajusrtar a 0",
+    "Fecha": "2026-10-06",
+    "Usuario": "Gabriela Gracia"
+  }
+]
