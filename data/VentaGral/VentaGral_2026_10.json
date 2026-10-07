@@ -1693,5 +1693,35 @@
     "Tarjeta": 35.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-3361",
+    "Fecha": "2026-10-06",
+    "Hora": "18:31:02",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00,
+    "Efectivo": 0.00,
+    "Tarjeta": 30.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-1985",
+    "Fecha": "2026-10-06",
+    "Hora": "00:00:00",
+    "Cliente": "PURIFICADORA(VILLAS)",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 505.00,
+    "Iva": 0.00,
+    "Total": 505.00,
+    "Efectivo": 505.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
   }
 ]
