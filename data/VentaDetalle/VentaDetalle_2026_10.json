@@ -2056,5 +2056,33 @@
     "Subtotal": 20.00,
     "Iva": 0.00,
     "Total": 20.00
+  },
+  {
+    "Folio": "VMEN-3371",
+    "Fecha": "2026-10-07",
+    "Hora": "11:24:35",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 8.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 80.00,
+    "Iva": 0.00,
+    "Total": 80.00
+  },
+  {
+    "Folio": "VMEN-3372",
+    "Fecha": "2026-10-07",
+    "Hora": "11:34:21",
+    "Cliente": "N/A",
+    "Articulo": "Hielo Suelto",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 6.00,
+    "Subtotal": 6.00,
+    "Iva": 0.00,
+    "Total": 6.00
   }
 ]
