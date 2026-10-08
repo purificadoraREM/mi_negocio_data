@@ -25,5 +25,14 @@
     "Motivo": "ajusrtar a 0",
     "Fecha": "2026-10-06",
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "AjusteID": 43,
+    "ProductoID": 2,
+    "Tipo": "ENTRADA",
+    "CantidadAjustada": 216,
+    "Motivo": "ajuste ",
+    "Fecha": "2026-10-08",
+    "Usuario": "ramon gracia"
   }
 ]
