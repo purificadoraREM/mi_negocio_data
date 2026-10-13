@@ -3932,5 +3932,19 @@
     "Subtotal": 352.00,
     "Iva": 0.00,
     "Total": 352.00
+  },
+  {
+    "Folio": "VM-2043",
+    "Fecha": "2026-10-12",
+    "Hora": "19:12:41",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
