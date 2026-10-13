@@ -53,5 +53,16 @@
     "FolioV": null,
     "Fecha": "2026-10-07",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "gasolina",
+    "Monto": 500.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "gasolina",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-10-12",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
