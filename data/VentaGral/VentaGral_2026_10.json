@@ -3688,5 +3688,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 352.00,
     "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VM-2043",
+    "Fecha": "2026-10-12",
+    "Hora": "19:12:41",
+    "Cliente": "Publico",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00,
+    "Efectivo": 10.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ESP32"
   }
 ]
