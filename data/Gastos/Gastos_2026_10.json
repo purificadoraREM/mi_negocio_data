@@ -64,5 +64,16 @@
     "FolioV": null,
     "Fecha": "2026-10-12",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "gasolina y clase esthela",
+    "Monto": 850.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-10-09",
+    "Cajero": "ramon gracia                                                                                        "
   }
 ]
