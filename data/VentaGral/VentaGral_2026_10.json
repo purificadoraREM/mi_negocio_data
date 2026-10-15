@@ -4288,5 +4288,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VM-2057",
+    "Fecha": "2026-10-14",
+    "Hora": "00:00:00",
+    "Cliente": "PALO VERDE 2",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 354.00,
+    "Iva": 0.00,
+    "Total": 354.00,
+    "Efectivo": 354.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
   }
 ]
