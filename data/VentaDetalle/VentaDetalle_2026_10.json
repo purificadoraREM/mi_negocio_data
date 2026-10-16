@@ -5248,5 +5248,19 @@
     "Subtotal": 35.00,
     "Iva": 0.00,
     "Total": 35.00
+  },
+  {
+    "Folio": "VMEN-3486",
+    "Fecha": "2026-10-15",
+    "Hora": "20:31:51",
+    "Cliente": "N/A",
+    "Articulo": "HIELO 20KG",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 140.00,
+    "Subtotal": 140.00,
+    "Iva": 0.00,
+    "Total": 140.00
   }
 ]
