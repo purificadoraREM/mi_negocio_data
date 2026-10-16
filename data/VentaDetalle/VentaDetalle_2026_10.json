@@ -5206,5 +5206,33 @@
     "Subtotal": 30.00,
     "Iva": 0.00,
     "Total": 30.00
+  },
+  {
+    "Folio": "VMEN-3484",
+    "Fecha": "2026-10-15",
+    "Hora": "19:22:46",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Presión",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 2.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
+  },
+  {
+    "Folio": "VM-2069",
+    "Fecha": "2026-10-15",
+    "Hora": "00:00:00",
+    "Cliente": "PURIFICADORA(VILLAS)",
+    "Articulo": "Hielo M 5kg",
+    "TipoDeCompra": "Mayoreo",
+    "TipoDePago": "Transferencia",
+    "Cantidad": 20.00,
+    "PrecioUnitario": 22.00,
+    "Subtotal": 440.00,
+    "Iva": 0.00,
+    "Total": 440.00
   }
 ]
