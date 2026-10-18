@@ -75,5 +75,16 @@
     "FolioV": null,
     "Fecha": "2026-10-09",
     "Cajero": "ramon gracia                                                                                        "
+  },
+  {
+    "ID": "GA-100",
+    "Concepto": "michel",
+    "Monto": 25.00,
+    "MetodoDePago": "Efectivo",
+    "Notas": "",
+    "Categoria": null,
+    "FolioV": null,
+    "Fecha": "2026-10-17",
+    "Cajero": "Gabriela Gracia                                                                                     "
   }
 ]
