@@ -6508,5 +6508,35 @@
     "Tarjeta": 20.00,
     "Transferencia": 0.00,
     "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-3549",
+    "Fecha": "2026-10-21",
+    "Hora": "17:20:15",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 80.00,
+    "Iva": 0.00,
+    "Total": 80.00,
+    "Efectivo": 80.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
+  },
+  {
+    "Folio": "VMEN-3550",
+    "Fecha": "2026-10-21",
+    "Hora": "17:39:39",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Subtotal": 65.00,
+    "Iva": 0.00,
+    "Total": 65.00,
+    "Efectivo": 65.00,
+    "Tarjeta": 0.00,
+    "Transferencia": 0.00,
+    "Usuario": "Gabriela Gracia"
   }
 ]
