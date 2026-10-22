@@ -7040,5 +7040,47 @@
     "Subtotal": 20.00,
     "Iva": 0.00,
     "Total": 20.00
+  },
+  {
+    "Folio": "VMEN-3549",
+    "Fecha": "2026-10-21",
+    "Hora": "17:20:15",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 8.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 80.00,
+    "Iva": 0.00,
+    "Total": 80.00
+  },
+  {
+    "Folio": "VMEN-3550",
+    "Fecha": "2026-10-21",
+    "Hora": "17:39:39",
+    "Cliente": "N/A",
+    "Articulo": "Promoción Miercoles PRESIÓN",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 3.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 30.00,
+    "Iva": 0.00,
+    "Total": 30.00
+  },
+  {
+    "Folio": "VMEN-3550",
+    "Fecha": "2026-10-21",
+    "Hora": "17:39:39",
+    "Cliente": "N/A",
+    "Articulo": "Hielo 5kg",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 35.00,
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00
   }
 ]
