@@ -7712,5 +7712,19 @@
     "Subtotal": 4.00,
     "Iva": 0.00,
     "Total": 4.00
+  },
+  {
+    "Folio": "VMEN-3571",
+    "Fecha": "2026-10-23",
+    "Hora": "12:12:54",
+    "Cliente": "N/A",
+    "Articulo": "Hielo Suelto",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
   }
 ]
