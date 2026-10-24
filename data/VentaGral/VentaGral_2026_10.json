@@ -7453,5 +7453,20 @@
     "Tarjeta": 0.00,
     "Transferencia": 0.00,
     "Usuario": "ramon gracia"
+  },
+  {
+    "Folio": "VMEN-3581",
+    "Fecha": "2026-10-24",
+    "Hora": "13:40:17",
+    "Cliente": "N/A",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Tarjeta",
+    "Subtotal": 35.00,
+    "Iva": 0.00,
+    "Total": 35.00,
+    "Efectivo": 0.00,
+    "Tarjeta": 35.00,
+    "Transferencia": 0.00,
+    "Usuario": "ramon gracia"
   }
 ]
