@@ -720,21 +720,21 @@
     "FondoFinal": 100.00
   },
   {
-    "CorteID": 478,
+    "CorteID": 479,
     "Fecha": "2026-10-26",
     "TotalVenta": 425.00,
     "TotalEfectivo": 375.00,
     "TotalTarjeta": 50.00,
     "TotalTransferencia": 0.00,
-    "Sobro": 50.00,
+    "Sobro": 30.00,
     "Falto": 0.00,
     "Usuario": "ramon gracia",
-    "ReporteEnviado": false,
+    "ReporteEnviado": true,
     "Gasto": 0.00,
     "FondoInicial": 100.00,
     "SubTotalEsperado": 475.00,
     "EfectivoEsperado": 475.00,
-    "EfectivoContado": 525.00,
+    "EfectivoContado": 505.00,
     "FondoFinal": 100.00
   }
 ]
