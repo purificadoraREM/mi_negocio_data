@@ -10246,5 +10246,19 @@
     "Subtotal": 1.00,
     "Iva": 0.00,
     "Total": 1.00
+  },
+  {
+    "Folio": "VM-2241",
+    "Fecha": "2026-10-31",
+    "Hora": "15:27:22",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
