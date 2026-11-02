@@ -292,5 +292,19 @@
     "Subtotal": 30.00,
     "Iva": 0.00,
     "Total": 30.00
+  },
+  {
+    "Folio": "VMEN-3635",
+    "Fecha": "2026-11-02",
+    "Hora": "12:37:59",
+    "Cliente": "N/A",
+    "Articulo": "Relleno Tapa Rosca",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 15.00,
+    "Subtotal": 15.00,
+    "Iva": 0.00,
+    "Total": 15.00
   }
 ]
