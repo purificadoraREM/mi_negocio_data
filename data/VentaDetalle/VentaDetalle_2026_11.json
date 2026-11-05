@@ -908,5 +908,19 @@
     "Subtotal": 135.00,
     "Iva": 0.00,
     "Total": 135.00
+  },
+  {
+    "Folio": "VM-2292",
+    "Fecha": "2026-11-05",
+    "Hora": "13:30:50",
+    "Cliente": "Publico",
+    "Articulo": "Monedero",
+    "TipoDeCompra": "Menudeo",
+    "TipoDePago": "Efectivo",
+    "Cantidad": 1.00,
+    "PrecioUnitario": 10.00,
+    "Subtotal": 10.00,
+    "Iva": 0.00,
+    "Total": 10.00
   }
 ]
